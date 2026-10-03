@@ -1,0 +1,84 @@
+{
+  "contract": "sphere-data/v1",
+  "site": "palsphere",
+  "siteUrl": "https://palsphere.app",
+  "revision": "2026-09-30T14:24:00.303Z",
+  "extractedAt": "2026-09-30T14:24:00.303Z",
+  "game": {
+    "name": "Palworld",
+    "version": "1.0.3"
+  },
+  "sourceLabel": "Palworld client data tables",
+  "license": {
+    "name": "Non-commercial attribution",
+    "url": "https://palsphere.app/about#data-license",
+    "note": "Catalog dumps may be cited for personal, educational, and non-commercial use with attribution to PalSphere. Game IP remains with Pocketpair Inc."
+  },
+  "schema": {
+    "stableIds": [
+      "codename",
+      "id",
+      "slug",
+      "productId",
+      "child"
+    ],
+    "formats": [
+      "json",
+      "csv"
+    ],
+    "stripped": [
+      "icon paths",
+      "texture paths",
+      "binary / dump paths",
+      "news text",
+      "guide copy"
+    ]
+  },
+  "datasets": [
+    {
+      "id": "species",
+      "description": "Pal species catalog with stats, work suitability, and breeding fields",
+      "formats": {
+        "json": "/data/v1/species.json",
+        "csv": "/data/v1/species.csv"
+      },
+      "recordCount": 333
+    },
+    {
+      "id": "items",
+      "description": "Item groups and variants from DT item tables",
+      "formats": {
+        "json": "/data/v1/items.json",
+        "csv": "/data/v1/items.csv"
+      },
+      "recordCount": 1600
+    },
+    {
+      "id": "recipes",
+      "description": "Crafting recipes keyed by product item id",
+      "formats": {
+        "json": "/data/v1/recipes.json",
+        "csv": "/data/v1/recipes.csv"
+      },
+      "recordCount": 1437
+    },
+    {
+      "id": "skills",
+      "description": "Active, partner, and passive skill catalogs",
+      "formats": {
+        "json": "/data/v1/skills.json",
+        "csv": "/data/v1/skills.csv"
+      },
+      "recordCount": 705
+    },
+    {
+      "id": "breeding-unique",
+      "description": "Unique breeding combination overrides (DT_PalCombiUnique)",
+      "formats": {
+        "json": "/data/v1/breeding-unique.json",
+        "csv": "/data/v1/breeding-unique.csv"
+      },
+      "recordCount": 257
+    }
+  ]
+}

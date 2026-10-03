@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite PalSphere and link to https://palsphere.app."
+title: "PalSphere Palworld Data"
+type: dataset
+authors:
+  - name: "PalSphere"
+    website: "https://palsphere.app"
+url: "https://palsphere.app/data"
+abstract: "Structured Palworld game data (species, items, recipes, skills, unique breeding combinations) extracted from the Palworld client data tables, in JSON and CSV."
+keywords:
+  - palworld
+  - game-data
+  - breeding-calculator
+  - dataset
+version: "1.0.3"

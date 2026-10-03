@@ -1,0 +1,1601 @@
+id,displayName,category,typeA,typeB,weight,maxStack,price
+Accessory_TalentChecker,Ability Glasses,accessory,Accessory,Accessory,1,1,51600
+Accessory_AirDash1,Air Dash Boots,accessory,Accessory,Accessory,2,1,54120
+Accessory_SuperJumpAir_2,Air Walker Ex,accessory,Accessory,Accessory,2,1,406440
+Accessory_JumpAir_1,Air Walker Mk I,accessory,Accessory,Accessory,2,1,133920
+Accessory_JumpAir_2,Air Walker Mk II,accessory,Accessory,Accessory,2,1,210360
+Accessory_SuperJumpAir_1,Air Walker Mk III,accessory,Accessory,Accessory,2,1,272400
+Accessory_JumpPower_Increase,Anti-gravity Belt,accessory,Accessory,Accessory,2,1,23160
+Otomo_DFEarth_ElementBoost_1,Anubis's Talisman,accessory,Accessory,Accessory,2,1,48480
+Accessory_AT_1,Attack Pendant,accessory,Accessory,Accessory,2,1,16500
+Otomo_Attack_up1,Attack Support Whistle,accessory,Accessory,Accessory,2,1,21960
+Otomo_DFFire_ElementBoost_1,Blazamut's Talisman,accessory,Accessory,Accessory,2,1,38280
+Accessory_Otomo_Fire_1,Blazehowl Ring,accessory,Accessory,Accessory,2,1,31200
+Otomo_ATNormal_ElementBoost_1,Celestial Emperor's Baton,accessory,Accessory,Accessory,2,1,51480
+GasMask,Corrosive Mist Mask,accessory,Accessory,Accessory,2,1,168000
+Accessory_Otomo_Ice_1,Cryolinx Ring,accessory,Accessory,Accessory,2,1,40680
+Otomo_ElementBoost_Dark_1,Dark Support Whistle,accessory,Accessory,Accessory,2,1,16560
+Accessory_defense_1,Defense Pendant,accessory,Accessory,Accessory,2,1,15540
+Otomo_Defense_up1,Defense Support Whistle,accessory,Accessory,Accessory,2,1,32400
+Otomo_ATDragon_ElementBoost_1,Divine Dragon's Baton,accessory,Accessory,Accessory,2,1,67200
+Accessory_PPAT_1,Dogen Emblem,accessory,Accessory,Accessory,2,1,70620
+Accessory_AirDash2,Double Air Dash Boots,accessory,Accessory,Accessory,2,1,153120
+Accessory_JumpCount_Increase1,Double Jump Boots,accessory,Accessory,Accessory,2,1,54120
+Otomo_ElementBoost_Dragon_1,Dragon Support Whistle,accessory,Accessory,Accessory,2,1,24960
+Otomo_ATEarth_ElementBoost_1,Earth Emperor's Baton,accessory,Accessory,Accessory,2,1,43680
+Otomo_ElementBoost_Electricity_1,Electric Support Whistle,accessory,Accessory,Accessory,2,1,16560
+Accessory_Otomo_Dargon_1,Elphidran Ring,accessory,Accessory,Accessory,2,1,35280
+Accessory_ExplosionResist,Explosion-resistant Undershirt,accessory,Accessory,Accessory,2,1,120000
+Accessory_Otomo_Water_1,Faleris Aqua Ring,accessory,Accessory,Accessory,2,1,36600
+Accessory_Otomo_Fire_2,Faleris Ring,accessory,Accessory,Accessory,2,1,34080
+Accessory_Otomo_Electricity_1,Fenglope Lux Ring,accessory,Accessory,Accessory,2,1,38280
+Otomo_ElementBoost_Fire_1,Fire Support Whistle,accessory,Accessory,Accessory,2,1,18360
+Otomo_ATFire_ElementBoost_1,Flame Emperor's Baton,accessory,Accessory,Accessory,2,1,41880
+Otomo_DFIce_ElementBoost_1,Frostallion's Talisman,accessory,Accessory,Accessory,2,1,41880
+Otomo_ElementBoost_Leaf_1,Grass Support Whistle,accessory,Accessory,Accessory,2,1,15960
+Otomo_ElementBoost_Earth_1,Ground Support Whistle,accessory,Accessory,Accessory,2,1,24960
+Otomo_PalExp_Increase_1,Growth Acceleration Bell,accessory,Accessory,Accessory,2,1,22920
+Otomo_DFNormal_ElementBoost_1,Hartalis's Talisman,accessory,Accessory,Accessory,2,1,43680
+Accessory_HeatResist_1,Heat Resistant Undershirt,accessory,Accessory,Accessory,2,1,16540
+Otomo_ATIce_ElementBoost_1,Ice Emperor's Baton,accessory,Accessory,Accessory,2,1,41880
+Otomo_ElementBoost_Ice_1,Ice Support Whistle,accessory,Accessory,Accessory,2,1,18360
+Accessory_WKMC_1,Islander's Tool Belt,accessory,Accessory,Accessory,2,1,58620
+Otomo_DFDragon_ElementBoost_1,Jetragon's Talisman,accessory,Accessory,Accessory,2,1,47280
+Accessory_Otomo_Dark_1,Katress Ring,accessory,Accessory,Accessory,2,1,34080
+Accessory_HP_1,Life Pendant,accessory,Accessory,Accessory,2,1,16500
+Otomo_ATElectricity_ElementBoost_1,Lord Of Lightning's Baton,accessory,Accessory,Accessory,2,1,40080
+Otomo_ATWater_ElementBoost_1,Lord Of The Sea's Baton,accessory,Accessory,Accessory,2,1,47280
+Otomo_ATDark_ElementBoost_1,Lord Of The Underworld's Baton,accessory,Accessory,Accessory,2,1,45480
+Otomo_DFDark_ElementBoost_1,Lyleen Noct's Talisman,accessory,Accessory,Accessory,2,1,35880
+Otomo_DFLeaf_ElementBoost_1,Lyleen's Talisman,accessory,Accessory,Accessory,2,1,39480
+Accessory_Otomo_Earth_1,Menasting Terra Ring,accessory,Accessory,Accessory,2,1,41280
+Accessory_HeatColdResist_1,Multiclimate Undershirt,accessory,Accessory,Accessory,2,1,167040
+Otomo_DFWater_ElementBoost_1,Neptilius's Talisman,accessory,Accessory,Accessory,2,1,55200
+Otomo_ElementBoost_Normal_1,Neutral Support Whistle,accessory,Accessory,Accessory,2,1,14580
+Otomo_DFElectricity_ElementBoost_1,Orserk's Talisman,accessory,Accessory,Accessory,2,1,40080
+Accessory_NonkChecker_1,Pal Tamer's Glasses,accessory,Accessory,Accessory,2,1,46200
+Accessory_WorkSpeed_1,Pendant Of Diligence,accessory,Accessory,Accessory,2,1,16500
+Accessory_Avoid_1,Phantom Ring,accessory,Accessory,Accessory,2,1,121860
+Accessory_AirDash4,Quadruple Air Dash Boots,accessory,Accessory,Accessory,2,1,1
+Accessory_JumpCount_Increase3,Quadruple Jump Boots,accessory,Accessory,Accessory,2,1,500000
+Accessory_HeatFire_1,Reptyro Charm,accessory,Accessory,Accessory,2,1,86040
+Accessory_DarkResist_1,Ring Of Dark Resistance,accessory,Accessory,Accessory,2,1,16680
+Accessory_DragonResist_1,Ring Of Dragon Resistance,accessory,Accessory,Accessory,2,1,25080
+Accessory_ThunderResist_1,Ring Of Electric Resistance,accessory,Accessory,Accessory,2,1,16680
+Accessory_FireResist_1,Ring Of Fire Resistance,accessory,Accessory,Accessory,2,1,18480
+Accessory_MaxWeightUp_01,Ring Of Freight,accessory,Accessory,Accessory,2,1,20400
+Accessory_LeafResist_1,Ring Of Grass Resistance,accessory,Accessory,Accessory,2,1,16080
+Accessory_EarthResist_1,Ring Of Ground Resistance,accessory,Accessory,Accessory,2,1,25080
+Accessory_IceResist_1,Ring Of Ice Resistance,accessory,Accessory,Accessory,2,1,18480
+Accessory_Nonkilling,Ring Of Mercy,accessory,Accessory,Accessory,2,1,16320
+Accessory_NormalResist_1,Ring Of Neutral Resistance,accessory,Accessory,Accessory,2,1,14700
+Otomo_PalConfidence_Increase_1,Ring Of Trust,accessory,Accessory,Accessory,2,1,66120
+Accessory_AquaResist_1,Ring Of Water Resistance,accessory,Accessory,Accessory,2,1,23880
+Accessory_PPDF_1,Silvegis Emblem,accessory,Accessory,Accessory,2,1,81420
+Otomo_ATLeaf_ElementBoost_1,Spirit Emperor's Baton,accessory,Accessory,Accessory,2,1,39480
+Accessory_CoolResist_1,Thermal Undershirt,accessory,Accessory,Accessory,2,1,21960
+Accessory_AirDash3,Triple Air Dash Boots,accessory,Accessory,Accessory,2,1,306600
+Accessory_JumpCount_Increase2,Triple Jump Boots,accessory,Accessory,Accessory,2,1,210600
+Accessory_Otomo_Leaf_1,Vaelet Ring,accessory,Accessory,Accessory,2,1,24480
+Accessory_HCHP_1,Vanguard Charm,accessory,Accessory,Accessory,2,1,103680
+Accessory_HCMW_1,Wandering Merchant Charm,accessory,Accessory,Accessory,2,1,103680
+Accessory_DFHP_1,Warsect Terra's Belt,accessory,Accessory,Accessory,2,1,80700
+Otomo_ElementBoost_Water_1,Water Support Whistle,accessory,Accessory,Accessory,2,1,23760
+Accessory_ColdIce_1,Wumpo Charm,accessory,Accessory,Accessory,2,1,158040
+SFArrow,Advanced Arrow,ammo,Ammo,ConsumeBullet,0.025,9999,1110
+Arrow,Arrow,ammo,Ammo,ConsumeBullet,0.025,9999,10
+AssaultRifleBullet,Assault Rifle Ammo,ammo,Ammo,ConsumeBullet,0.01,9999,90
+BeamLauncherBullet,Beam Launcher Ammo,ammo,Ammo,ConsumeBullet,0.025,9999,13660
+WidePenetrateShotgunBullet,Beam Scatter Ammo,ammo,Ammo,ConsumeBullet,0.025,9999,7830
+PalDopingShotBullet,Boost Gun Ammo,ammo,Ammo,ConsumeBullet,0.025,9999,90
+ChargeLaserRifleBullet,Charge Rifle Ammo,ammo,Ammo,ConsumeBullet,0.01,9999,1740
+RoughBullet,Coarse Ammo,ammo,Ammo,ConsumeBullet,0.025,9999,40
+SkySubmachineGunBullet,Combat Submachine Gun Ammo,ammo,Ammo,ConsumeBullet,0.025,9999,1020
+InkBullet,Decal Ink,ammo,Ammo,ConsumeBullet,0.05,9999,70
+LaserBullet,Energy Cartridge,ammo,Ammo,ConsumeBullet,0.01,9999,280
+EnergyShotgunBullet,Energy Shotgun Ammo,ammo,Ammo,ConsumeBullet,0.025,9999,990
+Arrow_Fire,Fire Arrow,ammo,Ammo,ConsumeBullet,0.025,9999,40
+FlamethrowerBullet,Flamethrower Fuel,ammo,Ammo,ConsumeBullet,0.01,9999,280
+GatlingBullet,Gatling Gun Ammo,ammo,Ammo,ConsumeBullet,0.025,9999,60
+GrenadeBullet,Grenade Ammo,ammo,Ammo,ConsumeBullet,0.1,9999,470
+HandgunBullet,Handgun Ammo,ammo,Ammo,ConsumeBullet,0.025,9999,40
+SkyAssaultRifleBullet,Heavy Assault Rifle Ammo,ammo,Ammo,ConsumeBullet,0.025,9999,1120
+LaserGatlingBullet,Laser Gatling Cartridge,ammo,Ammo,ConsumeBullet,0.025,9999,110
+MachingunBullet,Machine Gun Ammo,ammo,Ammo,ConsumeBullet,0.01,9999,1
+MagnumBullet,Magnum Ammo,ammo,Ammo,ConsumeBullet,0.025,9999,1
+SkyBowArrow,Mechanical Bow Ammo,ammo,Ammo,ConsumeBullet,0.025,9999,1730
+MeteorBullet,Meteorite Ammo,ammo,Ammo,ConsumeBullet,1,9999,360
+MissileBullet,Missile Ammo,ammo,Ammo,ConsumeBullet,1,9999,3240
+OverheatRifleBullet,Overheat Rifle Ammo,ammo,Ammo,ConsumeBullet,0.01,9999,920
+EnergyLauncherBullet,Plasma Cartridge,ammo,Ammo,ConsumeBullet,0.5,9999,2190
+ElectricArcAssaultRifleBullet,Plasma Rifle Ammo,ammo,Ammo,ConsumeBullet,0.025,9999,3910
+Arrow_Poison,Poison Arrow,ammo,Ammo,ConsumeBullet,0.025,9999,40
+SkyShotgunBullet,Prototype Shotgun Ammo,ammo,Ammo,ConsumeBullet,0.025,9999,3870
+ReinforcedArrow,Reinforced Arrow,ammo,Ammo,ConsumeBullet,0.025,9999,370
+RifleBullet,Rifle Ammo,ammo,Ammo,ConsumeBullet,0.025,9999,280
+ExplosiveBullet,Rocket Ammo,ammo,Ammo,ConsumeBullet,0.5,9999,2550
+ShotgunBullet,Shotgun Shell,ammo,Ammo,ConsumeBullet,0.025,9999,330
+SkyGrenadeLauncherBullet,Tactical Grenade Launcher Ammo,ammo,Ammo,ConsumeBullet,0.025,9999,3970
+Shield_SF,Advanced Shield,armor,Armor,Shield,5,1,402540
+AncientArmor,Ancient Armor,armor,Armor,ArmorBody,40,1,1169780
+AncientHelmet,Ancient Helm,armor,Armor,ArmorHead,15,1,779860
+Shield_07,Ancient Shield,armor,Armor,Shield,5,1,1929840
+HeadEquip048,Auri Hat,armor,Armor,ArmorHead,7,1,10000
+GYM_Head_Electric,Axel Hat,armor,Armor,ArmorHead,7,1,10000
+GYM_Head_Viking,Bjorn Hat,armor,Armor,ArmorHead,7,1,10000
+Head012,Bowler Hat,armor,Armor,ArmorHead,4,1,8640
+HeadEquip033,Cattiva Hat,armor,Armor,ArmorHead,4,1,500
+HeadEquip027,Cawgnito Hat,armor,Armor,ArmorHead,4,1,500
+HeadEquip056,Chikipi Cap,armor,Armor,ArmorHead,4,1,1000
+ClothArmor,Cloth Outfit,armor,Armor,ArmorBody,4,1,1220
+SFArmorCold,Cold Resistant Hexolite Armor,armor,Armor,ArmorBody,35,1,280800
+CopperArmorCold,Cold Resistant Metal Armor,armor,Armor,ArmorBody,30,1,22130
+StealArmorCold,Cold Resistant Pal Metal Armor,armor,Armor,ArmorBody,40,1,66020
+FurArmorCold,Cold Resistant Pelt Armor,armor,Armor,ArmorBody,10,1,7920
+PlasticArmorCold,Cold Resistant Plasteel Armor,armor,Armor,ArmorBody,35,1,160200
+IronArmorCold,Cold Resistant Refined Metal Armor,armor,Armor,ArmorBody,35,1,49150
+AncientArmorCold,Cold-resistant Ancient Armor,armor,Armor,ArmorBody,35,1,2144040
+Shield_01,Common Shield,armor,Armor,Shield,5,1,1510
+HeadEquip055,Croajiro Cap,armor,Armor,ArmorHead,4,1,1000
+HeadEquip046,Crown Of Salvation,armor,Armor,ArmorHead,7,1,290
+HeadEquip057,Dandilord Hat,armor,Armor,ArmorHead,4,1,1000
+HeadEquip032,Dazzi Hat,armor,Armor,ArmorHead,4,1,500
+Player_Outfit_Kigurumi001,Depresso Armor,armor,Armor,ArmorBody,30,1,74520
+HeadEquip045,Depresso Helmet,armor,Armor,ArmorHead,10,1,24840
+HeadEquip030,Dumud Helm,armor,Armor,ArmorHead,4,1,580
+Head009,Explorer Cap,armor,Armor,ArmorHead,3,1,500
+YakushimaHeadEquip006,Eye Of Cthulhu Mask,armor,Armor,ArmorHead,15,1,360
+Head011,Farming Hat,armor,Armor,ArmorHead,3,1,500
+FurHelmet,Feathered Hair Band,armor,Armor,ArmorHead,5,1,340
+HeadEquip059,Ghangler Accessory,armor,Armor,ArmorHead,4,1,1000
+Shield_03,Giga Shield,armor,Armor,Shield,5,1,21960
+HeadEquip052,Gloopie Hat,armor,Armor,ArmorHead,4,1,500
+Head002,Golden Crown,armor,Armor,ArmorHead,6,1,7200
+Head010,Graduation Cap,armor,Armor,ArmorHead,5,1,500
+Head014,Grinning Tocotoco Cap,armor,Armor,ArmorHead,4,1,500
+Head015,Gumoss Cap,armor,Armor,ArmorHead,4,1,500
+YakushimaHeadEquip002,Hallowed Headgear,armor,Armor,ArmorHead,13,1,7200
+YakushimaHeadEquip003,Hallowed Helmet,armor,Armor,ArmorHead,13,1,7200
+YakushimaHeadEquip004,Hallowed Hood,armor,Armor,ArmorHead,13,1,7200
+YakushimaHeadEquip001,Hallowed Mask,armor,Armor,ArmorHead,13,1,7200
+YakushimaArmor001,Hallowed Plate Mail,armor,Armor,ArmorBody,37,1,7200
+SFArmorHeat,Heat Resistant Hexolite Armor,armor,Armor,ArmorBody,35,1,301660
+CopperArmorHeat,Heat Resistant Metal Armor,armor,Armor,ArmorBody,30,1,22130
+StealArmorHeat,Heat Resistant Pal Metal Armor,armor,Armor,ArmorBody,40,1,67460
+FurArmorHeat,Heat Resistant Pelt Armor,armor,Armor,ArmorBody,10,1,7920
+PlasticArmorHeat,Heat Resistant Plasteel Armor,armor,Armor,ArmorBody,35,1,158760
+IronArmorHeat,Heat Resistant Refined Metal Armor,armor,Armor,ArmorBody,35,1,50020
+AncientArmorHeat,Heat-resistant Ancient Armor,armor,Armor,ArmorBody,35,1,2189330
+Head006,Helmet,armor,Armor,ArmorHead,8,1,6960
+HeadEquip050,Herbil Headband,armor,Armor,ArmorHead,4,1,500
+SFArmor,Hexolite Armor,armor,Armor,ArmorBody,40,1,272160
+SFHelmet,Hexolite Helmet,armor,Armor,ArmorHead,15,1,189360
+HeadEquip041,Horns Of Supremacy,armor,Armor,ArmorHead,7,1,290
+Shield_04,Hyper Shield,armor,Armor,Shield,5,1,41040
+HeadEquip060,Icelyn Hat,armor,Armor,ArmorHead,4,1,1000
+HeadEquip053,Jelliette Hat,armor,Armor,ArmorHead,4,1,500
+Head017,Katress Cap,armor,Armor,ArmorHead,4,1,500
+HeadEquip026,Killamari Cap,armor,Armor,ArmorHead,4,1,500
+HeadEquip051,Kingpaca Headband,armor,Armor,ArmorHead,4,1,500
+HeadEquip029,Lamball Helm,armor,Armor,ArmorHead,4,1,580
+HeadEquip025,Leezpunk Hood,armor,Armor,ArmorHead,4,1,3000
+Shield_06,Legendary Shield,armor,,,,,
+AncientArmorWeight,Lightweight Ancient Armor,armor,Armor,ArmorBody,35,1,2751100
+SFArmorWeight,Lightweight Hexolite Armor,armor,Armor,ArmorBody,35,1,460800
+PlasticArmorWeight,Lightweight Plasteel Armor,armor,Armor,ArmorBody,35,1,158470
+GYM_Head_Forest,Lily Hat,armor,Armor,ArmorHead,7,1,10000
+Head003,Long-eared Headband,armor,Armor,ArmorHead,2,1,7490
+HeadEquip023,Lyleen Accessory,armor,Armor,ArmorHead,4,1,500
+GYM_Head_Desert,Marcus Hat,armor,Armor,ArmorHead,7,1,10000
+Shield_02,Mega Shield,armor,Armor,Shield,5,1,11400
+CopperArmor,Metal Armor,armor,Armor,ArmorBody,30,1,13920
+CopperHelmet,Metal Helm,armor,Armor,ArmorHead,10,1,6600
+Head001,Monarch's Crown,armor,Armor,ArmorHead,7,1,7490
+YakushimaHeadEquip005,Moon Lord Mask,armor,Armor,ArmorHead,15,1,360
+StealArmor,Pal Metal Armor,armor,Armor,ArmorBody,40,1,41140
+StealHelmet,Pal Metal Helm,armor,Armor,ArmorHead,15,1,31680
+FurArmor,Pelt Armor,armor,Armor,ArmorBody,10,1,5470
+Head016,Penking Cap,armor,Armor,ArmorHead,4,1,500
+PlasticArmor,Plasteel Armor,armor,Armor,ArmorBody,35,1,151560
+PlasticHelmet,Plasteel Helmet,armor,Armor,ArmorHead,12,1,97980
+IronArmor,Refined Metal Armor,armor,Armor,ArmorBody,35,1,32690
+IronHelmet,Refined Metal Helm,armor,Armor,ArmorHead,12,1,18540
+HeadEquip028,Ribbuny Headband,armor,Armor,ArmorHead,4,1,3000
+GYM_Head_Sakurajima,Saya Hat,armor,Armor,ArmorHead,7,1,10000
+HeadEquip058,Shroomer Hat,armor,Armor,ArmorHead,4,1,1000
+HeadEquip024,Sibelyx Hat,armor,Armor,ArmorHead,4,1,500
+Head007,Silk Hat,armor,Armor,ArmorHead,4,1,8640
+Head005,Soft Hat,armor,Armor,ArmorHead,3,1,5860
+HeadEquip061,Splatterina Hat,armor,Armor,ArmorHead,4,1,1000
+HeadEquip031,Swee Cap,armor,Armor,ArmorHead,4,1,500
+HeadEquip062,Tarantriss Hat,armor,Armor,ArmorHead,4,1,1000
+Head013,Tocotoco Cap,armor,Armor,ArmorHead,4,1,500
+Head008,Tricorne,armor,Armor,ArmorHead,5,1,500
+ClothArmorHeat,Tropical Outfit,armor,Armor,ArmorBody,4,1,2450
+ClothArmorCold,Tundra Outfit,armor,Armor,ArmorBody,4,1,2450
+HeadEquip054,Turtacle Cap,armor,Armor,ArmorHead,4,1,500
+Shield_05,Ultra Shield,armor,Armor,Shield,5,1,1
+Octavia001_Armor,V 1 Armor,armor,Armor,ArmorBody,30,1,14040
+Octavia002_Armor,V 2 Armor,armor,Armor,ArmorBody,30,1,244320
+GYM_Head_Snow,Victor Hat,armor,Armor,ArmorHead,7,1,10000
+Head004,Witch Hat,armor,Armor,ArmorHead,4,1,500
+HeadEquip001_purple,Witch's Crown,armor,Armor,ArmorHead,7,1,290
+HeadEquip044,Xenolord's Head,armor,Armor,ArmorHead,7,1,290
+HeadEquip049,Zenara Hat,armor,Armor,ArmorHead,7,1,10000
+GYM_Head_Grass,Zoe Hat,armor,Armor,ArmorHead,7,1,10000
+Blueprint_SFBow_2,Advanced Bow Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_FishingRod_03_2,Advanced Fishing Rod (Depresso) Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Accessory_SuperJumpAir_2,Air Walker Ex Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Accessory_JumpAir_1,Air Walker Mk I Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Accessory_JumpAir_2,Air Walker Mk II Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Accessory_SuperJumpAir_1,Air Walker Mk III Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_AncientArmor_2,Ancient Armor Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_AncientHelmet_2,Ancient Helm Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Otomo_DFEarth_ElementBoost_1,Anubis's Talisman Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_AssaultRifle_Default2,Assault Rifle Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Accessory_AT_1_2,Attack Pendant Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Otomo_Attack_up1_2,Attack Support Whistle Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_BeamLauncher_2,Beam Launcher Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_WidePenetrateShotgun_2,Beam Scatter Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_BeamSword_2,Beam Sword Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_FishingRod_01_2,Beginner Fishing Rod (Gumoss) Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+PalSummon_NightLady_Dark_Parts_2,Bellanoir Libero (Ultra) Slab Fragment,blueprint,Blueprint,Blueprint,0.25,9999,10
+PalSummon_NightLady_Dark_Parts,Bellanoir Libero's Slab Fragment,blueprint,Blueprint,Blueprint,0.25,9999,10
+PalSummon_NightLady_Parts,Bellanoir's Slab Fragment,blueprint,Blueprint,Blueprint,0.25,9999,10
+PalSummon_KingBahamut_Dragon_Parts_2,Blazamut Ryu (Ultra) Slab Fragment,blueprint,Blueprint,Blueprint,0.25,9999,10
+PalSummon_KingBahamut_Dragon_Parts,Blazamut Ryu Slab Fragment,blueprint,Blueprint,Blueprint,0.25,9999,10
+Blueprint_Otomo_DFFire_ElementBoost_1,Blazamut's Talisman Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Accessory_Otomo_Fire_1,Blazehowl Ring Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Head012_1,Bowler Hat Schematic,blueprint,Blueprint,Blueprint,0,9999,500
+Blueprint_Otomo_ATNormal_ElementBoost_1,Celestial Emperor's Baton Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_PalSummon_YakushimaBoss002,Celestial Sigil Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_FireStand,Ceremonial Candlestick Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_ChargeLaserRifle_2,Charge Rifle Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_ClothArmor_2,Cloth Outfit Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_SFArmorCold_2,Cold Resistant Hexolite Armor Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_CopperArmorCold_2,Cold Resistant Metal Armor Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_StealArmorCold_2,Cold Resistant Pal Metal Armor Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_FurArmorCold_2,Cold Resistant Pelt Armor Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_PlasticArmorCold_2,Cold Resistant Plasteel Armor Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_IronArmorCold_2,Cold Resistant Refined Metal Armor Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_AncientArmorCold_2,Cold-resistant Ancient Armor Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_SkySubmachineGun_2,Combat Submachine Gun Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_CompoundBow_2,Compound Bow Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_OctaviaShotgun_2,Core Eject Shotgun Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_BowGun_2,Crossbow Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Accessory_Otomo_Ice_1,Cryolinx Ring Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Otomo_ElementBoost_Dark_1_2,Dark Support Whistle Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_HeadEquip032_1,Dazzi Hat Schematic,blueprint,Blueprint,Blueprint,0,9999,500
+Blueprint_Accessory_defense_1_2,Defense Pendant Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Otomo_Defense_up1_2,Defense Support Whistle Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Otomo_ATDragon_ElementBoost_1,Divine Dragon's Baton Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Accessory_PPAT_1,Dogen Emblem Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_DoubleBarrelShotgun_2,Double-barreled Shotgun Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Otomo_ElementBoost_Dragon_1_2,Dragon Support Whistle Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_DroneLauncher_2,Drone Launcher Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Otomo_ATEarth_ElementBoost_1,Earth Emperor's Baton Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_WhaleWhistle,Echoing Flute Schematic,blueprint,Essential,Blueprint,0,9999,10
+Blueprint_Otomo_ElementBoost_Electricity_1_2,Electric Support Whistle Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Accessory_Otomo_Dargon_1,Elphidran Ring Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_EnergyShotgun_2,Energy Shotgun Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Spear_ForestBoss2_5,Enhanced Lily's Spear Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_YakushimaBlade004,Excalibur Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Head009_1,Explorer Cap Schematic,blueprint,Blueprint,Blueprint,0,9999,500
+Blueprint_Accessory_Otomo_Water_1,Faleris Aqua Ring Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Accessory_Otomo_Fire_2,Faleris Ring Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Head011_1,Farming Hat Schematic,blueprint,Blueprint,Blueprint,0,9999,500
+Blueprint_FurHelmet_2,Feathered Hair Band Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Accessory_Otomo_Electricity_1,Fenglope Lux Ring Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_BowGun_Fire_2,Fire Arrow Crossbow Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Otomo_ElementBoost_Fire_1_2,Fire Support Whistle Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Otomo_ATFire_ElementBoost_1,Flame Emperor's Baton Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_FlameThrower_2,Flamethrower Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_ConservationGroupBannerB,Free Pal Alliance Banner Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_ConservationGroupBannerA,Free Pal Alliance Flag Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Otomo_DFIce_ElementBoost_1,Frostallion's Talisman Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_GatlingGun_2,Gatling Gun Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Head002_1,Golden Crown Schematic,blueprint,Blueprint,Blueprint,0,9999,500
+Blueprint_Head010_1,Graduation Cap Schematic,blueprint,Blueprint,Blueprint,0,9999,500
+Blueprint_Otomo_ElementBoost_Leaf_1_2,Grass Support Whistle Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_GrenadeLauncher_2,Grenade Launcher Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Head014_1,Grinning Tocotoco Cap Schematic,blueprint,Blueprint,Blueprint,0,9999,500
+Blueprint_Otomo_ElementBoost_Earth_1_2,Ground Support Whistle Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Otomo_PalExp_Increase_1_2,Growth Acceleration Bell Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_GuidedMissileLauncher_2,Guided Missile Launcher Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Head015_1,Gumoss Cap Schematic,blueprint,Blueprint,Blueprint,0,9999,500
+Blueprint_YakushimaHeadEquip002,Hallowed Headgear Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_YakushimaHeadEquip003,Hallowed Helmet Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_YakushimaHeadEquip004,Hallowed Hood Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_YakushimaHeadEquip001,Hallowed Mask Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_YakushimaArmor001,Hallowed Plate Mail Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_HandGun_Default_2,Handgun Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+PalSummon_LegendDeer_Parts_2,Hartalis (Ultra) Slab Fragment,blueprint,Blueprint,Blueprint,0.25,9999,10
+PalSummon_LegendDeer_Parts,Hartalis Slab Fragment,blueprint,Blueprint,Blueprint,0.25,9999,10
+Blueprint_Otomo_DFNormal_ElementBoost_1,Hartalis's Talisman Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_SFArmorHeat_2,Heat Resistant Hexolite Armor Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_CopperArmorHeat_2,Heat Resistant Metal Armor Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_StealArmorHeat_2,Heat Resistant Pal Metal Armor Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_FurArmorHeat_2,Heat Resistant Pelt Armor Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_PlasticArmorHeat_2,Heat Resistant Plasteel Armor Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_IronArmorHeat_2,Heat Resistant Refined Metal Armor Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Accessory_HeatResist_1_2,Heat Resistant Undershirt Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_AncientArmorHeat_2,Heat-resistant Ancient Armor Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_SkyAssaultRifle_2,Heavy Assault Rifle Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Head006_1,Helmet Schematic,blueprint,Blueprint,Blueprint,0,9999,500
+Blueprint_SFArmor_2,Hexolite Armor Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_SFHelmet_2,Hexolite Helmet Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Otomo_ATIce_ElementBoost_1,Ice Emperor's Baton Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Otomo_ElementBoost_Ice_1_2,Ice Support Whistle Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_FishingRod_02_2,Intermediate Fishing Rod (Croajiro) Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Accessory_WKMC_1,Islander's Tool Belt Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Otomo_DFDragon_ElementBoost_1,Jetragon's Talisman Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Katana_2,Katana Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Head017_1,Katress Cap Schematic,blueprint,Blueprint,Blueprint,0,9999,500
+Blueprint_Accessory_Otomo_Dark_1,Katress Ring Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_HeadEquip026_1,Killamari Cap Schematic,blueprint,Blueprint,Blueprint,0,9999,500
+Blueprint_SF_Chair,Laboratory Chair Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_SF_Desk,Laboratory Desk Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_LaserGatlingGun_2,Laser Gatling Gun Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_LaserRifle_2,Laser Rifle Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_SkyBeamSword_2,Laser Sword Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_HeadEquip025_1,Leezpunk Hood Schematic,blueprint,Blueprint,Blueprint,0,9999,500
+Blueprint_Accessory_HP_1_2,Life Pendant Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_AncientArmorWeight_2,Lightweight Ancient Armor Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_SFArmorWeight_2,Lightweight Hexolite Armor Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_PlasticArmorWeight_2,Lightweight Plasteel Armor Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Spear_ForestBoss_5,Lily's Spear Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Head003_1,Long-eared Headband Schematic,blueprint,Blueprint,Blueprint,0,9999,500
+Blueprint_Otomo_ATElectricity_ElementBoost_1,Lord Of Lightning's Baton Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Otomo_ATWater_ElementBoost_1,Lord Of The Sea's Baton Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Otomo_ATDark_ElementBoost_1,Lord Of The Underworld's Baton Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Otomo_DFDark_ElementBoost_1,Lyleen Noct's Talisman Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_LilyQueenStatue,Lyleen Statue Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Otomo_DFLeaf_ElementBoost_1,Lyleen's Talisman Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_CandleStand,Majestic Candlestick Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_WallTorch02,Majestic Wall Torch Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_MakeshiftAssaultRifle_2,Makeshift Assault Rifle Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_MakeshiftHandgun_2,Makeshift Handgun Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_MakeshiftShotgun_2,Makeshift Shotgun Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_MakeshiftSubmachineGun_2,Makeshift Submachine Gun Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_OctaviaRevolver_2,Marksman Revolver Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_SkyBow_2,Mechanical Bow Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Accessory_Otomo_Earth_1,Menasting Terra Ring Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_CopperArmor_2,Metal Armor Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Bat3_2,Metal Bat Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_CopperHelmet_2,Metal Helm Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Launcher_Meteor_5,Meteor Launcher Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Head001_1,Monarch's Crown Schematic,blueprint,Blueprint,Blueprint,0,9999,500
+Blueprint_YakushimaBoss002_Relic,Moon Lord Statue Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_MultiGuidedMissileLauncher,Multi Guided Missile Launcher Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Accessory_HeatColdResist_1_2,Multiclimate Undershirt Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Musket_2,Musket Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Otomo_DFWater_ElementBoost_1,Neptilius's Talisman Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Otomo_ElementBoost_Normal_1_2,Neutral Support Whistle Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_YakushimaLantern001,Nightglow Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_WeakerBow_2,Old Bow Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_OldRevolver_2,Old Revolver Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Otomo_DFElectricity_ElementBoost_1,Orserk's Talisman Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_OverheatRifle_2,Overheat Rifle Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_StealArmor_2,Pal Metal Armor Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_StealHelmet_2,Pal Metal Helm Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Accessory_NonkChecker_1,Pal Tamer's Glasses Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_LanternTop,Paper Lantern Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_FurArmor_2,Pelt Armor Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Accessory_WorkSpeed_1_2,Pendant Of Diligence Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Head016_1,Penking Cap Schematic,blueprint,Blueprint,Blueprint,0,9999,500
+Blueprint_Accessory_Avoid_1,Phantom Ring Schematic,blueprint,Blueprint,Blueprint,0,1,10000
+Blueprint_EnergyRocketLauncher_2,Plasma Cannon Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_ElectricArcAssaultRifle_2,Plasma Rifle Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_PlasticArmor_2,Plasteel Armor Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_PlasticHelmet_2,Plasteel Helmet Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_BowGun_Poison_2,Poison Arrow Crossbow Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_SkyShotgun_2,Prototype Shotgun Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_PumpActionShotgun_2,Pump-action Shotgun Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Hunter_GangFlag,Rayne Syndicate Flag Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Shrine_Lantern,Red Wooden Lantern Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_IronArmor_2,Refined Metal Armor Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_IronHelmet_2,Refined Metal Helm Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Accessory_HeatFire_1,Reptyro Charm Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_HeadEquip028_1,Ribbuny Headband Schematic,blueprint,Blueprint,Blueprint,0,9999,500
+Blueprint_Accessory_DarkResist_1_2,Ring Of Dark Resistance Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Accessory_DragonResist_1_2,Ring Of Dragon Resistance Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Accessory_ThunderResist_1_2,Ring Of Electric Resistance Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Accessory_FireResist_1_2,Ring Of Fire Resistance Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Accessory_MaxWeightUp_01_2,Ring Of Freight Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Accessory_LeafResist_1_2,Ring Of Grass Resistance Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Accessory_EarthResist_1_2,Ring Of Ground Resistance Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Accessory_IceResist_1_2,Ring Of Ice Resistance Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Accessory_NormalResist_1_2,Ring Of Neutral Resistance Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Otomo_PalConfidence_Increase_1_fix,Ring Of Trust Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Accessory_AquaResist_1_2,Ring Of Water Resistance Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Launcher_Default_2,Rocket Launcher Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_SemiAutoRifle_2,Semi-auto Rifle Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_SemiAutoShotgun_2,Semi-auto Shotgun Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Head007_1,Silk Hat Schematic,blueprint,Blueprint,Blueprint,0,9999,500
+Blueprint_Accessory_PPDF_1,Silvegis Emblem Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_SingleShotRifle_2,Single-shot Rifle Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Head005_1,Soft Hat Schematic,blueprint,Blueprint,Blueprint,0,9999,500
+Blueprint_Otomo_ATLeaf_ElementBoost_1,Spirit Emperor's Baton Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_SubmachineGun_2,Submachine Gun Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_HeadEquip031_1,Swee Cap Schematic,blueprint,Blueprint,Blueprint,0,9999,500
+Blueprint_Sword_2,Sword Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_SkyGrenadeLauncher_2,Tactical Grenade Launcher Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_YakushimaBlade002,Terra Blade Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_YakushimaBlade003,Terraprisma Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Accessory_CoolResist_1_2,Thermal Undershirt Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Head013_1,Tocotoco Cap Schematic,blueprint,Blueprint,Blueprint,0,9999,500
+Blueprint_Head008_1,Tricorne Schematic,blueprint,Blueprint,Blueprint,0,9999,500
+Blueprint_ClothArmorHeat_2,Tropical Outfit Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_ClothArmorCold_2,Tundra Outfit Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Octavia001_Armor_5,V 1 Armor Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Octavia002_Armor_5,V 2 Armor Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Accessory_Otomo_Leaf_1,Vaelet Ring Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Accessory_HCHP_1,Vanguard Charm Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_YakushimaGun001,Vortex Beater Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Accessory_HCMW_1,Wandering Merchant Charm Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Accessory_DFHP_1,Warsect Terra's Belt Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Otomo_ElementBoost_Water_1_2,Water Support Whistle Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Wire_Fence,Wire Fence Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Head004_1,Witch Hat Schematic,blueprint,Blueprint,Blueprint,0,9999,500
+Blueprint_WoodenBarricade,Wooden Barricade Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Accessory_ColdIce_1,Wumpo Charm Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+PalSummon_DarkMechaDragon_Parts_2,Xenolord (Ultra) Slab Fragment,blueprint,Blueprint,Blueprint,0.25,9999,10
+PalSummon_DarkMechaDragon_Parts,Xenolord Slab Fragment,blueprint,Blueprint,Blueprint,0.25,9999,10
+Blueprint_GuardianDogStatue,Yakumo Statue Schematic,blueprint,Blueprint,Blueprint,0,9999,10000
+Blueprint_Zoe_Halloweenskin_1,Zoe's Halloween Costume Schematic,blueprint,Blueprint,Blueprint,0,9999,500
+Potion_Extreme,Advanced Recovery Meds,consumable,Consume,Drug,0.2,9999,20520
+FishingBait_3_A,Alluring Bait,consumable,Consume,ConsumeFishingBait,0.025,9999,2020
+FishingBait_1_A,Beginner Bait,consumable,Consume,ConsumeFishingBait,0.025,9999,30
+PalSummon_NightLady_Dark_2,Bellanoir Libero (Ultra) Slab,consumable,Consume,ConsumeOther,1,9999,10
+PalSummon_NightLady_Dark,Bellanoir Libero's Slab,consumable,Consume,ConsumeOther,1,9999,10
+PalSummon_NightLady,Bellanoir's Slab,consumable,Consume,ConsumeOther,1,9999,10
+PalSummon_KingBahamut_Dragon_2,Blazamut Ryu (Ultra) Slab,consumable,Consume,ConsumeOther,1,9999,10
+PalSummon_KingBahamut_Dragon,Blazamut Ryu Slab,consumable,Consume,ConsumeOther,1,9999,10
+QuestItem_Breeder_1,Breeder's Precious Pal,consumable,Consume,ConsumeOther,0,1,10
+RepairKit,Building Repair Kit,consumable,Consume,ConsumeOther,1,9999,120
+PalSummon_YakushimaBoss002,Celestial Sigil,consumable,Consume,ConsumeOther,1,9999,36000
+PalSummon_YakushimaBoss002_2,Celestial Sigil [master],consumable,Consume,ConsumeOther,1,9999,10
+TreasureBoxKey01,Copper Key,consumable,Consume,ConsumeOther,0.1,9999,1
+PalAwakening_Dark,Dark Awakening Crystal,consumable,Consume,ConsumePalAwakening,1,9999,120000
+FishingBait_3,Deluxe Bait,consumable,Consume,ConsumeFishingBait,0.025,9999,350
+PalPassiveSkillChange_Consumable_MutationPal_Babysitter,Disposable Implant: Babysitter,consumable,Consume,ConsumePassiveSkillChange,0,9999,10
+PalPassiveSkillChange_Consumable_PAL_ALLAttack_up3,Disposable Implant: Demon God,consumable,Consume,ConsumePassiveSkillChange,0,9999,10
+PalPassiveSkillChange_Consumable_WorldTree_CraftSpeed,Disposable Implant: Demon’s Hand,consumable,Consume,ConsumePassiveSkillChange,0,9999,10
+PalPassiveSkillChange_Consumable_Deffence_up3,Disposable Implant: Diamond Body,consumable,Consume,ConsumePassiveSkillChange,0,9999,10
+PalPassiveSkillChange_Consumable_WorldTree_MoveSpeed,Disposable Implant: Dimensional Leap,consumable,Consume,ConsumePassiveSkillChange,0,9999,10
+PalPassiveSkillChange_Consumable_Stamina_Up_3,Disposable Implant: Eternal Engine,consumable,Consume,ConsumePassiveSkillChange,0,9999,10
+PalPassiveSkillChange_Consumable_EternalFlame,Disposable Implant: Eternal Flame,consumable,Consume,ConsumePassiveSkillChange,0,9999,10
+PalPassiveSkillChange_Consumable_WorldTree_ATK_DEF,Disposable Implant: God Of Destruction,consumable,Consume,ConsumePassiveSkillChange,0,9999,10
+PalPassiveSkillChange_Consumable_PAL_Sanity_Down_3,Disposable Implant: Heart Of The Immovable King,consumable,Consume,ConsumePassiveSkillChange,0,9999,10
+PalPassiveSkillChange_Consumable_MutationPal_ExplosionResist,Disposable Implant: Heavily Armored,consumable,Consume,ConsumePassiveSkillChange,0,9999,10
+PalPassiveSkillChange_Consumable_WorldTree_Sanity,Disposable Implant: Hermit Sage,consumable,Consume,ConsumePassiveSkillChange,0,9999,10
+PalPassiveSkillChange_Consumable_MutationPal_Mutant,Disposable Implant: Idiosyncratic,consumable,Consume,ConsumePassiveSkillChange,0,9999,10
+PalPassiveSkillChange_Consumable_MutationPal_Immortal,Disposable Implant: Immortality,consumable,Consume,ConsumePassiveSkillChange,0,9999,10
+PalPassiveSkillChange_Consumable_Invader,Disposable Implant: Invader,consumable,Consume,ConsumePassiveSkillChange,0,9999,10
+PalPassiveSkillChange_Consumable_SwimSpeed_up_3,Disposable Implant: King Of The Waves,consumable,Consume,ConsumePassiveSkillChange,0,9999,10
+PalPassiveSkillChange_Consumable_Legend,Disposable Implant: Legend,consumable,Consume,ConsumePassiveSkillChange,0,9999,10
+PalPassiveSkillChange_Consumable_Rare,Disposable Implant: Lucky,consumable,Consume,ConsumePassiveSkillChange,0,9999,10
+PalPassiveSkillChange_Consumable_Nushi,Disposable Implant: Lunker,consumable,Consume,ConsumePassiveSkillChange,0,9999,10
+PalPassiveSkillChange_Consumable_PAL_FullStomach_Down_3,Disposable Implant: Mastery Of Fasting,consumable,Consume,ConsumePassiveSkillChange,0,9999,10
+PalPassiveSkillChange_Consumable_CraftSpeed_up3,Disposable Implant: Remarkable Craftsmanship,consumable,Consume,ConsumePassiveSkillChange,0,9999,10
+PalPassiveSkillChange_Consumable_WorldTree_DEF,Disposable Implant: Sanctified Meat Shield,consumable,Consume,ConsumePassiveSkillChange,0,9999,10
+PalPassiveSkillChange_Consumable_Salvation,Disposable Implant: Savior,consumable,Consume,ConsumePassiveSkillChange,0,9999,10
+PalPassiveSkillChange_Consumable_Witch,Disposable Implant: Siren Of The Void,consumable,Consume,ConsumePassiveSkillChange,0,9999,10
+PalPassiveSkillChange_Consumable_RideJumpCount_Increase2,Disposable Implant: Skymarcher,consumable,Consume,ConsumePassiveSkillChange,0,9999,10
+PalPassiveSkillChange_Consumable_MoveSpeed_up_3,Disposable Implant: Swift,consumable,Consume,ConsumePassiveSkillChange,0,9999,10
+PalPassiveSkillChange_Consumable_WorldTree_ATK,Disposable Implant: Twin-edged Holy Blade,consumable,Consume,ConsumePassiveSkillChange,0,9999,10
+PalPassiveSkillChange_Consumable_Vampire,Disposable Implant: Vampiric,consumable,Consume,ConsumePassiveSkillChange,0,9999,10
+PalPassiveSkillChange_Consumable_WorldTree_FullStomach,Disposable Implant: World Tree's Bounty,consumable,Consume,ConsumePassiveSkillChange,0,9999,10
+PalAwakening_Dragon,Dragon Awakening Crystal,consumable,Consume,ConsumePalAwakening,1,9999,120000
+PalAwakening_Electric,Electric Awakening Crystal,consumable,Consume,ConsumePalAwakening,1,9999,120000
+QuestItem_Farmer_1,Farmer's Special Dish,consumable,Consume,ConsumeOther,0,1,10
+PalAwakening_Fire,Fire Awakening Crystal,consumable,Consume,ConsumePalAwakening,1,9999,120000
+Salvage_TreasureBoxKey01,Fishing Magnet,consumable,Consume,ConsumeOther,0.1,9999,1
+TreasureBoxKey03,Gold Key,consumable,Consume,ConsumeOther,0.1,9999,10
+PalAwakening_Grass,Grass Awakening Crystal,consumable,Consume,ConsumePalAwakening,1,9999,120000
+PalAwakening_Ground,Ground Awakening Crystal,consumable,Consume,ConsumePalAwakening,1,9999,120000
+PalSummon_LegendDeer_2,Hartalis (Ultra) Slab,consumable,Consume,ConsumeOther,1,9999,10
+PalSummon_LegendDeer,Hartalis Slab,consumable,Consume,ConsumeOther,1,9999,10
+LuxuryMedicines,High Grade Medical Supplies,consumable,Consume,Medicine,0.2,9999,3120
+FishingBait_2,High Quality Bait,consumable,Consume,ConsumeFishingBait,0.025,9999,240
+Potion_High,High Quality Recovery Meds,consumable,Consume,Drug,0.2,9999,12600
+Homeward,Homeward Thundercloud,consumable,Consume,ReturnToBaseCamp,1,9999,2400
+PalAwakening_Ice,Ice Awakening Crystal,consumable,Consume,ConsumePalAwakening,1,9999,120000
+Herbs,Low Grade Medical Supplies,consumable,Consume,Medicine,0.2,9999,780
+Potion_Low,Low Quality Recovery Meds,consumable,Consume,Drug,0.2,9999,2820
+FishingBait_2_A,Lucky Bait,consumable,Consume,ConsumeFishingBait,0.025,9999,40
+Medicines,Medical Supplies,consumable,Consume,Medicine,0.2,9999,1820
+StatusPointResetSan,Memory Wiping Medicine,consumable,Consume,Drug,0.2,9999,101400
+MindControlDrug,Mind Control Meds,consumable,Consume,Medicine,0.2,9999,13320
+MushroomJuice,Mysterious Mushroom Juice,consumable,Consume,Drug,0.2,9999,30600
+PalAwakening_Neutral,Neutral Awakening Crystal,consumable,Consume,ConsumePalAwakening,1,9999,120000
+Supplement,Nutrient Tonic,consumable,Consume,Drug,1,9999,169200
+PalGenderReverse,Pal Reverser,consumable,Consume,ConsumeOther,0,9999,10
+Salvage_TreasureBoxKey02,Powerful Fishing Magnet,consumable,Consume,ConsumeOther,0.1,9999,710
+FishingBait_2_B,Quick Bait,consumable,Consume,ConsumeFishingBait,0.025,9999,40
+Potion,Recovery Meds,consumable,Consume,Drug,0.2,9999,6180
+PalRevive,Revival Potion,consumable,Consume,ConsumePalRevive,1,9999,39000
+FishingBait_3_B,Risky Bait,consumable,Consume,ConsumeFishingBait,0.025,9999,120
+TreasureBoxKey02,Silver Key,consumable,Consume,ConsumeOther,0.1,9999,1
+FishingBait_1,Simple Bait,consumable,Consume,ConsumeFishingBait,0.025,9999,160
+Narcotic,Strange Juice,consumable,Consume,Drug,0.2,9999,5400
+Opium,Suspicious Juice,consumable,Consume,Drug,0.2,9999,3120
+FishingBait_1_B,Sweet Bait,consumable,Consume,ConsumeFishingBait,0.025,9999,30
+PalAwakening_Water,Water Awakening Crystal,consumable,Consume,ConsumePalAwakening,1,9999,120000
+WingGlider_Fuel,Wing Cell,consumable,Consume,ConsumeOther,0.025,9999,31200
+WorldTreeHolyWater,World Tree Holy Water,consumable,Consume,ConsumeWorldTreeHolyWater,0.1,9999,5000
+PalSummon_DarkMechaDragon_2,Xenolord (Ultra) Slab,consumable,Consume,ConsumeOther,1,9999,10
+PalSummon_DarkMechaDragon,Xenolord Slab,consumable,Consume,ConsumeOther,1,9999,10
+QuestItem_Zoe_Halloweenskin_1,Zoe's Halloween Costume,consumable,Consume,ConsumeOther,0,1,4080
+QuestItem_Zoe_1,Zoe's Tattered Memento,consumable,Consume,ConsumeOther,0,1,10
+TechnologyBook_G1,Advanced Technical Manual,enhancement,Consume,ConsumeTechnologyBook,0,9999,10
+AncientTechnologyBook_G1,Ancient Technical Manual,enhancement,Consume,ConsumeAncientTechnologyBook,0,9999,10
+WorkSuitability_AddTicket_Cool,Applied Cooling Handbook I,enhancement,Consume,ConsumePalWorkSuitabilityUp,1,9999,10
+WorkSuitability_AddTicket_Collection,Applied Gathering Handbook I,enhancement,Consume,ConsumePalWorkSuitabilityUp,1,9999,10
+WorkSuitability_AddTicket_GenerateElectricity,Applied Generating Electricity Handbook I,enhancement,Consume,ConsumePalWorkSuitabilityUp,1,9999,10
+WorkSuitability_AddTicket_Handcraft,Applied Handiwork Handbook I,enhancement,Consume,ConsumePalWorkSuitabilityUp,1,9999,10
+WorkSuitability_AddTicket_EmitFlame,Applied Kindling Handbook I,enhancement,Consume,ConsumePalWorkSuitabilityUp,1,9999,10
+WorkSuitability_AddTicket_Deforest,Applied Lumbering Handbook I,enhancement,Consume,ConsumePalWorkSuitabilityUp,1,9999,10
+WorkSuitability_AddTicket_ProductMedicine,Applied Medicine Production Handbook I,enhancement,Consume,ConsumePalWorkSuitabilityUp,1,9999,10
+WorkSuitability_AddTicket_Mining,Applied Mining Handbook I,enhancement,Consume,ConsumePalWorkSuitabilityUp,1,9999,10
+WorkSuitability_AddTicket_Seeding,Applied Planting Handbook I,enhancement,Consume,ConsumePalWorkSuitabilityUp,1,9999,10
+WorkSuitability_AddTicket_MonsterFarm,Applied Ranching Handbook I,enhancement,Consume,ConsumePalWorkSuitabilityUp,1,9999,10
+WorkSuitability_AddTicket_Transport,Applied Transporting Handbook I,enhancement,Consume,ConsumePalWorkSuitabilityUp,1,9999,10
+WorkSuitability_AddTicket_Watering,Applied Watering Handbook I,enhancement,Consume,ConsumePalWorkSuitabilityUp,1,9999,10
+Elixir_weight_02,Burden Elixir,enhancement,Consume,ConsumeGainStatusPoints,1,9999,264000
+Elixir_weight_01,Burden Remedy,enhancement,Consume,ConsumeGainStatusPoints,1,9999,120000
+TechnologyBook_G3,Futuristic Technical Manual,enhancement,Consume,ConsumeTechnologyBook,0,9999,10
+PalPassiveSkillChange_SwimSpeed_up_2,Implant: Ace Swimmer,enhancement,Essential,Essential_PassiveSkillChange,0,9999,1
+PalPassiveSkillChange_CraftSpeed_up2,Implant: Artisan,enhancement,Essential,Essential_PassiveSkillChange,0,9999,1
+PalPassiveSkillChange_PAL_ALLAttack_up1,Implant: Brave,enhancement,Essential,Essential_PassiveSkillChange,0,9999,1
+PalPassiveSkillChange_Deffence_up2,Implant: Burly Body,enhancement,Essential,Essential_PassiveSkillChange,0,9999,1
+PalPassiveSkillChange_PAL_FullStomach_Down_1,Implant: Dainty Eater,enhancement,Essential,Essential_PassiveSkillChange,0,9999,1
+PalPassiveSkillChange_PAL_ALLAttack_up3,Implant: Demon God,enhancement,Essential,Essential_PassiveSkillChange,0,9999,1
+PalPassiveSkillChange_Deffence_up3,Implant: Diamond Body,enhancement,Essential,Essential_PassiveSkillChange,0,9999,1
+PalPassiveSkillChange_PAL_FullStomach_Down_2,Implant: Diet Lover,enhancement,Essential,Essential_PassiveSkillChange,0,9999,1
+PalPassiveSkillChange_Stamina_Up_3,Implant: Eternal Engine,enhancement,Essential,Essential_PassiveSkillChange,0,9999,1
+PalPassiveSkillChange_PAL_ALLAttack_up2,Implant: Ferocious,enhancement,Essential,Essential_PassiveSkillChange,0,9999,1
+PalPassiveSkillChange_SalePrice_Up_2,Implant: Fine Furs,enhancement,Essential,Essential_PassiveSkillChange,0,9999,1
+PalPassiveSkillChange_Stamina_Up_2,Implant: Fit As A Fiddle,enhancement,Essential,Essential_PassiveSkillChange,0,9999,1
+PalPassiveSkillChange_Deffence_up1,Implant: Hard Skin,enhancement,Essential,Essential_PassiveSkillChange,0,9999,1
+PalPassiveSkillChange_AutoHPRegeneRate_Passive,Implant: Healing Coach,enhancement,Essential,Essential_PassiveSkillChange,0,9999,1
+PalPassiveSkillChange_PAL_Sanity_Down_3,Implant: Heart Of The Immovable King,enhancement,Essential,Essential_PassiveSkillChange,0,9999,1
+PalPassiveSkillChange_CoolTimeReduction_Up_2,Implant: Impatient,enhancement,Essential,Essential_PassiveSkillChange,0,9999,1
+PalPassiveSkillChange_Stamina_Up_1,Implant: Infinite Stamina,enhancement,Essential,Essential_PassiveSkillChange,0,9999,1
+PalPassiveSkillChange_Nocturnal,Implant: Insomnia,enhancement,Essential,Essential_PassiveSkillChange,0,9999,1
+PalPassiveSkillChange_TrainerLogging_up1,Implant: Logging Foreman,enhancement,Essential,Essential_PassiveSkillChange,0,9999,1
+PalPassiveSkillChange_PAL_FullStomach_Down_3,Implant: Mastery Of Fasting,enhancement,Essential,Essential_PassiveSkillChange,0,9999,1
+PalPassiveSkillChange_NonKilling,Implant: Mercy Hit,enhancement,Essential,Essential_PassiveSkillChange,0,9999,1
+PalPassiveSkillChange_TrainerMining_up1,Implant: Mine Foreman,enhancement,Essential,Essential_PassiveSkillChange,0,9999,1
+PalPassiveSkillChange_TrainerWorkSpeed_UP_1,Implant: Motivational Leader,enhancement,Essential,Essential_PassiveSkillChange,0,9999,1
+PalPassiveSkillChange_Noukin,Implant: Musclehead,enhancement,Essential,Essential_PassiveSkillChange,0,9999,1
+PalPassiveSkillChange_MoveSpeed_up_1,Implant: Nimble,enhancement,Essential,Essential_PassiveSkillChange,0,9999,1
+PalPassiveSkillChange_SalePrice_Up_1,Implant: Noble,enhancement,Essential,Essential_PassiveSkillChange,0,9999,1
+PalPassiveSkillChange_HatchingSpeed_Up,Implant: Philanthropist,enhancement,Essential,Essential_PassiveSkillChange,0,9999,1
+PalPassiveSkillChange_PAL_Sanity_Down_1,Implant: Positive Thinker,enhancement,Essential,Essential_PassiveSkillChange,0,9999,1
+PalPassiveSkillChange_ReloadSpeedUp_Passive,Implant: Reload Master,enhancement,Essential,Essential_PassiveSkillChange,0,9999,1
+PalPassiveSkillChange_CraftSpeed_up3,Implant: Remarkable Craftsmanship,enhancement,Essential,Essential_PassiveSkillChange,0,9999,1
+PalPassiveSkillChange_MoveSpeed_up_2,Implant: Runner,enhancement,Essential,Essential_PassiveSkillChange,0,9999,1
+PalPassiveSkillChange_CoolTimeReduction_Up_1,Implant: Serenity,enhancement,Essential,Essential_PassiveSkillChange,0,9999,1
+PalPassiveSkillChange_CraftSpeed_up1,Implant: Serious,enhancement,Essential,Essential_PassiveSkillChange,0,9999,1
+PalPassiveSkillChange_SwimSpeed_up_1,Implant: Sleek Stroke,enhancement,Essential,Essential_PassiveSkillChange,0,9999,1
+PalPassiveSkillChange_TrainerDEF_UP_1,Implant: Stronghold Strategist,enhancement,Essential,Essential_PassiveSkillChange,0,9999,1
+PalPassiveSkillChange_MoveSpeed_up_3,Implant: Swift,enhancement,Essential,Essential_PassiveSkillChange,0,9999,1
+PalPassiveSkillChange_TrainerATK_UP_1,Implant: Vanguard,enhancement,Essential,Essential_PassiveSkillChange,0,9999,1
+PalPassiveSkillChange_PlayerSP_DecreaseRate_Passive,Implant: Wellness Watcher,enhancement,Essential,Essential_PassiveSkillChange,0,9999,1
+PalPassiveSkillChange_PAL_CorporateSlave,Implant: Work Slave,enhancement,Essential,Essential_PassiveSkillChange,0,9999,1
+PalPassiveSkillChange_PAL_Sanity_Down_2,Implant: Workaholic,enhancement,Essential,Essential_PassiveSkillChange,0,9999,1
+TechnologyBook_G2,Innovative Technical Manual,enhancement,Consume,ConsumeTechnologyBook,0,9999,10
+AffectionFruit_01,Kinship Peach,enhancement,Consume,ConsumePalGainFriendshipPoint,1,9999,30000
+Elixir_hp_Yakushima,Life Crystal,enhancement,Consume,ConsumeGainStatusPoints,1,9999,10
+Fruit_hp_01,Life Fruit,enhancement,Consume,ConsumePalTalentUp,1,9999,10
+AffectionFruit_02,Little Kinship Peach,enhancement,Consume,ConsumePalGainFriendshipPoint,1,9999,20000
+Elixir_attack_02,Might Elixir,enhancement,Consume,ConsumeGainStatusPoints,1,9999,264000
+Elixir_attack_01,Might Remedy,enhancement,Consume,ConsumeGainStatusPoints,1,9999,120000
+Fruit_attack_01,Power Fruit,enhancement,Consume,ConsumePalTalentUp,1,9999,10
+Rankup_Arbitrary,Ripe Starfruit,enhancement,Consume,ConsumePalRankUp,1,9999,10
+Elixir_workspeed_02,Speed Elixir,enhancement,Consume,ConsumeGainStatusPoints,1,9999,264000
+Elixir_workspeed_01,Speed Remedy,enhancement,Consume,ConsumeGainStatusPoints,1,9999,120000
+Elixir_stamina_02,Stamina Elixir,enhancement,Consume,ConsumeGainStatusPoints,1,9999,264000
+Elixir_stamina_01,Stamina Remedy,enhancement,Consume,ConsumeGainStatusPoints,1,9999,120000
+Rankup_1,Starfruit ☆1,enhancement,Consume,ConsumePalRankUp,1,9999,10
+Rankup_2,Starfruit ☆2,enhancement,Consume,ConsumePalRankUp,1,9999,10
+Rankup_3,Starfruit ☆3,enhancement,Consume,ConsumePalRankUp,1,9999,10
+Rankup_4,Starfruit ☆4,enhancement,Consume,ConsumePalRankUp,1,9999,10
+Fruit__defense_01,Stout Fruit,enhancement,Consume,ConsumePalTalentUp,1,9999,10
+LvUP_01,Training Crystal,enhancement,Consume,ConsumePalLevelUp,0.1,9999,10
+ExpBoost_03,Training Manual (L),enhancement,Consume,ConsumePalGainExp,0.1,9999,2000
+ExpBoost_02,Training Manual (M),enhancement,Consume,ConsumePalGainExp,0.1,9999,1000
+ExpBoost_01,Training Manual (S),enhancement,Consume,ConsumePalGainExp,0.1,9999,100
+ExpBoost_04,Training Manual (Xl),enhancement,Consume,ConsumePalGainExp,0.1,9999,3000
+Elixir_hp_02,Vital Elixir,enhancement,Consume,ConsumeGainStatusPoints,1,9999,264000
+Elixir_hp_01,Vital Remedy,enhancement,Consume,ConsumeGainStatusPoints,1,9999,120000
+Baked_Berries,Baked Berries,food,Food,FoodDishVegetable,0.15,9999,60
+BakedMushroom,Baked Mushroom,food,Food,FoodDishVegetable,1,9999,360
+BLT,Blt,food,Food,FoodDishMeat,0.3,9999,1500
+MeatSauce,Bolognese Sauce,food,Food,FoodDishMeat,0.5,9999,2250
+Pan,Bread,food,Food,FoodDishVegetable,0.3,9999,300
+BakedMeat_LazyCatfish,Broiled Dumud,food,Food,FoodDishFish,2,9999,260
+Yakisoba,Broncherry Fried Noodles,food,Food,FoodDishMeat,0.5,9999,1140
+BakedMeat_SakuraSaurus,Broncherry Rib Roast,food,Food,FoodDishMeat,5,9999,600
+Cake,Cake,food,Food,FoodDishVegetable,1,9999,6300
+Carbonara,Carbonara,food,Food,FoodDishMeat,0.5,9999,1260
+CheeseBurger,Cheeseburger,food,Food,FoodDishMeat,0.3,9999,3400
+ChickenSaute,Chikipi Sauté,food,Food,FoodDishMeat,0.5,9999,240
+Chowder,Dumud Chowder,food,Food,FoodDishFish,0.5,9999,650
+DeerLocoMoco,Eikthyrdeer Loco Moco,food,Food,FoodDishMeat,0.5,9999,820
+DeerStew,Eikthyrdeer Stew,food,Food,FoodDishMeat,0.5,9999,1270
+Cake04,Extravagant Vegetable Cake,food,Food,FoodDishVegetable,1,9999,9360
+PotatoChips,French Fries,food,Food,FoodDishVegetable,0.5,9999,600
+FriedChicken,Fried Chikipi,food,Food,FoodDishMeat,0.5,9999,1020
+FriedEggs,Fried Egg,food,Food,FoodDishMeat,0.5,9999,240
+OctopusGirl_Takoyaki,Fried Gloopie Balls,food,Food,FoodDishFish,1,9999,1380
+FriedKelpie,Fried Kelpsea,food,Food,FoodDishFish,0.5,9999,1070
+MeatAndPotatoes,Galeclaw Nikujaga,food,Food,FoodDishMeat,0.5,9999,960
+Gratin,Gratin,food,Food,FoodDishVegetable,0.5,9999,1020
+BakedMeat_ChickenPal,Grilled Chikipi,food,Food,FoodDishMeat,1,9999,120
+BakedMeat_Eagle,Grilled Galeclaw,food,Food,FoodDishMeat,1,9999,240
+BakedMeat_Kelpie,Grilled Kelpsea,food,Food,FoodDishFish,1,9999,170
+GenghisKhan,Grilled Lamball,food,Food,FoodDishMeat,0.5,9999,340
+GrilledMeat,Grilled Meat,food,Food,FoodDishMeat,1,9999,100
+Hamburger,Hamburger,food,Food,FoodDishMeat,0.3,9999,3250
+BakedMeat_BerryGoat,Herb Roasted Caprity,food,Food,FoodDishMeat,2.5,9999,200
+GrilledSheepHerbs,Herb Roasted Lamball,food,Food,FoodDishMeat,0.5,9999,260
+HotDog,Hot Dog,food,Food,FoodDishMeat,0.5,9999,660
+HotMilk,Hot Milk,food,Food,FoodDishMeat,1.5,9999,240
+JamBun,Jam-filled Bun,food,Food,FoodDishVegetable,0.3,9999,420
+JellyfishFairy_jelly,Jelliette's Jiggly Jelly,food,Food,FoodDishFish,1,9999,1320
+JellyfishGhost_jelly,Jellroy's Jolly Jelly,food,Food,FoodDishFish,1,9999,720
+BakedMeat_SheepBall,Lamball Kebab,food,Food,FoodDishMeat,1,9999,140
+Curry,Mammorest Curry,food,Food,FoodDishMeat,0.5,9999,2040
+BakedMeat_GrassMammoth,Mammorest Steak,food,Food,FoodDishMeat,5,9999,1200
+MarinatedMushrooms,Marinated Mushrooms,food,Food,FoodDishVegetable,0.5,9999,480
+Minestrone,Minestrone,food,Food,FoodDishVegetable,0.5,9999,890
+Cheeseburger_2,Mozzarina Cheeseburger,food,Food,FoodDishMeat,0.5,9999,1430
+Hamburger_2,Mozzarina Hamburger,food,Food,FoodDishMeat,0.5,9999,720
+BakedMeat_CowPal,Mozzarina Steak,food,Food,FoodDishMeat,2.5,9999,230
+BakedMeat_IceCrocodile,Munchill Steak,food,Food,FoodDishFish,1,9999,300
+Cake02,Mushroom Cake,food,Food,FoodDishVegetable,1,9999,7740
+Quiche,Mushroom Quiche,food,Food,FoodDishVegetable,0.5,9999,2220
+MushroomSoup,Mushroom Soup,food,Food,FoodDishVegetable,0.5,9999,840
+MushroomStew,Mushroom Stew,food,Food,FoodDishMeat,0.5,9999,2500
+Omelet,Omelet,food,Food,FoodDishMeat,0.5,9999,580
+Pancake,Pancake,food,Food,FoodDishVegetable,0.5,9999,540
+Pizza,Pizza,food,Food,FoodDishMeat,0.5,9999,1090
+StewedIceDeer,Reindrix Stew,food,Food,FoodDishMeat,0.5,9999,610
+BakedMeat_Deer,Roast Eikthyrdeer,food,Food,FoodDishMeat,2,9999,220
+BakedMeat_IceDeer,Roast Reindrix,food,Food,FoodDishMeat,2,9999,420
+BakedMeat_Boar,Roast Rushoar,food,Food,FoodDishMeat,2,9999,180
+BaconEggs,Rushoar Bacon 'n' Eggs,food,Food,FoodDishMeat,0.5,9999,840
+Gyoza,Rushoar Gyoza,food,Food,FoodDishMeat,0.5,9999,840
+HotDog_2,Rushoar Hot Dog,food,Food,FoodDishMeat,0.5,9999,670
+Salad,Salad,food,Food,FoodDishVegetable,0.3,9999,380
+GrilledSwordCutlassFish,Salt-grilled Skutlass,food,Food,FoodDishFish,1,9999,720
+OctopusGirl_Takoyaki2,Seafood Pasta,food,Food,FoodDishFish,1,9999,1810
+Seafood_Salada,Seafood Salad,food,Food,FoodDishFish,1,9999,1100
+Cake05,Special Cake,food,Food,FoodDishVegetable,1,9999,20400
+SpringRolls,Spring Rolls,food,Food,FoodDishMeat,0.5,9999,1260
+Eaglestew,Stewed Galeclaw,food,Food,FoodDishMeat,0.5,9999,360
+StirFriedVegetables,Stir-fried Vegetables,food,Food,FoodDishVegetable,0.5,9999,480
+FriedVegetables,Stir-fried Veggies,food,Food,FoodDishMeat,0.5,9999,480
+Cake03,Vegetable Cake,food,Food,FoodDishVegetable,1,9999,7200
+Glider_Super,Giga Glider,glider,Glider,Glider,20,1,76080
+Glider_Tera,Hyper Glider,glider,Glider,Glider,25,1,332880
+Glider_Good,Mega Glider,glider,Glider,Glider,15,1,15480
+Glider_Old,Normal Parachute,glider,Glider,Glider,10,1,1300
+WingGlider,Wing Pack,glider,Glider,Glider,25,1,6508680
+Meat_SakuraSaurus,Broncherry Meat,ingredient,Food,FoodMeat,5,9999,500
+Meat_BerryGoat,Caprity Meat,ingredient,Food,FoodMeat,2.5,9999,170
+Sweet_Caramel,Caramel Cotton Candy,ingredient,Food,FoodVegetable,0.2,9999,500
+Carrot,Carrot,ingredient,Food,FoodVegetable,1,9999,100
+CaveMushroom,Cavern Mushroom,ingredient,Food,FoodVegetable,1,9999,500
+Meat_ChickenPal,Chikipi Poultry,ingredient,Food,FoodMeat,1,9999,100
+Sweet,Cotton Candy,ingredient,Food,FoodVegetable,0.2,9999,300
+Egg,Egg,ingredient,Food,FoodMeat,0.5,9999,200
+Meat_Deer,Eikthyrdeer Venison,ingredient,Food,FoodMeat,2,9999,180
+Flour,Flour,ingredient,Food,FoodVegetable,0.1,9999,250
+Meat_Eagle,Galeclaw Poultry,ingredient,Food,FoodMeat,1,9999,200
+Meat_OctopusGirl,Gloopie Tentacle,ingredient,Food,FoodMeat,5,9999,200
+Honey,Honey,ingredient,Food,FoodVegetable,0.2,9999,300
+Meat_JellyfishFairy,Jelliette Bell Flesh,ingredient,Food,FoodMeat,5,9999,250
+Meat_JellyfishGhost,Jellroy Bell Flesh,ingredient,Food,FoodMeat,5,9999,250
+Meat_SheepBall,Lamball Mutton,ingredient,Food,FoodMeat,1,9999,120
+Lettuce,Lettuce,ingredient,Food,FoodVegetable,1,9999,80
+Meat_GrassMammoth,Mammorest Meat,ingredient,Food,FoodMeat,5,9999,1000
+Milk,Milk,ingredient,Food,FoodMeat,1.5,9999,200
+Meat_CowPal,Mozzarina Meat,ingredient,Food,FoodMeat,2.5,9999,190
+Meat_IceCrocodile,Munchill Meat,ingredient,Food,FoodMeat,5,9999,250
+Mushroom,Mushroom,ingredient,Food,FoodVegetable,1,9999,300
+PoisonMushroom,Mysterious Mushroom,ingredient,Food,FoodVegetable,1,9999,800
+Onion,Onion,ingredient,Food,FoodVegetable,1,9999,100
+Potato,Potato,ingredient,Food,FoodVegetable,1,9999,100
+Meat_LazyCatfish,Raw Dumud,ingredient,Food,FoodFish,2,9999,220
+Meat_Kelpie,Raw Kelpsea,ingredient,Food,FoodFish,1,9999,140
+meat,Raw Meat,ingredient,,,,,
+Berries,Red Berries,ingredient,Food,FoodVegetable,0.2,9999,50
+Meat_IceDeer,Reindrix Venison,ingredient,Food,FoodMeat,2,9999,350
+Meat_Boar,Rushoar Pork,ingredient,Food,FoodMeat,2,9999,150
+Meat_SwordCutlassFish,Skutlass Sashimi,ingredient,Food,FoodMeat,5,9999,600
+Tomato,Tomato,ingredient,Food,FoodVegetable,0.5,9999,80
+Wheat,Wheat,ingredient,Food,FoodVegetable,0.2,9999,70
+BossDefeatReward_DomeArmorDragon,Aegidron Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_Anubis,Anubis Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+WaterBuildKit,Aquatic Construction Kit,key,Essential,Essential_UnlockPlayerFuture,0,9999,200
+BossDefeatReward_FlameBuffalo,Arsox Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_BlackMetalDragon,Astegon Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+AutoMealPouch_Tier2,Average Feed Bag,key,Essential,Essential_UnlockPlayerFuture,0,9999,1
+BossDefeatReward_BlueThunderHorse,Azurmane Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_BlueDragon,Azurobe Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_ThunderBird,Beakon Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_KingBahamut,Blazamut Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_Manticore,Blazehowl Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_SakuraSaurus_Water,Broncherry Aqua Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_SakuraSaurus,Broncherry Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_Ronin,Bushi Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_BerryGoat_Dark,Caprity Noct Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+Relic_08,Cattiva Effigy,key,Essential,Essential,0,9999,
+BossDefeatReward_WhiteDeer,Celesdir Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_WhiteDeer_Dark,Celesdir Noct Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_WeaselDragon,Chillet Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_WhiteTiger_Ground,Cryolinx Terra Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_FlowerPrince,Dandilord's Petal,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_RaijinDaughter_Water,Dazzi Noct Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+Relic_07,Depresso Effigy,key,Essential,Essential,0,9999,
+BossDefeatReward_FlowerDinosaur_Electric,Dinossom Lux Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_GrassGolem,Dualith Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_GrassGolem_Dark,Dualith Noct Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_LazyCatfish,Dumud Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_ThunderFluffyBird,Dynamoff Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+WhaleWhistle,Echoing Flute,key,Essential,Essential_UnlockPlayerFuture,0,9999,
+BossDefeatReward_GhostDragon,Eidrolon Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_QueenBee,Elizabee Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_FairyDragon,Elphidran Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+Lantern_High,Enhanced Hip Lantern,key,Essential,Essential_Lamp,0,9999,1
+UnlockEquipmentSlot_Weapon_01,Extra Weapon Holster,key,Essential,Essential_UnlockPlayerFuture,0,9999,1
+UnlockEquipmentSlot_Weapon_02,Extra Weapon Holster 2,key,Essential,Essential_UnlockPlayerFuture,0,9999,1
+BossDefeatReward_Horus_Water,Faleris Aqua Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_CatVampire,Felbat Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_FengyunDeeper,Fenglope Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_FengyunDeeper_Electric,Fenglope Lux Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_FoxExorcist,Flaracle Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_IceFox,Foxicle Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_Kitsunebi_Ice,Foxparks Cryst Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_IceHorse,Frostallion Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_IceHorse_Dark,Frostallion Noct Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+AutoMealPouch_Tier5,Giant Feed Bag,key,Essential,Essential_UnlockPlayerFuture,0,9999,1
+AdditionalInventory_004,Giant Pouch,key,Essential,Essential_AdditionalInventory,0,9999,1
+BossDefeatReward_GoldenHorse,Gildane Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_NaughtyCat,Grintale Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_ElecPanda,Grizzbolt Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_PlantSlime,Gumoss Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+Relic_05,Herbil Effigy,key,Essential,Essential,0,9999,
+Lantern,Hip Lantern,key,Essential,Essential_Lamp,0,9999,1
+AutoMealPouch_Tier4,Huge Feed Bag,key,Essential,Essential_UnlockPlayerFuture,0,9999,1
+BossDefeatReward_JetDragon,Jetragon Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_Umihebi,Jormuntide Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_CatMage,Katress Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+KeySphere_01,Key Sphere Of Envy,key,Essential,Essential,0,99999999,
+KeySphere_05,Key Sphere Of Gluttony,key,Essential,Essential,0,99999999,
+KeySphere_03,Key Sphere Of Greed,key,Essential,Essential,0,99999999,
+KeySphere_06,Key Sphere Of Lust,key,Essential,Essential,0,99999999,
+KeySphere_08,Key Sphere Of Original Sin,key,Essential,Essential,0,99999999,
+KeySphere_02,Key Sphere Of Pride,key,Essential,Essential,0,99999999,
+KeySphere_04,Key Sphere Of Sloth,key,Essential,Essential,0,99999999,
+KeySphere_07,Key Sphere Of Wrath,key,Essential,Essential,0,99999999,
+BossDefeatReward_KingAlpaca,Kingpaca Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_KingAlpaca_Ice,Kingpaca Cryst Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_AmaterasuWolf_Dark,Kitsun Noct Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_WingGolem,Knocklem Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+Relic_01,Lamball Effigy,key,Essential,Essential,0,9999,
+AutoMealPouch_Tier3,Large Feed Bag,key,Essential,Essential_UnlockPlayerFuture,0,9999,1
+AdditionalInventory_003,Large Pouch,key,Essential,Essential_AdditionalInventory,0,9999,1
+Relic,Lifmunk Effigy,key,Essential,Essential,0,9999,
+Unlock_Picking_Tier1,Lockpicking Tool V 1,key,Essential,Essential_UnlockPlayerFuture,0,9999,1
+Unlock_Picking_Tier2,Lockpicking Tool V 2,key,Essential,Essential_UnlockPlayerFuture,0,9999,1
+Unlock_Picking_Tier3,Lockpicking Tool V 3,key,Essential,Essential_UnlockPlayerFuture,0,9999,1
+BossDefeatReward_Werewolf_Ice,Loupmoon Cryst Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_Mutant,Lunaris Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+Relic_09,Lunaris Effigy,key,Essential,Essential,0,9999,
+BossDefeatReward_LilyQueen,Lyleen Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_LilyQueen_Dark,Lyleen Noct Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_GrassMammoth,Mammorest Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+WhaleWhistleFragment_01,Marine Echobone,key,Essential,Essential,0,9999,
+AdditionalInventory_002,Medium Pouch,key,Essential,Essential_AdditionalInventory,0,9999,1
+BossDefeatReward_DarkScorpion,Menasting Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_DarkScorpion_Ground,Menasting Terra Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+Relic_12,Mimog Effigy,key,Essential,Essential,0,9999,
+BossDefeatReward_BossRush,Modified Pal's Contaminated Core,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_VolcanoDragon,Moldron Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_VolcanoDragon_Ice,Moldron Cryst Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_GrassPanda_Electric,Mossanda Lux Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+Relic_03,Munchill Effigy,key,Essential,Essential,0,9999,
+BossDefeatReward_MushroomLady,Mycora Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+UnlockEquipmentSlot_Accessory_01,Mysterious Accessory Box,key,Essential,Essential_UnlockPlayerFuture,0,1,10
+UnlockEquipmentSlot_Accessory_02,Mystic Accessory Box,key,Essential,Essential_UnlockPlayerFuture,0,1,10
+BossDefeatReward_CactusDoll,Needoll Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_PoseidonOrca,Neptilius Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_GhostRabbit,Nitemary Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_HawkBird,Nitewing Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_BadCatgirl,Nyafia Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_MysteryMask,Omascul Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_LotusDragon,Ophydia Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+Relic_02,Pengullet Effigy,key,Essential,Essential,0,9999,
+BossDefeatReward_CaptainPenguin,Penking Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_FlowerDoll,Petallia Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_RockBeast,Pierdon Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_RockBeast_Ice,Pierdon Cryst Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_ScorpionMan_Electric,Prixter Lux Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_BlueberryFairy,Prunelia Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_FireKirin,Pyrin Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_SkyDragon,Quivern Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+Relic_10,Relaxaurus Effigy,key,Essential,Essential,0,9999,
+BossDefeatReward_LazyDragon_Electric,Relaxaurus Lux Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_KabukiMan,Renjishi Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_VolcanicMonster,Reptyro Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_PinkRabbit_Grass,Ribbuny Botan Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+Relic_04,Rooby Effigy,key,Essential,Essential,0,9999,
+WhaleWhistleFragment_03,Seafoam Echobone,key,Essential,Essential,0,9999,
+BossDefeatReward_WhiteMoth,Sibelyx Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+WhaleWhistleFragment_02,Silent Echobone,key,Essential,Essential,0,9999,
+BossDefeatReward_Mothman,Silvance's Plume,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_WhiteShieldDragon,Silvegis Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_ElecLizard,Slowatt Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+AutoMealPouch_Tier1,Small Feed Bag,key,Essential,Essential_UnlockPlayerFuture,0,9999,1
+AdditionalInventory_001,Small Pouch,key,Essential,Essential_AdditionalInventory,0,9999,1
+BossDefeatReward_BlackPuppy,Smokie Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_ElecSnail,Snock Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_GrimGirl,Splatterina Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_NightBlueHorse,Starryon Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BountyProof_2,Successful Hard Bounty Token,key,,,,,
+BossDefeatReward_Suzaku,Suzaku Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_MopKing,Sweepa Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+Relic_06,Tanzee Effigy,key,Essential,Essential,0,9999,
+BossDefeatReward_PurpleSpider,Tarantris Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_CubeTurtle,Tetroise Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_CubeTurtle_Neutral,Tetroise Primo Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+WhaleWhistleFragment_04,Tidewind Echobone,key,Essential,Essential,0,9999,
+TreasureMap01,Treasure Map (Common),key,Consume,ConsumeTreasureMap,0,9999,1
+TreasureMap04,Treasure Map (Epic),key,Consume,ConsumeTreasureMap,0,9999,10
+TreasureMap05,Treasure Map (Legendary),key,Consume,ConsumeTreasureMap,0,9999,10
+TreasureMap03,Treasure Map (Rare),key,Consume,ConsumeTreasureMap,0,9999,10
+TreasureMap02,Treasure Map (Uncommon),key,Consume,ConsumeTreasureMap,0,9999,10
+BossDefeatReward_SaintCentaur,Twin Knights Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_Kirin,Univolt Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_VioletFairy,Vaelet Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_GrassRabbitMan,Verdash Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_HerculesBeetle,Warsect Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_HerculesBeetle_Ground,Warsect Terra Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_IceNarwhal,Whalaska Bounty Token,key,Essential,Essential_BossReward,0,9999,2
+BossDefeatReward_IceNarwhal_Fire,Whalaska Ignis Bounty Token,key,Essential,Essential_BossReward,0,9999,2
+BossDefeatReward_MoonChild,Wistella Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_FoxMage,Wixen Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+BossDefeatReward_Yeti_Grass,Wumpo Botan Bounty Token,key,Essential,Essential_BossReward,0,9999,1
+Relic_11,Yakumo Effigy,key,Essential,Essential,0,9999,
+AIcore,Ai Core,material,Material,MaterialProccessing,10,9999,252940
+Wood_Ancient,Ancient Bark,material,Material,MaterialWood,5,9999,800
+BeastBone_Ancient,Ancient Bone,material,Material,MaterialOre,8,9999,1200
+AncientParts2,Ancient Civilization Core,material,Material,MaterialMonster,1,9999,2000
+PalCrystal_Ex,Ancient Civilization Parts,material,Material,MaterialMonster,1,9999,1000
+Lava_Ancient,Ancient Lava,material,Material,MaterialOre,8,9999,1000
+AncientParts3,Ancient Pal Manuscript,material,Material,MaterialMonster,0.1,9999,1000
+PalFluid,Aquatic Pal Fluids,material,Material,MaterialMonster,0.2,9999,300
+BattleTicket,Battle Ticket,material,Material,MaterialJewelry,0,9999,10
+Poppy,Beautiful Flower,material,Material,Drug,0.2,9999,500
+BerrySeeds,Berry Seeds,material,Material,MaterialMonster,0.05,9999,10
+Bio_Battery,Bio Battery,material,Material,MaterialProccessing,5,9999,2230
+Bone,Bone,material,Material,MaterialMonster,1,9999,200
+CarbonFiber,Carbon Fiber,material,Material,MaterialProccessing,0.2,9999,840
+CarrotSeeds,Carrot Seeds,material,Material,MaterialMonster,0.05,9999,60
+Lotus_weight_02,Carrying Lotus (L),material,Material,MaterialMonster,0.1,9999,30000
+Lotus_weight_01,Carrying Lotus (S),material,Material,MaterialMonster,0.1,9999,20000
+Cement,Cement,material,Material,MaterialProccessing,5,9999,90
+PlayerDropItem,Champion's Emblem,material,Material,MaterialJewelry,0,9999,1
+Charcoal,Charcoal,material,Material,MaterialIngot,2,9999,30
+Chromium,Chromite,material,Material,MaterialOre,3,9999,1500
+MachineParts2,Circuit Board,material,Material,MaterialProccessing,2,9999,2500
+Cloth,Cloth,material,Material,MaterialProccessing,1,9999,480
+Coal,Coal,material,Material,MaterialOre,5,9999,200
+Computer,Computer,material,Material,MaterialProccessing,5,9999,22440
+ManganeseIngot,Coralum Ingot,material,Material,MaterialIngot,3,9999,6000
+ManganeseOre,Coralum Ore,material,Material,MaterialOre,3,9999,2000
+Corrosive_Solvent,Corrosive Solvent,material,Material,MaterialProccessing,3,9999,720
+CrudeOil,Crude Oil,material,Material,MaterialOre,0.5,9999,800
+Bio_Coolant,Cryogenic Coolant,material,Material,MaterialProccessing,3,9999,720
+PalDarkParts,Dark Fragment,material,Material,MaterialMonster,0.2,9999,500
+PalAwakening_Material_Dark,Dark Radiant Gem,material,Material,MaterialMonster,1,9999,1000
+PalItem_RaijinDaughter,Dazzi Cloud,material,Material,MaterialMonster,0.2,9999,500
+WorldTreeRelic_01,Decayed Ancient Relic,material,Material,MaterialMonster,1,9999,10
+Diamond,Diamond,material,Material,MaterialJewelry,5,9999,50000
+DogCoin,Dog Coin,material,Material,MaterialJewelry,0,9999,10
+WorldTreeRelic_02,Dormant Ancient Relic,material,Material,MaterialMonster,1,9999,10
+PalAwakening_Material_Dragon,Dragon Radiant Gem,material,Material,MaterialMonster,1,9999,1000
+Unko_S,Dung,material,Material,MaterialJewelry,1,9999,1
+ElectricOrgan,Electric Organ,material,Material,MaterialMonster,0.5,9999,300
+PalAwakening_Material_Electric,Electric Radiant Gem,material,Material,MaterialMonster,1,9999,1000
+Eemerald,Emerald,material,Material,MaterialJewelry,5,9999,40000
+UniqueMaterial_Mothman,Explosion-resistant Fiber,material,Material,MaterialMonster,1,9999,5000
+Fiber,Fiber,material,Material,MaterialWood,0.5,9999,8
+PalAwakening_Material_Fire,Fire Radiant Gem,material,Material,MaterialMonster,1,9999,1000
+FireOrgan,Flame Organ,material,Material,MaterialMonster,0.5,9999,300
+PalUpgradeStone4,Giant Pal Soul,material,Material,MaterialMonster,0.2,9999,10
+WorldTreeRelic_05,Glistening Ancient Relic,material,Material,MaterialMonster,1,9999,10
+WorldTreeRelic_04,Glowing Ancient Relic,material,Material,MaterialMonster,1,9999,10
+Money,Gold Coin,material,Material,Money,0,99999999,1
+WorldTreeRelic_03,Gorgeous Ancient Relic,material,Material,MaterialMonster,1,9999,10
+PalAwakening_Material_Grass,Grass Radiant Gem,material,Material,MaterialMonster,1,9999,1000
+PalAwakening_Material_Ground,Ground Radiant Gem,material,Material,MaterialMonster,1,9999,1000
+PalItem_PlantSlime,Gumoss Leaf,material,Material,MaterialMonster,0.2,9999,500
+Gunpowder2,Gunpowder,material,Material,MaterialProccessing,0.2,9999,430
+YakushimaIngot001,Hallowed Bar,material,Material,MaterialIngot,0,9999,300
+Wood_Fine,Hardwood,material,Material,MaterialWood,5,9999,100
+StainlessSteel,Hexolite,material,Material,MaterialIngot,1,9999,3000
+RainbowCrystal,Hexolite Quartz,material,Material,MaterialOre,2,9999,1000
+Cloth2,High Quality Cloth,material,Material,MaterialProccessing,1,9999,2640
+PalOil,High Quality Pal Oil,material,Material,MaterialMonster,0.2,9999,300
+HighGrade_Processed_Wood,High Quality Wooden Board,material,Material,MaterialProccessing,3,9999,7680
+Horn,Horn,material,Material,MaterialMonster,1,9999,200
+Unko_L,Huge Dung,material,Material,MaterialJewelry,2,9999,1
+IceOrgan,Ice Organ,material,Material,MaterialMonster,0.5,9999,300
+PalAwakening_Material_Ice,Ice Radiant Gem,material,Material,MaterialMonster,1,9999,1000
+CopperIngot,Ingot,material,Material,MaterialIngot,5,9999,240
+PalItem_CatMage,Katress Hair,material,Material,MaterialMonster,0.2,9999,500
+PalItem_NegativeOctopus,Killamari Tentacle,material,Material,MaterialMonster,0.2,9999,500
+PalUpgradeStone3,Large Pal Soul,material,Material,MaterialMonster,0.2,9999,10
+Leather,Leather,material,Material,MaterialMonster,2,9999,200
+PalItem_LizardMan,Leezpunk Crest,material,Material,MaterialMonster,0.2,9999,500
+LettuceSeeds,Lettuce Seeds,material,Material,MaterialMonster,0.05,9999,40
+Lotus_hp_02,Life Lotus (L),material,Material,MaterialMonster,0.1,9999,30000
+Lotus_hp_01,Life Lotus (S),material,Material,MaterialMonster,0.1,9999,20000
+YakushimaIngot002,Luminite Bar,material,Material,MaterialIngot,0,9999,200
+PalUpgradeStone2,Medium Pal Soul,material,Material,MaterialMonster,0.15,9999,10
+MeteorDrop,Meteorite Fragment,material,Material,MaterialStone,3,9999,1000
+Wood_WorldTree,Mythical Wood,material,Material,MaterialWood,8,9999,1000
+Premium_Processed_Wood,Mythical Wooden Board,material,Material,MaterialProccessing,4,9999,1
+MachineParts,Nail,material,Material,MaterialProccessing,2,9999,60
+PalAwakening_Material_Neutral,Neutral Radiant Gem,material,Material,MaterialMonster,1,9999,1000
+NightStone,Nightstar Sand,material,Material,MaterialOre,1,9999,1000
+OnionSeeds,Onion Seeds,material,Material,MaterialMonster,0.05,9999,70
+CopperOre,Ore,material,Material,MaterialOre,8,9999,100
+StealIngot,Pal Metal Ingot,material,Material,MaterialIngot,5,9999,1250
+Pal_crystal_L,Paldium Chunk,material,Material,MaterialStone,3,9999,1
+Pal_crystal_S,Paldium Fragment,material,Material,MaterialOre,1,9999,70
+WorldTreeOre,Paloxite,material,Material,MaterialOre,5,9999,3000
+WorldTreeIngot,Paloxite Ingot,material,Material,MaterialIngot,3,9999,16200
+PalItem_CaptainPenguin,Penking Plume,material,Material,MaterialMonster,0.2,9999,500
+Plastic,Plasteel,material,Material,MaterialIngot,1,9999,2520
+Polymer,Polymer,material,Material,MaterialProccessing,0.5,9999,1080
+PotatoSeeds,Potato Seeds,material,Material,MaterialMonster,0.05,9999,50
+Lotus_attack_02,Power Lotus (L),material,Material,MaterialMonster,0.1,9999,30000
+Lotus_attack_01,Power Lotus (S),material,Material,MaterialMonster,0.1,9999,20000
+PalItem_ToSell_04,Precious Claw,material,Material,MaterialMonster,0,9999,7500
+PalItem_ToSell_01,Precious Dragon Stone,material,Material,MaterialMonster,0,9999,15000
+PalItem_ToSell_03,Precious Entrails,material,Material,MaterialMonster,0,9999,12500
+PalItem_ToSell_05,Precious Pelt,material,Material,MaterialMonster,0,9999,5000
+PalItem_ToSell_02,Precious Plume,material,Material,MaterialMonster,0,9999,10000
+PredatorCrystal,Predator Core,material,Material,MaterialJewelry,0,9999,20000
+Quartz,Pure Quartz,material,Material,MaterialOre,5,9999,500
+IronIngot,Refined Ingot,material,Material,MaterialIngot,5,9999,720
+PalItem_PinkRabbit,Ribbuny Ribbon,material,Material,MaterialMonster,0.2,9999,500
+Ruby,Ruby,material,Material,MaterialJewelry,5,9999,20000
+Sapphire,Sapphire,material,Material,MaterialJewelry,5,9999,30000
+Silicon,Silicon,material,Material,MaterialProccessing,0.2,9999,1
+PalUpgradeStone,Small Pal Soul,material,Material,MaterialMonster,0.1,9999,10
+SkyIslandOre,Soralite,material,Material,MaterialOre,5,9999,2500
+SkyislandIngot,Soralite Ingot,material,Material,MaterialIngot,3,9999,7200
+Lotus_workspeed_02,Speed Lotus (L),material,Material,MaterialMonster,0.1,9999,30000
+Lotus_workspeed_01,Speed Lotus (S),material,Material,MaterialMonster,0.1,9999,20000
+Lotus_stamina_02,Stamina Lotus (L),material,Material,MaterialMonster,0.1,9999,30000
+Lotus_stamina_01,Stamina Lotus (S),material,Material,MaterialMonster,0.1,9999,20000
+Stone,Stone,material,Material,MaterialStone,3,9999,12
+BountyProof_1,Successful Bounty Token,material,Material,MaterialJewelry,0,9999,10
+Sulfur,Sulfur,material,Material,MaterialOre,3,9999,300
+PalItem_MopBaby,Swee Hair,material,Material,MaterialMonster,0.2,9999,500
+Thermal_Core,Thermal Core,material,Material,MaterialProccessing,8,9999,12290
+PalItem_ColorfulBird,Tocotoco Feather,material,Material,MaterialMonster,0.2,9999,500
+TomatoSeeds,Tomato Seeds,material,Material,MaterialMonster,0.05,9999,30
+UniqueMaterial_FlowerPrince,Toxin Filtering Membrane,material,Material,MaterialMonster,1,9999,5000
+Venom,Venom Gland,material,Material,MaterialMonster,0.5,9999,300
+PalAwakening_Material_Water,Water Radiant Gem,material,Material,MaterialMonster,1,9999,1000
+WheatSeeds,Wheat Seeds,material,Material,MaterialMonster,0.05,9999,20
+Wood,Wood,material,Material,MaterialWood,3,9999,12
+Processed_Wood,Wooden Board,material,Material,MaterialProccessing,2,9999,260
+Wool,Wool,material,Material,MaterialMonster,1,9999,200
+PalEgg_Normal_01,Common Egg,pal_egg,Material,MaterialPalEgg,10,1,10
+PalEgg_Water_01,Damp Egg,pal_egg,Material,MaterialPalEgg,10,1,10
+PalEgg_Dark_01,Dark Egg,pal_egg,Material,MaterialPalEgg,10,1,10
+PalEgg_Dragon_01,Dragon Egg,pal_egg,Material,MaterialPalEgg,10,1,10
+PalEgg_Electricity_01,Electric Egg,pal_egg,Material,MaterialPalEgg,10,1,10
+PalEgg_Ice_01,Frozen Egg,pal_egg,Material,MaterialPalEgg,10,1,10
+PalEgg_MutationPal_01,Mutated Egg,pal_egg,Material,MaterialPalEgg,10,1,10
+PalEgg_WorldTree_01,Ominous Egg,pal_egg,Material,MaterialPalEgg,10,1,10
+PalEgg_Earth_01,Rocky Egg,pal_egg,Material,MaterialPalEgg,10,1,10
+PalEgg_Fire_01,Scorching Egg,pal_egg,Material,MaterialPalEgg,10,1,10
+PalEgg_Leaf_01,Verdant Egg,pal_egg,Material,MaterialPalEgg,10,1,10
+SkillUnlock_DomeArmorDragon,Aegidron Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_Anubis,Anubis's Power Converter,pal_gear,,,,,
+SkillUnlock_FlameBuffalo,Arsox Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_BlackMetalDragon,Astegon Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_BlueThunderHorse,Azurmane Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_BlueDragon_Ice,Azurobe Cryst Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_BlueDragon,Azurobe Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_SnowTigerBeastman,Bastigor's Hammer,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_ThunderBird_Ice,Beakon Cryst Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_ThunderBird,Beakon Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_KingBahamut_Dragon,Blazamut Ryu Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_KingBahamut,Blazamut Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_Manticore_Dark,Blazehowl Noct Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_Manticore,Blazehowl Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_ElecLion,Boltmane Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_Plesiosaur,Braloha Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_SakuraSaurus_Water,Broncherry Aqua Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_SakuraSaurus,Broncherry Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_SumoDog,Bulldosu Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_FlyingManta_Thunder,Celaray Lux's Gloves,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_FlyingManta,Celaray's Gloves,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_WhiteDeer_Dark,Celesdir Noct Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_WhiteDeer,Celesdir Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_WeaselDragon_Fire,Chillet Ignis Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_WeaselDragon,Chillet Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_DreamDemon,Daedream's Necklace,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_FeatherOstrich,Dazemu Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_RaijinDaughter_Water,Dazzi Noct's Necklace,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_RaijinDaughter,Dazzi's Necklace,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_DrillGame,Digtoise's Headband,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_FlowerDinosaur_Electric,Dinossom Lux Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_FlowerDinosaur,Dinossom Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_Garm,Direhowl's Saddled Harness,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_BlackFurDragon,Dragostrophe's Shotgun,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_GrassGolem_Dark,Dualith Noct Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_GrassGolem,Dualith Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_ThunderFluffyBird,Dynamoff Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_GhostDragon_Fire,Eidrolon Ignis Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_GhostDragon,Eidrolon Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_Deer,Eikthyrdeer Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_Deer_Ground,Eikthyrdeer Terra Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_FairyDragon_Water,Elphidran Aqua Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_FairyDragon,Elphidran Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_Horus_Water,Faleris Aqua Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_Horus,Faleris Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_FengyunDeeper_Electric,Fenglope Lux Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_FengyunDeeper,Fenglope Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_FlowerRabbit,Flopie's Necklace,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_Kitsunebi_Ice,Foxparks Cryst's Harness,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_Kitsunebi,Foxparks' Harness,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_IceHorse_Dark,Frostallion Noct Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_IceHorse,Frostallion Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_Eagle,Galeclaw's Gloves,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_GhostAnglerfish_Fire,Ghangler Ignis Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_GhostAnglerfish,Ghangler Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_GoldenHorse,Gildane Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_NaughtyCat,Grintale Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_ElecPanda,Grizzbolt's Minigun,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_WindChimes_Ice,Hangyu Cryst's Glove,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_WindChimes,Hangyu's Gloves,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_LegendDeer,Hartalis Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_HadesBird_Electric,Helzephyr Lux Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_HadesBird,Helzephyr Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_LeafMomonga,Herbil's Harness,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_JetDragon,Jetragon's Missile Launcher,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_Hedgehog_Ice,Jolthog Cryst's Gloves,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_Hedgehog,Jolthog's Gloves,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_Umihebi_Fire,Jormuntide Ignis Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_Umihebi,Jormuntide Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_NegativeOctopus_Neutral,Killamari Primo's Gloves,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_NegativeOctopus,Killamari's Gloves,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_KingAlpaca_Ice,Kingpaca Cryst Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_KingAlpaca,Kingpaca Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_AmaterasuWolf_Dark,Kitsun Noct Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_AmaterasuWolf,Kitsun Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_Carbunclo,Lifmunk's Submachine Gun,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_LilyQueen,Lyleen's Floral Ornament,pal_gear,,,,,
+SkillUnlock_GrassMammoth_Ice,Mammorest Cryst Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_GrassMammoth,Mammorest Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_GhostBeast,Maraith Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_Alpaca,Melpaca Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_VolcanoDragon_Ice,Moldron Cryst Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_VolcanoDragon,Moldron Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_GrassPanda_Electric,Mossanda Lux's Grenade Launcher,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_GrassPanda,Mossanda's Grenade Launcher,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_BlackCentaur,Necromus Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_PoseidonOrca,Neptilius Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_HawkBird,Nitewing Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_BadCatgirl,Nyafia's Shotgun,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_LotusDragon,Ophydia Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_SaintCentaur,Paladius Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_TropicalOstrich,Palumba Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_Penguin_Electric,Pengullet Lux's Rocket Launcher,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_Penguin,Pengullet Rocket Launcher,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_CaptainPenguin,Penking's Rocket Launcher,pal_gear,,,,,
+SkillUnlock_IceSeal,Polapup Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_IceSeal_Ground,Polapup Terra Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_FireKirin_Dark,Pyrin Noct Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_FireKirin,Pyrin Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_SkyDragon_Grass,Quivern Botan Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_SkyDragon,Quivern Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_RedArmorBird,Ragnahawk Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_Thunderdog_Ice,Rayhound Cryst Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_ThunderDog,Rayhound Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_IceDeer,Reindrix Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_LazyDragon_Electric,Relaxaurus Lux's Missile Launcher,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_LazyDragon,Relaxaurus' Missile Launcher,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_VolcanicMonster_Ice,Reptyro Cryst Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_VolcanicMonster,Reptyro Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_ThiefBird,Roujay Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_Boar,Rushoar Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_MoonQueen,Selyne Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_BlackGriffon,Shadowbeak Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_BlueSkyDragon,Shaolong Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_MushroomDragon_Dark,Shroomer Noct Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_MushroomDragon,Shroomer Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_WhiteShieldDragon,Silvegis Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_BlackPuppy_Ice,Smokie Cryst's Harness,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_BlackPuppy,Smokie's Harness,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_KingSunfish_Thunder,Solmora Lux Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_KingSunfish,Solmora Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_NightBlueHorse_Neutral,Starryon Primo Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_NightBlueHorse,Starryon Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_Serpent,Surfent Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_Serpent_Ground,Surfent Terra Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_Suzaku_Water,Suzaku Aqua Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_Suzaku,Suzaku Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_MopKing,Sweepa Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_Monkey_Fire,Tanzee Ignis's Assault Rifle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_Monkey,Tanzee's Assault Rifle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_PurpleSpider,Tarantriss Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_CubeTurtle_Neutral,Tetroise Primo Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_CubeTurtle,Tetroise Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_ColorfulBird,Tocotoco's Gloves,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_Kirin_Ice,Univolt Cryst Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_Kirin,Univolt Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_BirdDragon_Ice,Vanwyrm Cryst Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_BirdDragon,Vanwyrm Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_HerculesBeetle,Warsect Saddle,pal_gear,,,,,
+SkillUnlock_IceNarwhal_Fire,Whalaska Ignis Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_IceNarwhal,Whalaska Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_Yeti_Grass,Wumpo Botan Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_Yeti,Wumpo Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillUnlock_WhiteAlienDragon,Xenogard Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_DarkMechaDragon,Xenolord Saddle,pal_gear,Essential,Essential_PalGear,0,9999,
+SkillUnlock_GuardianDog,Yakumo Saddle,pal_gear,Essential,Essential_PalGear,0,999999,
+SkillCard_Apocalypse,Dark Skill Fruit: Apocalypse,skill_fruit,Consume,ConsumeWazaMachine,0,9999,5000
+SkillCard_DarkArrow,Dark Skill Fruit: Dark Arrow,skill_fruit,Consume,ConsumeWazaMachine,0,9999,3000
+SkillCard_DarkCanon,Dark Skill Fruit: Dark Cannon,skill_fruit,Consume,ConsumeWazaMachine,0,9999,1000
+SkillCard_DarkLaser,Dark Skill Fruit: Dark Laser,skill_fruit,Consume,ConsumeWazaMachine,0,9999,5000
+SkillCard_GravityShot,Dark Skill Fruit: Dark Shot,skill_fruit,Consume,ConsumeWazaMachine,0,9999,1000
+SkillCard_DarkLegion,Dark Skill Fruit: Dark Whisp,skill_fruit,Consume,ConsumeWazaMachine,0,9999,5000
+SkillCard_ShadowBall,Dark Skill Fruit: Nightmare Ball,skill_fruit,Consume,ConsumeWazaMachine,0,9999,3000
+SkillCard_PoisonShot,Dark Skill Fruit: Poison Blast,skill_fruit,Consume,ConsumeWazaMachine,0,9999,1000
+SkillCard_BubbleShower,Dark Skill Fruit: Poison Shower,skill_fruit,Consume,ConsumeWazaMachine,0,9999,1500
+SkillCard_Psychokinesis,Dark Skill Fruit: Psycho Gravity,skill_fruit,Consume,ConsumeWazaMachine,0,9999,5000
+SkillCard_DarkWave,Dark Skill Fruit: Shadow Burst,skill_fruit,Consume,ConsumeWazaMachine,0,9999,1000
+SkillCard_GhostFlame,Dark Skill Fruit: Spirit Flame,skill_fruit,Consume,ConsumeWazaMachine,0,9999,1000
+SkillCard_DarkPulse,Dark Skill Fruit: Umbral Surge,skill_fruit,Consume,ConsumeWazaMachine,0,9999,1000
+SkillCard_BeamSlicer,Dragon Skill Fruit: Beam Slicer,skill_fruit,Consume,ConsumeWazaMachine,0,9999,5000
+SkillCard_BlastCanon,Dragon Skill Fruit: Blast Cannon,skill_fruit,Consume,ConsumeWazaMachine,0,9999,3000
+SkillCard_ChargeCanon,Dragon Skill Fruit: Charge Cannon,skill_fruit,Consume,ConsumeWazaMachine,0,9999,5000
+SkillCard_Commet,Dragon Skill Fruit: Comet,skill_fruit,Consume,ConsumeWazaMachine,0,9999,3000
+SkillCard_DragonBreath,Dragon Skill Fruit: Dragon Breath,skill_fruit,Consume,ConsumeWazaMachine,0,9999,3000
+SkillCard_DragonWave,Dragon Skill Fruit: Dragon Burst,skill_fruit,Consume,ConsumeWazaMachine,0,9999,1000
+SkillCard_DragonCanon,Dragon Skill Fruit: Dragon Cannon,skill_fruit,Consume,ConsumeWazaMachine,0,9999,1000
+SkillCard_DragonMeteor,Dragon Skill Fruit: Dragon Meteor,skill_fruit,Consume,ConsumeWazaMachine,0,9999,5000
+SkillCard_ThunderBall,Electric Skill Fruit: Electric Ball,skill_fruit,Consume,ConsumeWazaMachine,0,9999,1000
+SkillCard_Thunderbolt,Electric Skill Fruit: Lightning Bolt,skill_fruit,Consume,ConsumeWazaMachine,0,9999,5000
+SkillCard_LineThunder,Electric Skill Fruit: Lightning Streak,skill_fruit,Consume,ConsumeWazaMachine,0,9999,3000
+SkillCard_LightningStrike,Electric Skill Fruit: Lightning Strike,skill_fruit,Consume,ConsumeWazaMachine,0,9999,5000
+SkillCard_LockonLaser,Electric Skill Fruit: Lock-on Laser,skill_fruit,Consume,ConsumeWazaMachine,0,9999,3000
+SkillCard_ThunderFunnel,Electric Skill Fruit: Plasma Funnel,skill_fruit,Consume,ConsumeWazaMachine,0,9999,1000
+SkillCard_ElecWave,Electric Skill Fruit: Shockwave,skill_fruit,Consume,ConsumeWazaMachine,0,9999,1000
+SkillCard_SpreadPulse,Electric Skill Fruit: Spark Blast,skill_fruit,Consume,ConsumeWazaMachine,0,9999,1000
+SkillCard_ThunderRain,Electric Skill Fruit: Thunder Rain,skill_fruit,Consume,ConsumeWazaMachine,0,9999,5000
+SkillCard_ThunderSpear,Electric Skill Fruit: Thunder Spear,skill_fruit,Consume,ConsumeWazaMachine,0,9999,1000
+SkillCard_ThunderStorm,Electric Skill Fruit: Thunderstorm,skill_fruit,Consume,ConsumeWazaMachine,0,9999,5000
+SkillCard_TriSpark,Electric Skill Fruit: Tri Spark,skill_fruit,Consume,ConsumeWazaMachine,0,9999,3000
+SkillCard_ThreeThunder,Electric Skill Fruit: Tri-lightning,skill_fruit,Consume,ConsumeWazaMachine,0,9999,3000
+SkillCard_FireBall,Fire Skill Fruit: Fire Ball,skill_fruit,Consume,ConsumeWazaMachine,0,9999,5000
+SkillCard_FlameFunnel,Fire Skill Fruit: Flame Funnel,skill_fruit,Consume,ConsumeWazaMachine,0,9999,5000
+SkillCard_FlameWall,Fire Skill Fruit: Flame Wall,skill_fruit,Consume,ConsumeWazaMachine,0,9999,3000
+SkillCard_FlareArrow,Fire Skill Fruit: Flare Arrow,skill_fruit,Consume,ConsumeWazaMachine,0,9999,1000
+SkillCard_FlareTornado,Fire Skill Fruit: Flare Storm,skill_fruit,Consume,ConsumeWazaMachine,0,9999,3000
+SkillCard_FireBlast,Fire Skill Fruit: Ignis Blast,skill_fruit,Consume,ConsumeWazaMachine,0,9999,1000
+SkillCard_Flamethrower,Fire Skill Fruit: Ignis Breath,skill_fruit,Consume,ConsumeWazaMachine,0,9999,3000
+SkillCard_Inferno,Fire Skill Fruit: Ignis Rage,skill_fruit,Consume,ConsumeWazaMachine,0,9999,5000
+SkillCard_FireSeed,Fire Skill Fruit: Spirit Fire,skill_fruit,Consume,ConsumeWazaMachine,0,9999,1000
+SkillCard_Eruption,Fire Skill Fruit: Volcanic Rain,skill_fruit,Consume,ConsumeWazaMachine,0,9999,5000
+SkillCard_RootLance,Grass Skill Fruit: Circle Vine,skill_fruit,Consume,ConsumeWazaMachine,0,9999,5000
+SkillCard_CrossWind,Grass Skill Fruit: Crosswind,skill_fruit,Consume,ConsumeWazaMachine,0,9999,5000
+SkillCard_GrassTornado,Grass Skill Fruit: Grass Tornado,skill_fruit,Consume,ConsumeWazaMachine,0,9999,3000
+SkillCard_SpecialCutter,Grass Skill Fruit: Multicutter,skill_fruit,Consume,ConsumeWazaMachine,0,9999,3000
+SkillCard_ReflectiveShuriken,Grass Skill Fruit: Reflect Leaf,skill_fruit,Consume,ConsumeWazaMachine,0,9999,5000
+SkillCard_SeedMachinegun,Grass Skill Fruit: Seed Machine Gun,skill_fruit,Consume,ConsumeWazaMachine,0,9999,1000
+SkillCard_SeedMine,Grass Skill Fruit: Seed Mine,skill_fruit,Consume,ConsumeWazaMachine,0,9999,3000
+SkillCard_SolarBeam,Grass Skill Fruit: Solar Blast,skill_fruit,Consume,ConsumeWazaMachine,0,9999,5000
+SkillCard_RootAttack,Grass Skill Fruit: Spine Vine,skill_fruit,Consume,ConsumeWazaMachine,0,9999,3000
+SkillCard_WindBurst,Grass Skill Fruit: Wind Blast,skill_fruit,Consume,ConsumeWazaMachine,0,9999,1500
+SkillCard_WindCutter,Grass Skill Fruit: Wind Cutter,skill_fruit,Consume,ConsumeWazaMachine,0,9999,1000
+SkillCard_MudShot,Ground Skill Fruit: Bog Blast,skill_fruit,Consume,ConsumeWazaMachine,0,9999,1000
+SkillCard_RockLance,Ground Skill Fruit: Rock Lance,skill_fruit,Consume,ConsumeWazaMachine,0,9999,5000
+SkillCard_Tremor,Ground Skill Fruit: Rockburst,skill_fruit,Consume,ConsumeWazaMachine,0,9999,5000
+SkillCard_RockBeat,Ground Skill Fruit: Rocky Impact,skill_fruit,Consume,ConsumeWazaMachine,0,9999,5000
+SkillCard_SandTornado,Ground Skill Fruit: Sand Tornado,skill_fruit,Consume,ConsumeWazaMachine,0,9999,3000
+SkillCard_SandTwister,Ground Skill Fruit: Sand Twister,skill_fruit,Consume,ConsumeWazaMachine,0,9999,5000
+SkillCard_StoneShotgun,Ground Skill Fruit: Stone Blast,skill_fruit,Consume,ConsumeWazaMachine,0,9999,1000
+SkillCard_ThrowRock,Ground Skill Fruit: Stone Cannon,skill_fruit,Consume,ConsumeWazaMachine,0,9999,1000
+SkillCard_IceAge,Ice Skill Fruit: Absolute Frost,skill_fruit,Consume,ConsumeWazaMachine,0,9999,5000
+SkillCard_IcicleThrow,Ice Skill Fruit: Blizzard Spike,skill_fruit,Consume,ConsumeWazaMachine,0,9999,5000
+SkillCard_FrostBreath,Ice Skill Fruit: Crystal Breath,skill_fruit,Consume,ConsumeWazaMachine,0,9999,3000
+SkillCard_DiamondFall,Ice Skill Fruit: Diamond Rain,skill_fruit,Consume,ConsumeWazaMachine,0,9999,5000
+SkillCard_IceWall,Ice Skill Fruit: Freeze Wall,skill_fruit,Consume,ConsumeWazaMachine,0,9999,3000
+SkillCard_IceMissile,Ice Skill Fruit: Ice Missile,skill_fruit,Consume,ConsumeWazaMachine,0,9999,1000
+SkillCard_BlizzardLance,Ice Skill Fruit: Iceberg,skill_fruit,Consume,ConsumeWazaMachine,0,9999,3000
+SkillCard_IciclePierce,Ice Skill Fruit: Icicle Bullet,skill_fruit,Consume,ConsumeWazaMachine,0,9999,3000
+SkillCard_IceBlade,Ice Skill Fruit: Icicle Cutter,skill_fruit,Consume,ConsumeWazaMachine,0,9999,1000
+SkillCard_IcicleLine,Ice Skill Fruit: Icicle Line,skill_fruit,Consume,ConsumeWazaMachine,0,9999,5000
+SkillCard_AirBlade,Skill Fruit: Air Blade,skill_fruit,Consume,ConsumeWazaMachine,0,9999,3000
+SkillCard_AirCanon,Skill Fruit: Air Cannon,skill_fruit,Consume,ConsumeWazaMachine,0,9999,1000
+SkillCard_HolyBlast,Skill Fruit: Holy Burst,skill_fruit,Consume,ConsumeWazaMachine,0,9999,5000
+SkillCard_SelfDestruct,Skill Fruit: Implode,skill_fruit,Consume,ConsumeWazaMachine,0,9999,3000
+SkillCard_HyperBeam,Skill Fruit: Pal Blast,skill_fruit,Consume,ConsumeWazaMachine,0,9999,5000
+SkillCard_PowerBall,Skill Fruit: Power Bomb,skill_fruit,Consume,ConsumeWazaMachine,0,9999,3000
+SkillCard_PowerShot,Skill Fruit: Power Shot,skill_fruit,Consume,ConsumeWazaMachine,0,9999,1000
+SkillCard_RangeThunder,Thunder Skill Fruit: All Range Thunder,skill_fruit,Consume,ConsumeWazaMachine,0,9999,5000
+SkillCard_AcidRain,Water Skill Fruit: Acid Rain,skill_fruit,Consume,ConsumeWazaMachine,0,9999,3000
+SkillCard_WaterBall,Water Skill Fruit: Aqua Burst,skill_fruit,Consume,ConsumeWazaMachine,0,9999,3000
+SkillCard_WaterGun,Water Skill Fruit: Aqua Gun,skill_fruit,Consume,ConsumeWazaMachine,0,9999,1000
+SkillCard_RipTide,Water Skill Fruit: Aqua Surge,skill_fruit,Consume,ConsumeWazaMachine,0,9999,5000
+SkillCard_BubbleShot,Water Skill Fruit: Bubble Blast,skill_fruit,Consume,ConsumeWazaMachine,0,9999,3000
+SkillCard_WallSplash,Water Skill Fruit: Curtain Splash,skill_fruit,Consume,ConsumeWazaMachine,0,9999,5000
+SkillCard_SeaGush,Water Skill Fruit: Geyser Gush,skill_fruit,Consume,ConsumeWazaMachine,0,9999,1500
+SkillCard_AquaJet,Water Skill Fruit: Hydro Jet,skill_fruit,Consume,ConsumeWazaMachine,0,9999,1000
+SkillCard_HydroPump,Water Skill Fruit: Hydro Laser,skill_fruit,Consume,ConsumeWazaMachine,0,9999,5000
+SkillCard_HydroSlicer,Water Skill Fruit: Hydro Slicer,skill_fruit,Consume,ConsumeWazaMachine,0,9999,5000
+SkillCard_LineGeyser,Water Skill Fruit: Splash,skill_fruit,Consume,ConsumeWazaMachine,0,9999,3000
+SkillCard_DiversionLaser,Water Skill Fruit: Torrential Blast,skill_fruit,Consume,ConsumeWazaMachine,0,9999,3000
+PalSphere_Ancient_2,Ancient Sphere,sphere,SpecialWeapon,SPWeaponCaptureBall,0.1,9999,122760
+PalSphere_Exotic,Exotic Sphere,sphere,SpecialWeapon,SPWeaponCaptureBall,0.1,9999,9080
+PalSphere_Giga,Giga Sphere,sphere,SpecialWeapon,SPWeaponCaptureBall,0.1,9999,890
+PalSphere_Tera,Hyper Sphere,sphere,SpecialWeapon,SPWeaponCaptureBall,0.1,9999,1350
+PalSphere_Legend,Legendary Sphere,sphere,SpecialWeapon,SPWeaponCaptureBall,0.1,9999,5570
+PalSphere_Mega,Mega Sphere,sphere,SpecialWeapon,SPWeaponCaptureBall,0.1,9999,460
+PalSphere,Pal Sphere,sphere,SpecialWeapon,SPWeaponCaptureBall,0.1,9999,80
+PalSphere_Robbery,Radar Sphere,sphere,SpecialWeapon,SPWeaponCaptureBall,1,9999,1
+PalSphere_Ancient_1,Sol Sphere,sphere,SpecialWeapon,SPWeaponCaptureBall,0.1,9999,21000
+PalSphere_Ultimate,Ultimate Sphere,sphere,SpecialWeapon,SPWeaponCaptureBall,0.1,9999,12560
+PalSphere_Master,Ultra Sphere,sphere,SpecialWeapon,SPWeaponCaptureBall,0.1,9999,3300
+SphereModule_Curve,Curve Module,sphere_module,CaptureItemModifier,CaptureItemModifier,1,1,14280
+SphereModule_Heavy,Heavy Weight Module,sphere_module,CaptureItemModifier,CaptureItemModifier,1,1,4010
+SphereModule_Homing,Homing Module,sphere_module,CaptureItemModifier,CaptureItemModifier,1,1,1432580
+SphereModule_Curve2,Slider Module,sphere_module,CaptureItemModifier,CaptureItemModifier,1,1,68350
+SphereModule_Sniper,Sniper Module,sphere_module,CaptureItemModifier,CaptureItemModifier,1,1,31440
+SphereModule_Sniper2,Sniper Module Ii,sphere_module,CaptureItemModifier,CaptureItemModifier,1,1,120840
+EnergyStorage_Electric,Accumulator,structure,BuildObject,Structure,,,
+ItemChest_04,Advanced Chest,structure,BuildObject,Structure,,,
+MedicineFacility_03,Advanced Medicine Workbench,structure,BuildObject,Structure,,,
+SphereFactory_Black_04,Advanced Sphere Assembly Line,structure,BuildObject,Structure,,,
+WeaponFactory_Dirty_04,Advanced Weapon Assembly Line,structure,BuildObject,Structure,,,
+Factory_Hard_04,Advanced Workshop,structure,BuildObject,Structure,,,
+BaseCampBattleDirector,Alarm Bell,structure,BuildObject,Structure,,,
+SanityDecrease1,Alpha Wave Generator,structure,BuildObject,Structure,,,
+GoalSoccer_Iron,Amusement Furniture Set,structure,BuildObject,Structure,,,
+Ancient_Clinic,Ancient Clinic,structure,BuildObject,Structure,,,
+AncientFarmBlock,Ancient Farm,structure,BuildObject,Structure,,,
+AncientBlastFurnace,Ancient Furnace,structure,BuildObject,Structure,,,
+MultiElectricHatchingPalEggWithBreed,Ancient Hatchery,structure,BuildObject,Structure,,,
+Ancient_Spa,Ancient Hot Spring,structure,BuildObject,Structure,,,
+AncientCookingStove,Ancient Kitchen,structure,BuildObject,Structure,,,
+AncientMultiProduct,Ancient Material Synthesizer,structure,BuildObject,Structure,,,
+BaseCampWorkHard03,Ancient Monitoring Stand,structure,BuildObject,Structure,,,
+Ancient_MedicalPalBed,Ancient Pal Bed,structure,BuildObject,Structure,,,
+AncientElectricGenerator,Ancient Power Generator,structure,BuildObject,Structure,,,
+AncientRelicRecycler,Ancient Relic Recycler,structure,BuildObject,Structure,,,
+Ancient_foundation,Ancient Structure Set,structure,BuildObject,Structure,,,
+AncientWorkBench,Ancient Workbench,structure,BuildObject,Structure,,,
+BathTub_Stone,Antique Bath Set,structure,BuildObject,Structure,,,
+Chair01_Stone,Antique Chair Set,structure,BuildObject,Structure,,,
+Sofa01_Stone,Antique Couch Set,structure,BuildObject,Structure,,,
+Desk01_Stone,Antique Desk Set,structure,BuildObject,Structure,,,
+TableDresser01_Stone,Antique Dresser,structure,BuildObject,Structure,,,
+Curtain01_Wall_Stone,Antique High Quality Furniture Set,structure,BuildObject,Structure,,,
+Light_FloorLamp01,Antique Lamp Set,structure,BuildObject,Structure,,,
+Mirror01_Stone,Antique Mirror Set,structure,BuildObject,Structure,,,
+Shelf05_Stone,Antique Storage Cabinet Set,structure,BuildObject,Structure,,,
+Shelf01_Stone,Antique Storage Set,structure,BuildObject,Structure,,,
+SkyIsland_Flag,Azure Covenant Flag Set,structure,BuildObject,Structure,,,
+TrafficBarricade01_Iron,Barricade Set,structure,BuildObject,Structure,,,
+Toilet01_Stone,Bathroom Set,structure,BuildObject,Structure,,,
+Trap_LegHold_Big,Bear Trap (Large),structure,BuildObject,Structure,,,
+Trap_LegHold,Bear Trap (Small),structure,BuildObject,Structure,,,
+FarmBlockV2_Berries,Berry Plantation,structure,BuildObject,Structure,,,
+WorkSpeedIncrease1,Beta Wave Generator,structure,BuildObject,Structure,,,
+BreedFarm,Breeding Farm,structure,BuildObject,Structure,,,
+FireCult_Flag,Brothers Of The Eternal Pyre Flag Set,structure,BuildObject,Structure,,,
+CampFire,Campfire,structure,BuildObject,Structure,,,
+Rug01_Stone,Carpet Set,structure,BuildObject,Structure,,,
+FarmBlockV2_Carrot,Carrot Plantation,structure,BuildObject,Structure,,,
+CeilingLamp,Ceiling Lamp,structure,BuildObject,Structure,,,
+Clinic,Clinic,structure,BuildObject,Structure,,,
+Clock01_Wall_Iron,Clock Set,structure,BuildObject,Structure,,,
+CoalPit,Coal Quarry,structure,BuildObject,Structure,,,
+CoolerPalFoodBox,Cold Food Box,structure,BuildObject,Structure,,,
+CookingStove,Cooking Pot,structure,BuildObject,Structure,,,
+Cooler,Cooler,structure,BuildObject,Structure,,,
+CoolerBox,Cooler Box,structure,BuildObject,Structure,,,
+OilPump,Crude Oil Extractor,structure,BuildObject,Structure,,,
+Crusher,Crusher,structure,BuildObject,Structure,,,
+IceCrusher,Cryogenic Crusher,structure,BuildObject,Structure,,,
+DimensionPalStorage,Dimensional Pal Storage,structure,BuildObject,Structure,,,
+CompositeDesk,Drafting Table,structure,BuildObject,Structure,,,
+HatchingPalEgg,Egg Incubator,structure,BuildObject,Structure,,,
+ElectricCooler,Electric Cooler,structure,BuildObject,Structure,,,
+ElectricHatchingPalEgg,Electric Egg Incubator,structure,BuildObject,Structure,,,
+BlastFurnace3,Electric Furnace,structure,BuildObject,Structure,,,
+ElectricHeater,Electric Heater,structure,BuildObject,Structure,,,
+ElectricKitchen,Electric Kitchen,structure,BuildObject,Structure,,,
+MedicineFacility_02,Electric Medicine Workbench,structure,BuildObject,Structure,,,
+Trap_MineElecShock,Electric Mine,structure,BuildObject,Structure,,,
+TransmissionTower,Electric Pylon,structure,BuildObject,Structure,,,
+SignExit_Ceiling_Iron,Emergency Exit Sign Set,structure,BuildObject,Structure,,,
+FurnitureTree01_Bamboo,Faux Bamboo Set,structure,BuildObject,Structure,,,
+FurnitureTree01_Cherry,Faux Cherry Blossoms Set,structure,BuildObject,Structure,,,
+FurnitureTree01_Red,Faux Crimson Foliage Set,structure,BuildObject,Structure,,,
+FurnitureTree01_Desert,Faux Desert Greenery Set,structure,BuildObject,Structure,,,
+FurnitureTree01_Yellow,Faux Golden Foliage Set,structure,BuildObject,Structure,,,
+FurnitureTree01_Green,Faux Greenery Set,structure,BuildObject,Structure,,,
+FurnitureTree01_Snow,Faux Snowy Greenery Set,structure,BuildObject,Structure,,,
+FurnitureTree01_Tropical,Faux Tropical Greenery Set,structure,BuildObject,Structure,,,
+PalFoodBox,Feed Box,structure,BuildObject,Structure,,,
+DarkIsland_Flag,Feybreak Flag Set,structure,BuildObject,Structure,,,
+PlayerBed_03,Fine Bed,structure,BuildObject,Structure,,,
+Light_FirePlace01,Fireplace Set,structure,BuildObject,Structure,,,
+FishingPond1,Fishing Pond,structure,BuildObject,Structure,,,
+OlympicCauldron,Flame Cauldron,structure,BuildObject,Structure,,,
+ItemBooth,Flea Market (Items),structure,BuildObject,Structure,,,
+PalBooth,Flea Market (Pals),structure,BuildObject,Structure,,,
+FlowerBed,Flower Bed,structure,BuildObject,Structure,,,
+MedicalPalBed_03,Fluffy Pal Bed,structure,BuildObject,Structure,,,
+Believer_Flag,Free Pal Alliance Flag Set,structure,BuildObject,Structure,,,
+IceHorseStatue,Frostallion Statue,structure,BuildObject,Structure,,,
+SF_foundation,Futuristic Structure Set,structure,BuildObject,Structure,,,
+BlastFurnace4,Gigantic Furnace,structure,BuildObject,Structure,,,
+Glass_foundation,Glass Structure Set,structure,BuildObject,Structure,,,
+GlobalPalStorage,Global Palbox,structure,BuildObject,Structure,,,
+Factory_Money,Gold Coin Assembly Line,structure,BuildObject,Structure,,,
+GuildChest,Guild Chest,structure,BuildObject,Structure,,,
+Trap_Noose,Hanging Trap,structure,BuildObject,Structure,,,
+Heater,Heater,structure,BuildObject,Structure,,,
+CrystalPit,Hexolite Quartz Mine,structure,BuildObject,Structure,,,
+Spa2,High Quality Hot Spring,structure,BuildObject,Structure,,,
+BaseCampWorkHard02,High Quality Monitoring Stand,structure,BuildObject,Structure,,,
+OilPump02,High-pressure Crude Oil Extractor,structure,BuildObject,Structure,,,
+Factory_Hard_01,High-quality Workbench,structure,BuildObject,Structure,,,
+Spa,Hot Spring,structure,BuildObject,Structure,,,
+Plant01_Plant,Houseplant Set,structure,BuildObject,Structure,,,
+ManualElectricGenerator,Human-powered Generator,structure,BuildObject,Structure,,,
+Trap_MineFreeze,Ice Mine,structure,BuildObject,Structure,,,
+BlastFurnace2,Improved Furnace,structure,BuildObject,Structure,,,
+Metal_Gate,Iron Gate,structure,BuildObject,Structure,,,
+TableSide01_Iron,Ironwood Table Set,structure,BuildObject,Structure,,,
+BaseCampItemDispenser,Item Retrieval Machine,structure,BuildObject,Structure,,,
+Byobu,Japanese-style Furniture Set,structure,BuildObject,Structure,,,
+Spa3,Japanese-style Hot Spring,structure,BuildObject,Structure,,,
+JapaneseStyle_wall_01,Japanese-style Structure Set,structure,BuildObject,Structure,,,
+JetDragonStatue,Jetragon Statue,structure,BuildObject,Structure,,,
+Wooden_ladder,Ladder,structure,BuildObject,Structure,,,
+Lamp,Lamp,structure,BuildObject,Structure,,,
+LargeCeilingLamp,Large Ceiling Lamp,structure,BuildObject,Structure,,,
+FishingPond2,Large Fishing Pond,structure,BuildObject,Structure,,,
+MultiHatchingPalEgg,Large Incubator,structure,BuildObject,Structure,,,
+LargeLamp,Large Mounted Lamp,structure,BuildObject,Structure,,,
+MedicalPalBed_04,Large Pal Bed,structure,BuildObject,Structure,,,
+ElectricGenerator_Large,Large Power Generator,structure,BuildObject,Structure,,,
+ToolBoxV1,Large Toolbox,structure,BuildObject,Structure,,,
+MultiElectricHatchingPalEgg,Large-scale Electric Egg Incubator,structure,BuildObject,Structure,,,
+HugeKitchen,Large-scale Stone Oven,structure,BuildObject,Structure,,,
+Sofa01_Iron,Leather Chair Set,structure,BuildObject,Structure,,,
+FarmBlockV2_Lettuce,Lettuce Plantation,structure,BuildObject,Structure,,,
+StationDeforest2,Logging Site,structure,BuildObject,Structure,,,
+StationDeforest3,Logging Site Ii,structure,BuildObject,Structure,,,
+PalMedicineBox,Medicine Rack,structure,BuildObject,Structure,,,
+MedicineFacility_01,Medieval Medicine Workbench,structure,BuildObject,Structure,,,
+Barrel01_Iron,Metal Barrel Set,structure,BuildObject,Structure,,,
+Stool01_Iron,Metal Chair And Desk Set,structure,BuildObject,Structure,,,
+ItemChest_02,Metal Chest,structure,BuildObject,Structure,,,
+DefenseWall_Metal,Metal Defensive Wall,structure,BuildObject,Structure,,,
+Shelf01_Iron,Metal Shelf Set,structure,BuildObject,Structure,,,
+Metal_foundation,Metal Structure Set,structure,BuildObject,Structure,,,
+FlourMill,Mill,structure,BuildObject,Structure,,,
+Trap_MineAttack,Mine,structure,BuildObject,Structure,,,
+MiningTool,Mining Cart,structure,BuildObject,Structure,,,
+BaseCampWorkHard,Monitoring Stand,structure,BuildObject,Structure,,,
+Ninja_Flag,Moonflower Flag Set,structure,BuildObject,Structure,,,
+DefenseBowGun,Mounted Crossbow,structure,BuildObject,Structure,,,
+DefenseMachinegun,Mounted Machine Gun,structure,BuildObject,Structure,,,
+DefenseMissile,Mounted Missile Launcher,structure,BuildObject,Structure,,,
+FarmBlockV2_Onion,Onion Plantation,structure,BuildObject,Structure,,,
+CopperPit,Ore Mining Site,structure,BuildObject,Structure,,,
+CopperPit_2,Ore Mining Site Ii,structure,BuildObject,Structure,,,
+CableCoil01_Iron,Outdoor Furniture Set,structure,BuildObject,Structure,,,
+DismantlingConveyor,Pal Disassembly Conveyor,structure,BuildObject,Structure,,,
+SkinChange,Pal Dressing Facility,structure,BuildObject,Structure,,,
+CharacterRankUp,Pal Essence Condenser,structure,BuildObject,Structure,,,
+Expedition,Pal Expedition Station,structure,BuildObject,Structure,,,
+WorkBench_SkillUnlock,Pal Gear Workbench,structure,BuildObject,Structure,,,
+Scientist_Flag,Pal Genetic Research Unit Flag Set,structure,BuildObject,Structure,,,
+Lab,Pal Labor Research Lab,structure,BuildObject,Structure,,,
+MedicalPalBed_05,Pal Pod,structure,BuildObject,Structure,,,
+OperatingTable,Pal Surgery Table,structure,BuildObject,Structure,,,
+PalBoxV2,Palbox,structure,BuildObject,Structure,,,
+BaseCampWorkerExtraStation,Palbox Control Device,structure,BuildObject,Structure,,,
+Piano01_Stone,Piano Furniture Set,structure,BuildObject,Structure,,,
+Police_Flag,Pidf Flag Set,structure,BuildObject,Structure,,,
+FarmBlockV2_Potato,Potato Plantation,structure,BuildObject,Structure,,,
+ElectricGenerator,Power Generator,structure,BuildObject,Structure,,,
+BlastFurnace,Primitive Furnace,structure,BuildObject,Structure,,,
+Workbench,Primitive Workbench,structure,BuildObject,Structure,,,
+Factory_Hard_02,Production Assembly Line,structure,BuildObject,Structure,,,
+Factory_Hard_03,Production Assembly Line Ii,structure,BuildObject,Structure,,,
+QuartzPit,Pure Quartz Quarry,structure,BuildObject,Structure,,,
+MonsterFarm,Ranch,structure,BuildObject,Structure,,,
+Hunter_Flag,Rayne Syndicate Flag Set,structure,BuildObject,Structure,,,
+ItemChest_03,Refined Metal Chest,structure,BuildObject,Structure,,,
+Refrigerator,Refrigerator,structure,BuildObject,Structure,,,
+RepairBench,Repair Bench,structure,BuildObject,Structure,,,
+TrafficSign01_Iron,Road Sign Set,structure,BuildObject,Structure,,,
+DefenseWait,Sandbag,structure,BuildObject,Structure,,,
+PlayerBed_02,Shoddy Bed,structure,BuildObject,Structure,,,
+Signboard,Sign,structure,BuildObject,Structure,,,
+Silo,Silo,structure,BuildObject,Structure,,,
+Farm_SkillFruits,Skillfruit Orchard,structure,BuildObject,Structure,,,
+Snowman,Snowman,structure,BuildObject,Structure,,,
+SkyIslandOrePit,Soralite Quarry,structure,BuildObject,Structure,,,
+SphereFactory_Black_02,Sphere Assembly Line,structure,BuildObject,Structure,,,
+SphereFactory_Black_03,Sphere Assembly Line Ii,structure,BuildObject,Structure,,,
+SphereFactory_Black_01,Sphere Workbench,structure,BuildObject,Structure,,,
+BuildableGoddessStatue,Statue Of Power,structure,BuildObject,Structure,,,
+DefenseWall,Stone Defensive Wall,structure,BuildObject,Structure,,,
+Stone_Gate,Stone Gate,structure,BuildObject,Structure,,,
+StonePit,Stone Pit,structure,BuildObject,Structure,,,
+Stone_foundation,Stone Structure Set,structure,BuildObject,Structure,,,
+Container01_Iron,Storage Container Set,structure,BuildObject,Structure,,,
+MedicalPalBed_02,Straw Pal Bed,structure,BuildObject,Structure,,,
+Light_LightPole01,Street Lamp Set,structure,BuildObject,Structure,,,
+Stump,Stump And Axe,structure,BuildObject,Structure,,,
+SulfurPit,Sulfur Quarry,structure,BuildObject,Structure,,,
+Altar,Summoning Altar,structure,BuildObject,Structure,,,
+TableCircular_Wood_None,Tidy Table Set,structure,BuildObject,Structure,,,
+FarmBlockV2_tomato,Tomato Plantation,structure,BuildObject,Structure,,,
+Headstone,Tombstone,structure,BuildObject,Structure,,,
+TrafficCone01_Iron,Traffic Control Set,structure,BuildObject,Structure,,,
+DamagedScarecrow,Training Dummy,structure,BuildObject,Structure,,,
+DisplayCharacter,Viewing Cage,structure,BuildObject,Structure,,,
+WallTorch,Wall Torch,structure,BuildObject,Structure,,,
+Ivy01,Wall-mounted Houseplant Set,structure,BuildObject,Structure,,,
+WallSignboard,Wall-mounted Sign,structure,BuildObject,Structure,,,
+Fountain,Water Fountain,structure,BuildObject,Structure,,,
+WeaponFactory_Dirty_02,Weapon Assembly Line,structure,BuildObject,Structure,,,
+WeaponFactory_Dirty_03,Weapon Assembly Line Ii,structure,BuildObject,Structure,,,
+WeaponFactory_Dirty_01,Weapon Workbench,structure,BuildObject,Structure,,,
+FarmBlockV2_wheet,Wheat Plantation,structure,BuildObject,Structure,,,
+Cauldron,Witch Cauldron,structure,BuildObject,Structure,,,
+ItemChest,Wooden Chest,structure,BuildObject,Structure,,,
+DefenseWall_Wood,Wooden Defensive Wall,structure,BuildObject,Structure,,,
+Wood_Gate,Wooden Gate,structure,BuildObject,Structure,,,
+TableSquare_Wood,Wooden Living Room Furniture Set,structure,BuildObject,Structure,,,
+Wooden_foundation,Wooden Structure Set,structure,BuildObject,Structure,,,
+Barrel_Wood,Wooden Tavern Cabinet Furniture Set,structure,BuildObject,Structure,,,
+Counter_Wood,Wooden Tavern Furniture Set,structure,BuildObject,Structure,,,
+SFBow,Advanced Bow,weapon,Weapon,WeaponBow,25,1,170160
+FishingRod_03_2,Advanced Fishing Rod (Depresso),weapon,Weapon,WeaponFishingRod,5,1,120120
+FishingRod_03_1,Advanced Fishing Rod (Pengullet),weapon,Weapon,WeaponFishingRod,5,1,43860
+AssaultRifle_Default1,Assault Rifle,weapon,Weapon,WeaponAssaultRifle,15,1,57600
+Bat2,Bat,weapon,Weapon,WeaponMelee,3,1,580
+BeamLauncher,Beam Launcher,weapon,Weapon,WeaponRocketLauncher,30,1,5137080
+WidePenetrateShotgun,Beam Scatter,weapon,Weapon,WeaponShotgun,20,1,2933640
+BeamSword,Beam Sword,weapon,Weapon,WeaponMelee,10,1,150050
+Spear_SoldierBee,Beegarde's Spear,weapon,Weapon,WeaponMelee,15,1,370
+FishingRod_01_1,Beginner Fishing Rod (Chillet),weapon,Weapon,WeaponFishingRod,5,1,4300
+FishingRod_01_2,Beginner Fishing Rod (Gumoss),weapon,Weapon,WeaponFishingRod,5,1,15800
+PalDopingShot,Boost Gun,weapon,Weapon,WeaponHandgun,8,1,16850
+Bow,Bow,weapon,,,,,
+ChargeLaserRifle,Charge Rifle,weapon,Weapon,WeaponAssaultRifle,20,1,1984560
+SkySubmachineGun,Combat Submachine Gun,weapon,Weapon,WeaponAssaultRifle,15,1,1693630
+CompoundBow,Compound Bow,weapon,Weapon,WeaponBow,17,1,44300
+OctaviaShotgun,Core Eject Shotgun,weapon,Weapon,WeaponShotgun,20,1,363220
+BowGun,Crossbow,weapon,Weapon,WeaponCrossbow,13,1,4320
+FragGrenade_Dark,Dark Grenade,weapon,Weapon,WeaponThrowObject,0.1,9999,1380
+DecalGun_4,Decal Gun (Anubis),weapon,Weapon,WeaponHandgun,8,1,26460
+DecalGun_1,Decal Gun (Cattiva),weapon,Weapon,WeaponHandgun,8,1,26460
+DecalGun_2,Decal Gun (Lamball),weapon,Weapon,WeaponHandgun,8,1,26460
+DecalGun_3,Decal Gun (Melpaca),weapon,Weapon,WeaponHandgun,8,1,26460
+DecalGun_5,Decal Gun (Relaxaurus),weapon,Weapon,WeaponHandgun,8,1,26460
+DoubleBarrelShotgun,Double-barreled Shotgun,weapon,Weapon,WeaponShotgun,24,1,37990
+FragGrenade_Dragon,Dragon Grenade,weapon,Weapon,WeaponThrowObject,0.1,9999,900
+DroneLauncher,Drone Launcher,weapon,Weapon,WeaponMelee,5,1,4041020
+Spear_QueenBee,Elizabee's Staff,weapon,Weapon,WeaponMelee,20,1,370
+EnergyShotgun,Energy Shotgun,weapon,Weapon,WeaponShotgun,20,1,2061660
+Spear_ForestBoss2,Enhanced Lily's Spear,weapon,Weapon,WeaponMelee,10,1,508560
+YakushimaBlade004,Excalibur,weapon,Weapon,WeaponMelee,10,1,10800
+BowGun_Fire,Fire Arrow Crossbow,weapon,Weapon,WeaponCrossbow,13,1,1
+Bow_Fire,Fire Bow,weapon,Weapon,WeaponBow,6,1,1
+Bow_Fifth,Five Shot Bow,weapon,Weapon,WeaponBow,8,1,1
+Flamethrower,Flamethrower,weapon,,,45,,
+FragGrenade,Frag Grenade,weapon,Weapon,WeaponThrowObject,0.1,9999,660
+FragGrenade_Super,Frag Grenade Mk 2,weapon,Weapon,WeaponThrowObject,0.1,9999,7900
+GatlingGun,Gatling Gun,weapon,Weapon,WeaponGatlingGun,50,1,507240
+GrapplingGun_3,Giga Grappling Gun,weapon,Weapon,WeaponGrapplingGun,1,1,17930
+GrapplingGun_1,Grappling Gun,weapon,Weapon,WeaponGrapplingGun,1,1,5210
+FragGrenade_Leaf,Grass Grenade,weapon,Weapon,WeaponThrowObject,0.1,9999,640
+GrenadeLauncher,Grenade Launcher,weapon,Weapon,WeaponRocketLauncher,30,1,309060
+FragGrenade_Ground,Ground Grenade,weapon,Weapon,WeaponThrowObject,0.1,9999,780
+GuidedMissileLauncher,Guided Missile Launcher,weapon,Weapon,WeaponRocketLauncher,30,1,461040
+Torch,Hand-held Torch,weapon,Weapon,WeaponMelee,5,1,60
+HandGun_Default,Handgun,weapon,Weapon,WeaponHandgun,8,1,19800
+SkyAssaultRifle,Heavy Assault Rifle,weapon,Weapon,WeaponAssaultRifle,5,1,2512320
+HomingSphereLauncher,Homing Sphere Launcher,weapon,Weapon,WeaponRocketLauncher,30,1,294000
+GrapplingGun_4,Hyper Grappling Gun,weapon,Weapon,WeaponGrapplingGun,1,1,83760
+FragGrenade_Ice,Ice Grenade,weapon,Weapon,WeaponThrowObject,0.1,9999,1020
+FragGrenade_Fire,Incendiary Grenade,weapon,Weapon,WeaponThrowObject,0.1,9999,1020
+FishingRod_02_1,Intermediate Fishing Rod (Cattiva),weapon,Weapon,WeaponFishingRod,5,1,5690
+FishingRod_02_2,Intermediate Fishing Rod (Croajiro),weapon,Weapon,WeaponFishingRod,5,1,35380
+Katana,Katana,weapon,Weapon,WeaponMelee,10,1,51020
+LaserGatlingGun,Laser Gatling Gun,weapon,Weapon,WeaponGatlingGun,50,1,1006160
+LaserRifle,Laser Rifle,weapon,Weapon,WeaponAssaultRifle,18,1,290120
+SkyBeamSword,Laser Sword,weapon,Weapon,WeaponMelee,10,1,1443860
+YakushimaBlade005,Legendary Meowmere,weapon,Weapon,WeaponMelee,22,1,15050
+Spear_ForestBoss,Lily's Spear,weapon,Weapon,WeaponMelee,10,1,118610
+MakeshiftAssaultRifle,Makeshift Assault Rifle,weapon,Weapon,WeaponAssaultRifle,15,1,27940
+MakeshiftHandgun,Makeshift Handgun,weapon,Weapon,WeaponHandgun,10,1,13970
+MakeshiftShotgun,Makeshift Shotgun,weapon,Weapon,WeaponShotgun,24,1,23160
+MakeshiftSubmachineGun,Makeshift Submachine Gun,weapon,Weapon,WeaponAssaultRifle,15,1,15410
+OctaviaRevolver,Marksman Revolver,weapon,Weapon,WeaponHandgun,8,1,33480
+MeatCutterKnife,Meat Cleaver,weapon,Weapon,WeaponMelee,10,1,1800
+SkyBow,Mechanical Bow,weapon,Weapon,WeaponBow,6,1,1293140
+GrapplingGun_2,Mega Grappling Gun,weapon,Weapon,WeaponGrapplingGun,1,1,11520
+PalDopingShot_2,Megaboost Gun,weapon,Weapon,WeaponHandgun,8,1,2013600
+YakushimaBlade,Meowmere,weapon,Weapon,WeaponMelee,22,1,13460
+Axe_Tier_01,Metal Axe,weapon,Weapon,WeaponMelee,15,1,4820
+Bat3,Metal Bat,weapon,Weapon,WeaponMelee,3,1,20880
+MetalDetector,Metal Detector,weapon,Weapon,WeaponMetalDetector,25,1,527040
+Pickaxe_Tier_01,Metal Pickaxe,weapon,Weapon,WeaponMelee,15,1,4820
+Spear_2,Metal Spear,weapon,Weapon,WeaponMelee,15,1,3440
+Launcher_Meteor,Meteor Launcher,weapon,Weapon,WeaponRocketLauncher,30,1,151920
+MultiGuidedMissileLauncher,Multi Guided Missile Launcher,weapon,Weapon,WeaponRocketLauncher,30,1,712580
+Musket,Musket,weapon,Weapon,WeaponAssaultRifle,20,1,9940
+YakushimaLantern001,Nightglow,weapon,Weapon,WeaponMelee,5,1,48000
+WeakerBow,Old Bow,weapon,Weapon,WeaponBow,6,1,650
+OldRevolver,Old Revolver,weapon,Weapon,WeaponHandgun,8,1,24480
+OverheatRifle,Overheat Rifle,weapon,Weapon,WeaponAssaultRifle,15,1,1754940
+Axe_Steal,Pal Metal Axe,weapon,Weapon,WeaponMelee,25,1,112920
+Pickaxe_Steal,Pal Metal Pickaxe,weapon,Weapon,WeaponMelee,25,1,112920
+PalHealingGrenade,Pal Recovery Grenade,weapon,Weapon,WeaponThrowObject,0.1,9999,3660
+EnergyRocketLauncher,Plasma Cannon,weapon,Weapon,WeaponRocketLauncher,30,1,1196020
+LaserMiningTool,Plasma Multicutter,weapon,Weapon,WeaponMelee,50,1,584400
+ElectricArcAssaultRifle,Plasma Rifle,weapon,Weapon,WeaponAssaultRifle,5,1,4134020
+BowGun_Poison,Poison Arrow Crossbow,weapon,Weapon,WeaponCrossbow,13,1,1
+Bow_Poison,Poison Bow,weapon,Weapon,WeaponBow,6,1,1
+BronzeSword,Primitive Sword,weapon,Weapon,WeaponMelee,10,1,5160
+SkyShotgun,Prototype Shotgun,weapon,Weapon,WeaponShotgun,20,1,2150100
+PumpActionShotgun,Pump-action Shotgun,weapon,Weapon,WeaponShotgun,20,1,61920
+Axe_Tier_02,Refined Metal Axe,weapon,Weapon,WeaponMelee,20,1,10320
+Pickaxe_Tier_02,Refined Metal Pickaxe,weapon,Weapon,WeaponMelee,20,1,10320
+Spear_3,Refined Metal Spear,weapon,Weapon,WeaponMelee,20,1,9420
+Launcher_Default,Rocket Launcher,weapon,Weapon,WeaponRocketLauncher,30,1,873360
+SphereLauncher,Scatter Sphere Launcher,weapon,Weapon,WeaponRocketLauncher,30,1,103080
+SemiAutoRifle,Semi-auto Rifle,weapon,Weapon,WeaponAssaultRifle,20,1,43200
+SemiAutoShotgun,Semi-auto Shotgun,weapon,Weapon,WeaponShotgun,20,1,79200
+FragGrenade_Elec,Shock Grenade,weapon,Weapon,WeaponThrowObject,0.1,9999,1020
+SingleShotRifle,Single-shot Rifle,weapon,Weapon,WeaponAssaultRifle,20,1,26160
+SphereLauncher_Once,Single-shot Sphere Launcher,weapon,Weapon,WeaponRocketLauncher,30,1,23640
+Axe_Tier_00,Stone Axe,weapon,Weapon,WeaponMelee,10,1,140
+Pickaxe_Tier_00,Stone Pickaxe,weapon,Weapon,WeaponMelee,10,1,140
+Spear,Stone Spear,weapon,Weapon,WeaponMelee,10,1,350
+ElecBaton,Stun Baton,weapon,Weapon,WeaponMelee,10,1,12960
+SubmachineGun,Submachine Gun,weapon,Weapon,WeaponAssaultRifle,15,1,29380
+Sword,Sword,weapon,Weapon,WeaponMelee,10,1,9550
+SkyGrenadeLauncher,Tactical Grenade Launcher,weapon,Weapon,WeaponRocketLauncher,30,1,2295540
+YakushimaBlade002,Terra Blade,weapon,Weapon,WeaponMelee,10,1,44400
+YakushimaBlade003,Terraprisma,weapon,Weapon,WeaponMelee,5,1,48000
+Bow_Triple,Three Shot Bow,weapon,Weapon,WeaponBow,8,1,1180
+GrapplingGun_5,Ultra Grappling Gun,weapon,Weapon,WeaponGrapplingGun,1,1,351600
+YakushimaGun001,Vortex Beater,weapon,Weapon,WeaponAssaultRifle,15,1,46200
+FragGrenade_Water,Water Grenade,weapon,Weapon,WeaponThrowObject,0.1,9999,1380
+Bat,Wooden Club,weapon,Weapon,WeaponMelee,5,1,70

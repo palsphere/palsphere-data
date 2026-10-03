@@ -1,0 +1,29 @@
+name: Sync data from palsphere.app
+
+on:
+  schedule:
+    - cron: "0 3 * * 4"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pull latest dumps
+        run: bash scripts/sync.sh
+      - name: Commit if changed
+        run: |
+          if git diff --quiet; then
+            echo "No data changes"
+            exit 0
+          fi
+          rev=$(python3 -c "import json;print(json.load(open('data/manifest.json'))['revision'])")
+          git config user.name "palsphere-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data
+          git commit -m "Sync data (revision ${rev})"
+          git push

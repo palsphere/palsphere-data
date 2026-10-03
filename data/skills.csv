@@ -1,0 +1,706 @@
+kind,id,codename,name,element,power
+active,117,ACTION_SKILL_DarkLegion,Dark Whisp,Dark,160
+active,ACTION_SKILL_BubbleShower,ACTION_SKILL_BubbleShower,Poison Shower,Dark,160
+active,106,ACTION_SKILL_DarkLaser,Dark Laser,Dark,150
+active,ACTION_SKILL_DarkArrow,ACTION_SKILL_DarkArrow,Dark Arrow,Dark,120
+active,94,ACTION_SKILL_Psychokinesis,Psycho Gravity,Dark,110
+active,84,ACTION_SKILL_ShadowBall,Nightmare Ball,Dark,100
+active,68,ACTION_SKILL_GhostFlame,Spirit Flame,Dark,75
+active,ACTION_SKILL_DarkCanon,ACTION_SKILL_DarkCanon,Dark Cannon,Dark,70
+active,ACTION_SKILL_DarkPulse,ACTION_SKILL_DarkPulse,Umbral Surge,Dark,60
+active,34,ACTION_SKILL_DarkWave,Shadow Burst,Dark,55
+active,27,ACTION_SKILL_DarkBall,Dark Ball,Dark,40
+active,ACTION_SKILL_GravityShot,ACTION_SKILL_GravityShot,Dark Shot,Dark,40
+active,18,ACTION_SKILL_PoisonShot,Poison Blast,Dark,30
+active,0,ACTION_SKILL_PoisonFog,Poison Fog,Dark,0
+active,ACTION_SKILL_Unique_FlowerPrince_PoisonGasDance,ACTION_SKILL_Unique_FlowerPrince_PoisonGasDance,Toxic Dance,Dark,800
+active,ACTION_SKILL_Unique_WhiteDeer_Dark_DarkPillar,ACTION_SKILL_Unique_WhiteDeer_Dark_DarkPillar,Dark Nova,Dark,700
+active,ACTION_SKILL_Unique_GrassGolem_Dark_DarkArmCannon,ACTION_SKILL_Unique_GrassGolem_Dark_DarkArmCannon,Dark Root,Dark,700
+active,ACTION_SKILL_Unique_IceHorse_Dark_DarkBladeAttack,ACTION_SKILL_Unique_IceHorse_Dark_DarkBladeAttack,Dark Wing,Dark,700
+active,ACTION_SKILL_Unique_FlowerPrince_PoisonGasTackle,ACTION_SKILL_Unique_FlowerPrince_PoisonGasTackle,Poison Promenade,Dark,700
+active,ACTION_SKILL_Unique_LanternButler_LanternFlame,ACTION_SKILL_Unique_LanternButler_LanternFlame,Lantern Flame,Dark,650
+active,ACTION_SKILL_Unique_BlackGriffon_TackleLaser2,ACTION_SKILL_Unique_BlackGriffon_TackleLaser2,Divine Disaster II,Dark,600
+active,ACTION_SKILL_Unique_NightLady_WarpBeam,ACTION_SKILL_Unique_NightLady_WarpBeam,Nightmare Bloom,Dark,600
+active,ACTION_SKILL_Unique_NightLady_WarpBeam_Straight,ACTION_SKILL_Unique_NightLady_WarpBeam_Straight,Nightmare Ray,Dark,600
+active,ACTION_SKILL_Unique_SnakeGirl_SnakeShot,ACTION_SKILL_Unique_SnakeGirl_SnakeShot,Poison Scatter,Dark,600
+active,ACTION_SKILL_Unique_NightBlueHorse_DeathStep,ACTION_SKILL_Unique_NightBlueHorse_DeathStep,Lethal Step,Dark,550
+active,ACTION_SKILL_Unique_DarkMechaDragon_ConvergentBeam,ACTION_SKILL_Unique_DarkMechaDragon_ConvergentBeam,Astral Ray,Dark,500
+active,ACTION_SKILL_Unique_MonochromeQueen_BalletJump,ACTION_SKILL_Unique_MonochromeQueen_BalletJump,Black Quilled Ballet,Dark,500
+active,ACTION_SKILL_Unique_GrimGirl_BrutalMachete,ACTION_SKILL_Unique_GrimGirl_BrutalMachete,Grudge Barrage,Dark,500
+active,ACTION_SKILL_Unique_MummyPal_MummyAttack,ACTION_SKILL_Unique_MummyPal_MummyAttack,Mummy Rush,Dark,500
+active,ACTION_SKILL_Unique_NightLady_FlameNightmare,ACTION_SKILL_Unique_NightLady_FlameNightmare,Flame Waltz,Dark,450
+active,ACTION_SKILL_Unique_NightBlueHorse_Tossin,ACTION_SKILL_Unique_NightBlueHorse_Tossin,Spectral Steed,Dark,450
+active,ACTION_SKILL_Unique_DarkMutant_DarkTackle,ACTION_SKILL_Unique_DarkMutant_DarkTackle,Apocalypse,Dark,400
+active,ACTION_SKILL_Unique_Baphomet_Dark_DarkKite,ACTION_SKILL_Unique_Baphomet_Dark_DarkKite,Nightmare Claw,Dark,400
+active,ACTION_SKILL_Unique_MysteryMask_LifeSteal,ACTION_SKILL_Unique_MysteryMask_LifeSteal,Soul Drain,Dark,400
+active,ACTION_SKILL_Unique_DarkAlien_JumpScractch,ACTION_SKILL_Unique_DarkAlien_JumpScractch,Evil Slash,Dark,350
+active,ACTION_SKILL_Unique_ScorpionMan_UpperCut,ACTION_SKILL_Unique_ScorpionMan_UpperCut,Upper Smash,Dark,350
+active,ACTION_SKILL_Unique_GhostBeast_Tossin,ACTION_SKILL_Unique_GhostBeast_Tossin,Spirit Dash,Dark,300
+active,ACTION_SKILL_Unique_AmaterasuWolf_Dark_DarkCharge,ACTION_SKILL_Unique_AmaterasuWolf_Dark_DarkCharge,Daring Shadowstorm,Dark,250
+active,ACTION_SKILL_Unique_PurpleSpider_SpiderRaid,ACTION_SKILL_Unique_PurpleSpider_SpiderRaid,Webstrike Impact,Dark,250
+active,103,ACTION_SKILL_Unique_BlackGriffon_TackleLaser,Divine Disaster,Dark,160
+active,115,ACTION_SKILL_Unique_BlackCentaur_TwoSpearRushes,Twin Spears,Dark,120
+active,71,ACTION_SKILL_Unique_FireKirin_Dark_DarkTossin,Dark Charge,Dark,85
+active,46,ACTION_SKILL_Unique_Werewolf_Scratch,Jumping Claw,Dark,55
+active,39,ACTION_SKILL_Unique_DarkCrow_TelePoke,Phantom Peck,Dark,55
+active,ACTION_SKILL_Unique_AmaterasuWolf_Dark_Bite,ACTION_SKILL_Unique_AmaterasuWolf_Dark_Bite,Fierce Fang (Dark),Dark,50
+active,ACTION_SKILL_Unique_AmaterasuWolf_Dark_BiteV2,ACTION_SKILL_Unique_AmaterasuWolf_Dark_BiteV2,Double Fang (Dark),Dark,40
+active,ACTION_SKILL_ChargeCanon,ACTION_SKILL_ChargeCanon,Charge Cannon,Dragon,400
+active,ACTION_SKILL_BeamSlicer,ACTION_SKILL_BeamSlicer,Beam Slicer,Dragon,350
+active,ACTION_SKILL_BlastCanon,ACTION_SKILL_BlastCanon,Blast Cannon,Dragon,200
+active,ACTION_SKILL_Commet,ACTION_SKILL_Commet,Comet Strike,Dragon,180
+active,ACTION_SKILL_DragonBreath,ACTION_SKILL_DragonBreath,Dragon Breath,Dragon,160
+active,109,ACTION_SKILL_DragonMeteor,Dragon Meteor,Dragon,150
+active,57,ACTION_SKILL_57,Draconic Breath,Dragon,70
+active,36,ACTION_SKILL_DragonWave,Dragon Burst,Dragon,55
+active,13,ACTION_SKILL_DragonCanon,Dragon Cannon,Dragon,30
+active,ACTION_SKILL_Unique_GhostDragon_PhosphorousBeam,ACTION_SKILL_Unique_GhostDragon_PhosphorousBeam,Blazing Beam,Dragon,700
+active,ACTION_SKILL_Unique_KingBahamut_AirCrash,ACTION_SKILL_Unique_KingBahamut_AirCrash,Magna Crush,Dragon,700
+active,ACTION_SKILL_CommetRain,ACTION_SKILL_CommetRain,Meteorain,Dragon,700
+active,ACTION_SKILL_Unique_DarkMechaDragon_FunnelLaser,ACTION_SKILL_Unique_DarkMechaDragon_FunnelLaser,Omega Laser,Dragon,700
+active,ACTION_SKILL_Unique_WhiteShieldDragon_ShieldTackle,ACTION_SKILL_Unique_WhiteShieldDragon_ShieldTackle,Aegis Charge,Dragon,600
+active,ACTION_SKILL_Unique_BlueSkyDragon_SweepBreath,ACTION_SKILL_Unique_BlueSkyDragon_SweepBreath,Azure Dracoflare,Dragon,600
+active,ACTION_SKILL_Unique_DarkMechaDragon_WarpComet,ACTION_SKILL_Unique_DarkMechaDragon_WarpComet,Cosmic Meteor,Dragon,600
+active,ACTION_SKILL_Unique_GhostDragon_TailSlash,ACTION_SKILL_Unique_GhostDragon_TailSlash,Tail Slash,Dragon,550
+active,ACTION_SKILL_Unique_DarkMechaDragon_BeamSlash,ACTION_SKILL_Unique_DarkMechaDragon_BeamSlash,Beam Slash,Dragon,450
+active,ACTION_SKILL_ThreeCommet,ACTION_SKILL_ThreeCommet,Comet Barrage,Dragon,450
+active,ACTION_SKILL_Unique_BlackMetalDragon_FirePunch,ACTION_SKILL_Unique_BlackMetalDragon_FirePunch,Firefist Breathstorm,Dragon,450
+active,ACTION_SKILL_Unique_DarkMechaDragon_SetFunnel,ACTION_SKILL_Unique_DarkMechaDragon_SetFunnel,Satellite Bit,Dragon,400
+active,104,ACTION_SKILL_Unique_JetDragon_JumpBeam,Beam Comet,Dragon,140
+active,ACTION_SKILL_Unique_WeaselDragon_FlyingTackle,ACTION_SKILL_Unique_WeaselDragon_FlyingTackle,Rocket Slam,Dragon,80
+active,61,ACTION_SKILL_Unique_FairyDragon_FairyTornado,Mystic Whirlwind,Dragon,70
+active,ACTION_SKILL_RockBeat,ACTION_SKILL_RockBeat,Rocky Impact,Earth,600
+active,ACTION_SKILL_SandTwister,ACTION_SKILL_SandTwister,Sand Twister,Earth,500
+active,ACTION_SKILL_Tremor,ACTION_SKILL_Tremor,Rockburst,Earth,300
+active,108,ACTION_SKILL_RockLance,Rock Lance,Earth,150
+active,73,ACTION_SKILL_SandTornado,Sand Tornado,Earth,80
+active,33,ACTION_SKILL_ThrowRock,Stone Cannon,Earth,70
+active,29,ACTION_SKILL_StoneShotgun,Stone Blast,Earth,55
+active,ACTION_SKILL_MudShot,ACTION_SKILL_MudShot,Bog Blast,Earth,40
+active,12,ACTION_SKILL_12,Sand Blast,Earth,40
+active,ACTION_SKILL_Unique_DomeArmorDragon_ExplosiveMissile,ACTION_SKILL_Unique_DomeArmorDragon_ExplosiveMissile,Missile Burst,Earth,700
+active,ACTION_SKILL_Unique_CubeTurtle_CubePress,ACTION_SKILL_Unique_CubeTurtle_CubePress,Cube Press,Earth,600
+active,ACTION_SKILL_Unique_RockBeast_RockHorn,ACTION_SKILL_Unique_RockBeast_RockHorn,Horn Burst,Earth,600
+active,ACTION_SKILL_Unique_GrassGolem_RocketPunch,ACTION_SKILL_Unique_GrassGolem_RocketPunch,Rocket Arm,Earth,600
+active,ACTION_SKILL_Unique_SumoDog_SumoStomp,ACTION_SKILL_Unique_SumoDog_SumoStomp,Sumo Stomp,Earth,550
+active,ACTION_SKILL_Unique_GoldenHorse_StoneDash,ACTION_SKILL_Unique_GoldenHorse_StoneDash,Crash Dash,Earth,500
+active,ACTION_SKILL_Unique_WingGolem_RoundCutter,ACTION_SKILL_Unique_WingGolem_RoundCutter,Ground Cutter,Earth,450
+active,ACTION_SKILL_Unique_Sekhmet_RollingScratch,ACTION_SKILL_Unique_Sekhmet_RollingScratch,Rolling Scratch,Earth,400
+active,ACTION_SKILL_Unique_DarkScorpion_Pierce,ACTION_SKILL_Unique_DarkScorpion_Pierce,Jumping Stinger,Earth,350
+active,ACTION_SKILL_Unique_Gorilla_Ground_EarthPunch,ACTION_SKILL_Unique_Gorilla_Ground_EarthPunch,Rumble Combo,Earth,300
+active,ACTION_SKILL_Unique_Sekhmet_SomersaultScratch,ACTION_SKILL_Unique_Sekhmet_SomersaultScratch,Somersault Scratch,Earth,300
+active,ACTION_SKILL_Unique_WhiteTiger_Ground_IronScratch,ACTION_SKILL_Unique_WhiteTiger_Ground_IronScratch,Stone Claw,Earth,300
+active,ACTION_SKILL_Unique_FeatherOstrich_Tossin,ACTION_SKILL_Unique_FeatherOstrich_Tossin,Earth Dash,Earth,250
+active,99,ACTION_SKILL_Unique_Anubis_GroundPunch,Ground Smash,Earth,140
+active,78,ACTION_SKILL_Unique_Anubis_Tackle,Forceful Charge,Earth,120
+active,ACTION_SKILL_Unique_Deer_Ground_DirtyHorn,ACTION_SKILL_Unique_Deer_Ground_DirtyHorn,Mud Horn,Earth,120
+active,87,ACTION_SKILL_Unique_Grassmammoth_Earthquake,Earth Impact,Earth,100
+active,56,ACTION_SKILL_Unique_Anubis_LowRoundKick,Spinning Roundhouse,Earth,100
+active,ACTION_SKILL_Unique_SamuraiDog_DashSlash,ACTION_SKILL_Unique_SamuraiDog_DashSlash,Persistent Slash,Earth,90
+active,62,ACTION_SKILL_Unique_Gorilla_GroundPunch,Ground Pound,Earth,85
+active,49,ACTION_SKILL_Unique_HerculesBeetle_BeetleTackle,Giga Horn,Earth,75
+active,47,ACTION_SKILL_Unique_DrillGame_ShellAttack,Shell Spin,Earth,65
+active,ACTION_SKILL_Unique_CuteMole_DiggingAttack,ACTION_SKILL_Unique_CuteMole_DiggingAttack,Fuddler Tunneler,Earth,60
+active,ACTION_SKILL_Unique_GoldenHorse_Bite,ACTION_SKILL_Unique_GoldenHorse_Bite,Fierce Fang (Ground),Earth,50
+active,ACTION_SKILL_Unique_GoldenHorse_BiteV2,ACTION_SKILL_Unique_GoldenHorse_BiteV2,Double Fang (Ground),Earth,40
+active,ACTION_SKILL_ThunderStorm,ACTION_SKILL_ThunderStorm,Thunderstorm,Electricity,600
+active,ACTION_SKILL_RangeThunder,ACTION_SKILL_RangeThunder,All Range Thunder,Electricity,500
+active,ACTION_SKILL_ThunderRain,ACTION_SKILL_ThunderRain,Thunder Rain,Electricity,400
+active,ACTION_SKILL_TriSpark,ACTION_SKILL_TriSpark,TriSpark,Electricity,250
+active,110,ACTION_SKILL_Thunderbolt,Lightning Bolt,Electricity,150
+active,102,ACTION_SKILL_LightningStrike,Lightning Strike,Electricity,120
+active,ACTION_SKILL_ThunderFunnel,ACTION_SKILL_ThunderFunnel,Plasma Funnel,Electricity,120
+active,79,ACTION_SKILL_ThreeThunder,Tri-Lightning,Electricity,90
+active,67,ACTION_SKILL_LineThunder,Lightning Streak,Electricity,75
+active,52,ACTION_SKILL_LockonLaser,Lock-on Laser,Electricity,70
+active,37,ACTION_SKILL_37,Plasma Tornado,Electricity,65
+active,24,ACTION_SKILL_ThunderBall,Electric Ball,Electricity,50
+active,16,ACTION_SKILL_ElecWave,Shockwave,Electricity,40
+active,ACTION_SKILL_ThunderSpear,ACTION_SKILL_ThunderSpear,Thunder Spear,Electricity,40
+active,14,ACTION_SKILL_SpreadPulse,Spark Blast,Electricity,30
+active,ACTION_SKILL_Unique_BlueThunderHorse_FlashDash,ACTION_SKILL_Unique_BlueThunderHorse_FlashDash,Bolt Blink,Electricity,600
+active,ACTION_SKILL_ShokeiLaser,ACTION_SKILL_ShokeiLaser,Lethal Laser,Electricity,600
+active,ACTION_SKILL_Unique_ThunderDragonMan_NumerousSwordAttack,ACTION_SKILL_Unique_ThunderDragonMan_NumerousSwordAttack,Polykeraunos,Electricity,600
+active,ACTION_SKILL_RailBolt,ACTION_SKILL_RailBolt,Thunder Rail,Electricity,600
+active,ACTION_SKILL_Unique_ScorpionMan_Erectric_UpperThunder,ACTION_SKILL_Unique_ScorpionMan_Erectric_UpperThunder,Thunder Uppercut,Electricity,600
+active,ACTION_SKILL_Unique_ElecPanda_GatlingAttack,ACTION_SKILL_Unique_ElecPanda_GatlingAttack,Heavy Thunder Tank,Electricity,550
+active,ACTION_SKILL_Unique_BlueThunderHorse_Tossin,ACTION_SKILL_Unique_BlueThunderHorse_Tossin,Flash Charge,Electricity,500
+active,ACTION_SKILL_Unique_ElecSnail_ShellCharge,ACTION_SKILL_Unique_ElecSnail_ShellCharge,Shell Charge,Electricity,500
+active,ACTION_SKILL_Unique_CaptainPenguin_Black_BodySlide_Electric,ACTION_SKILL_Unique_CaptainPenguin_Black_BodySlide_Electric,Thunderslide,Electricity,400
+active,ACTION_SKILL_Unique_FlowerDinosaur_Electric_ThunderWhip,ACTION_SKILL_Unique_FlowerDinosaur_Electric_ThunderWhip,Lightning Smash,Electricity,300
+active,ACTION_SKILL_Unique_FengyunDeeper_Electric_ThunderTempest,ACTION_SKILL_Unique_FengyunDeeper_Electric_ThunderTempest,Thunder Tempest,Electricity,300
+active,ACTION_SKILL_Unique_ThunderBird_ThunderStorm,ACTION_SKILL_Unique_ThunderBird_ThunderStorm,Lightning Dive,Electricity,180
+active,ACTION_SKILL_Unique_Kirin_LightningTackle,ACTION_SKILL_Unique_Kirin_LightningTackle,Lightning Gale,Electricity,120
+active,ACTION_SKILL_Unique_ThunderDog_InazumaShorai,ACTION_SKILL_Unique_ThunderDog_InazumaShorai,Beckon Lightning,Electricity,100
+active,92,ACTION_SKILL_Unique_ThunderDragonMan_ThunderSwordAttack,Kerauno,Electricity,100
+active,60,ACTION_SKILL_Unique_ElecPanda_ElecScratch,Lightning Claw,Electricity,90
+active,116,ACTION_SKILL_Unique_GrassPanda_Electric_ElectricPunch,Blast Punch,Electricity,85
+active,ACTION_SKILL_Unique_ThunderDog_Bite,ACTION_SKILL_Unique_ThunderDog_Bite,Fierce Fang (Electric),Electricity,50
+active,ACTION_SKILL_Unique_ThunderDog_BiteV2,ACTION_SKILL_Unique_ThunderDog_BiteV2,Double Fang (Electric),Electricity,40
+active,ACTION_SKILL_Eruption,ACTION_SKILL_Eruption,Volcanic Rain,Fire,450
+active,ACTION_SKILL_FlameFunnel,ACTION_SKILL_FlameFunnel,Flame Funnel,Fire,300
+active,ACTION_SKILL_FlameWall,ACTION_SKILL_FlameWall,Flame Wall,Fire,250
+active,111,ACTION_SKILL_FireBall,Fire Ball,Fire,150
+active,101,ACTION_SKILL_Inferno,Ignis Rage,Fire,120
+active,75,ACTION_SKILL_FlareTornado,Flare Storm,Fire,80
+active,58,ACTION_SKILL_Flamethrower,Ignis Breath,Fire,70
+active,44,ACTION_SKILL_FlareArrow,Flare Arrow,Fire,55
+active,25,ACTION_SKILL_FireSeed,Spirit Fire,Fire,45
+active,10,ACTION_SKILL_FireBlast,Ignis Blast,Fire,30
+active,ACTION_SKILL_Unique_WingGolem_Fire_FlameCutter,ACTION_SKILL_Unique_WingGolem_Fire_FlameCutter,Flame Cutter,Fire,700
+active,ACTION_SKILL_Unique_VolcanoDragon_VolcanicLaser,ACTION_SKILL_Unique_VolcanoDragon_VolcanicLaser,Magma Laser,Fire,700
+active,ACTION_SKILL_Unique_ClownRabbit_TrickShow,ACTION_SKILL_Unique_ClownRabbit_TrickShow,Trickster Show,Fire,700
+active,ACTION_SKILL_Unique_Horus_PerfectStorm,ACTION_SKILL_Unique_Horus_PerfectStorm,Raging Flame Wave,Fire,650
+active,ACTION_SKILL_Unique_KingBahamut_ArmSmash,ACTION_SKILL_Unique_KingBahamut_ArmSmash,Brawn Impact,Fire,600
+active,ACTION_SKILL_Unique_VolcanoDragon_MagmaSpit,ACTION_SKILL_Unique_VolcanoDragon_MagmaSpit,Magma Spit,Fire,600
+active,ACTION_SKILL_Unique_GhostAnglerfish_Fire_SweepBait_Fire,ACTION_SKILL_Unique_GhostAnglerfish_Fire_SweepBait_Fire,Scorching Lantern Sweep,Fire,450
+active,ACTION_SKILL_Unique_Umihebi_Fire_FireWindingTackle,ACTION_SKILL_Unique_Umihebi_Fire_FireWindingTackle,Magma Serpent,Fire,400
+active,ACTION_SKILL_Unique_Manticore_InfernoStrike,ACTION_SKILL_Unique_Manticore_InfernoStrike,Volcanic Fang,Fire,400
+active,ACTION_SKILL_Unique_FireKirin_Tackle,ACTION_SKILL_Unique_FireKirin_Tackle,Ignis Charge,Fire,300
+active,ACTION_SKILL_Unique_BirdDragon_FireBreath,ACTION_SKILL_Unique_BirdDragon_FireBreath,Flame Breath,Fire,200
+active,ACTION_SKILL_Unique_RedArmorBird_TriplePeck,ACTION_SKILL_Unique_RedArmorBird_TriplePeck,Rush Beak,Fire,200
+active,100,ACTION_SKILL_Unique_Horus_FlareBird,Phoenix Flare,Fire,135
+active,91,ACTION_SKILL_Unique_VolcanicMonster_MagmaAttack,Volcanic Burst,Fire,100
+active,69,ACTION_SKILL_69,Ignis Slam,Fire,85
+active,64,ACTION_SKILL_Unique_AmaterasuWolf_FireCharge,Daring Flames,Fire,75
+active,70,ACTION_SKILL_Unique_Baphomet_SwallowKite,Hellfire Claw,Fire,70
+active,81,ACTION_SKILL_Unique_Ronin_Iai,Iaigiri,Fire,65
+active,38,ACTION_SKILL_Unique_FlameBuffalo_FlameHorn,Blazing Horn,Fire,50
+active,ACTION_SKILL_Unique_AmaterasuWolf_Bite,ACTION_SKILL_Unique_AmaterasuWolf_Bite,Fierce Fang (Fire),Fire,50
+active,ACTION_SKILL_Unique_AmaterasuWolf_BiteV2,ACTION_SKILL_Unique_AmaterasuWolf_BiteV2,Double Fang (Fire),Fire,40
+active,ACTION_SKILL_IceAge,ACTION_SKILL_IceAge,Absolute Frost,Ice,700
+active,ACTION_SKILL_DiamondFall,ACTION_SKILL_DiamondFall,Diamond Rain,Ice,600
+active,ACTION_SKILL_IcicleLine,ACTION_SKILL_IcicleLine,Icicle Line,Ice,300
+active,ACTION_SKILL_IciclePierce,ACTION_SKILL_IciclePierce,Icicle Bullet,Ice,250
+active,ACTION_SKILL_IceWall,ACTION_SKILL_IceWall,Freeze Wall,Ice,200
+active,ACTION_SKILL_FrostBreath,ACTION_SKILL_FrostBreath,Crystal Breath,Ice,160
+active,98,ACTION_SKILL_IcicleThrow,Blizzard Spike,Ice,130
+active,80,ACTION_SKILL_80,Cryst Breath,Ice,90
+active,50,ACTION_SKILL_BlizzardLance,Iceberg,Ice,70
+active,40,ACTION_SKILL_IceBlade,Icicle Cutter,Ice,55
+active,11,ACTION_SKILL_EnergyShot,Ice Missile,Ice,30
+active,ACTION_SKILL_DoubleIcicleThrow,ACTION_SKILL_DoubleIcicleThrow,Double Blizzard Spike,Ice,700
+active,ACTION_SKILL_Unique_VolcanoDragon_Ice_IceLaser,ACTION_SKILL_Unique_VolcanoDragon_Ice_IceLaser,Ice Laser,Ice,700
+active,ACTION_SKILL_Unique_MoonQueen_IceMoonBlade,ACTION_SKILL_Unique_MoonQueen_IceMoonBlade,Seigetsu Flash,Ice,700
+active,ACTION_SKILL_Unique_SnowTigerBeastman_SnowImpact,ACTION_SKILL_Unique_SnowTigerBeastman_SnowImpact,Glacial Impact,Ice,650
+active,ACTION_SKILL_Unique_GrassMinotaur_Ice_BullRush,ACTION_SKILL_Unique_GrassMinotaur_Ice_BullRush,Raging Snow Rush,Ice,650
+active,ACTION_SKILL_Unique_ThunderBird_Ice_SnowStrom,ACTION_SKILL_Unique_ThunderBird_Ice_SnowStrom,Glacial Plunge,Ice,600
+active,ACTION_SKILL_Unique_IceNarwhal_JumpingHorn,ACTION_SKILL_Unique_IceNarwhal_JumpingHorn,High Breach,Ice,600
+active,ACTION_SKILL_Unique_RockBeast_Ice_IceHorn,ACTION_SKILL_Unique_RockBeast_Ice_IceHorn,Ice Burst,Ice,600
+active,ACTION_SKILL_Unique_Kirin_Ice_IceTackle,ACTION_SKILL_Unique_Kirin_Ice_IceTackle,Ice Gale Strike,Ice,600
+active,ACTION_SKILL_Unique_VolcanoDragon_Ice_IcicleSpit,ACTION_SKILL_Unique_VolcanoDragon_Ice_IcicleSpit,Ice Spit,Ice,600
+active,ACTION_SKILL_Unique_Yeti_SnowBall,ACTION_SKILL_Unique_Yeti_SnowBall,Snow Bowling,Ice,400
+active,ACTION_SKILL_Unique_WhiteTiger_IceScratch,ACTION_SKILL_Unique_WhiteTiger_IceScratch,Blizzard Claw,Ice,300
+active,ACTION_SKILL_Unique_SnowTigerBeastman_TrampleSlash,ACTION_SKILL_Unique_SnowTigerBeastman_TrampleSlash,Frost Talon,Ice,300
+active,ACTION_SKILL_Unique_ThunderDog_Ice_KoriShorai,ACTION_SKILL_Unique_ThunderDog_Ice_KoriShorai,Frostcall,Ice,300
+active,ACTION_SKILL_Unique_GrassMinotaur_Ice_BullRush_Lower,ACTION_SKILL_Unique_GrassMinotaur_Ice_BullRush_Lower,Snow Rush,Ice,250
+active,ACTION_SKILL_Unique_BirdDragon_Ice_IceBreath,ACTION_SKILL_Unique_BirdDragon_Ice_IceBreath,Tempest Blizzard,Ice,200
+active,ACTION_SKILL_Unique_IceCrocodile_SpitAttack,ACTION_SKILL_Unique_IceCrocodile_SpitAttack,Chaotic Spray,Ice,180
+active,ACTION_SKILL_Unique_Werewolf_Ice_SnowScratch,ACTION_SKILL_Unique_Werewolf_Ice_SnowScratch,Snow Claw,Ice,160
+active,95,ACTION_SKILL_Unique_IceHorse_IceBladeAttack,Crystal Wing,Ice,110
+active,93,ACTION_SKILL_Unique_VolcanicMonster_Ice_IceAttack,Frost Burst,Ice,100
+active,66,ACTION_SKILL_Unique_CaptainPenguin_BodySlide,Emperor Slide,Ice,70
+active,48,ACTION_SKILL_Unique_IceDeer_IceHorn,Freezing Charge,Ice,65
+active,ACTION_SKILL_Unique_ThunderDog_Ice_Bite,ACTION_SKILL_Unique_ThunderDog_Ice_Bite,Fierce Fang (Ice),Ice,50
+active,ACTION_SKILL_Unique_ThunderDog_Ice_BiteV2,ACTION_SKILL_Unique_ThunderDog_Ice_BiteV2,Double Fang (Ice),Ice,40
+active,ACTION_SKILL_WindBurst,ACTION_SKILL_WindBurst,Wind Burst,Leaf,600
+active,ACTION_SKILL_CrossWind,ACTION_SKILL_CrossWind,Crosswind,Leaf,500
+active,ACTION_SKILL_ReflectiveShuriken,ACTION_SKILL_ReflectiveShuriken,Reflect Leaf,Leaf,400
+active,ACTION_SKILL_RootLance,ACTION_SKILL_RootLance,Circle Vine,Leaf,300
+active,112,ACTION_SKILL_SolarBeam,Solar Blast,Leaf,150
+active,82,ACTION_SKILL_RootAttack,Spine Vine,Leaf,95
+active,74,ACTION_SKILL_GrassTornado,Grass Tornado,Leaf,80
+active,31,ACTION_SKILL_SeedMine,Seed Mine,Leaf,65
+active,9,ACTION_SKILL_SpecialCutter,Multicutter,Leaf,60
+active,22,ACTION_SKILL_SeedMachinegun,Seed Machine Gun,Leaf,50
+active,5,ACTION_SKILL_WindCutter,Wind Cutter,Leaf,30
+active,ACTION_SKILL_Unique_Mothman_SporeScatter,ACTION_SKILL_Unique_Mothman_SporeScatter,Spore Burst,Leaf,800
+active,ACTION_SKILL_Unique_Mothman_GiantSpore,ACTION_SKILL_Unique_Mothman_GiantSpore,Giant Spore,Leaf,700
+active,ACTION_SKILL_Unique_LotusDragon_LotusBloom,ACTION_SKILL_Unique_LotusDragon_LotusBloom,Lotus Bloom,Leaf,700
+active,ACTION_SKILL_Unique_GrassGolem_ArmCannon,ACTION_SKILL_Unique_GrassGolem_ArmCannon,Root Cannon,Leaf,700
+active,ACTION_SKILL_Unique_GrassMinotaur_BullRush,ACTION_SKILL_Unique_GrassMinotaur_BullRush,Raging Bull Rush,Leaf,650
+active,ACTION_SKILL_Unique_RedFlowerBird_JumpKick,ACTION_SKILL_Unique_RedFlowerBird_JumpKick,Flower Stomp,Leaf,550
+active,ACTION_SKILL_Unique_Plesiosaur_LongBreath,ACTION_SKILL_Unique_Plesiosaur_LongBreath,Deep Breath,Leaf,400
+active,ACTION_SKILL_Unique_Yeti_Grass_GrassBall,ACTION_SKILL_Unique_Yeti_Grass_GrassBall,Lawn Bowling,Leaf,400
+active,ACTION_SKILL_RaidCutter,ACTION_SKILL_RaidCutter,Raid Cutter,Leaf,400
+active,ACTION_SKILL_Unique_TropicalOstrich_DashKick,ACTION_SKILL_Unique_TropicalOstrich_DashKick,Dash Kick,Leaf,300
+active,ACTION_SKILL_Unique_GrassMinotaur_BullRush_Lower,ACTION_SKILL_Unique_GrassMinotaur_BullRush_Lower,Bull Rush,Leaf,250
+active,ACTION_SKILL_Unique_LeafMomonga_SomerSault,ACTION_SKILL_Unique_LeafMomonga_SomerSault,Konoha Flip,Leaf,250
+active,ACTION_SKILL_Unique_GrassRabbitMan_GrassRoundKick,ACTION_SKILL_Unique_GrassRabbitMan_GrassRoundKick,Leaping Roundhouse,Leaf,250
+active,ACTION_SKILL_Unique_PandaGirl_RapidKick,ACTION_SKILL_Unique_PandaGirl_RapidKick,Rapid Kick,Leaf,250
+active,ACTION_SKILL_WindEdge,ACTION_SKILL_WindEdge,Wind Edge,Leaf,200
+active,ACTION_SKILL_Unique_QueenBee_SpinLance,ACTION_SKILL_Unique_QueenBee_SpinLance,Spinning Staff,Leaf,160
+active,ACTION_SKILL_Unique_SoldierBee_NeedleLance,ACTION_SKILL_Unique_SoldierBee_NeedleLance,Needle Spear,Leaf,120
+active,77,ACTION_SKILL_Unique_GrassPanda_MusclePunch,Crushing Punch,Leaf,85
+active,54,ACTION_SKILL_54,Spinning Lance,Leaf,70
+active,53,ACTION_SKILL_Unique_RobinHood_BowSnipe,Focus Shot,Leaf,65
+active,45,ACTION_SKILL_Unique_FlowerDinosaur_Whip,Botanical Smash,Leaf,60
+active,ACTION_SKILL_Unique_LilyQueen_LilyHealing,ACTION_SKILL_Unique_LilyQueen_LilyHealing,Bountiful Protection,Leaf,0
+active,ACTION_SKILL_HolyBlast,ACTION_SKILL_HolyBlast,Holy Burst,Normal,700
+active,118,ACTION_SKILL_SelfExplosion,Megaton Implode,Normal,250
+active,114,ACTION_SKILL_SelfDestruct_Bee,Bee Quiet,Normal,200
+active,113,ACTION_SKILL_SelfDestruct,Implode,Normal,180
+active,ACTION_SKILL_AirBlade,ACTION_SKILL_AirBlade,Air Blade,Normal,160
+active,107,ACTION_SKILL_HyperBeam,Pal Blast,Normal,150
+active,59,ACTION_SKILL_PowerBall,Power Bomb,Normal,70
+active,17,ACTION_SKILL_PowerShot,Power Shot,Normal,35
+active,7,ACTION_SKILL_AirCanon,Air Cannon,Normal,25
+active,ACTION_SKILL_Unique_NightBlueHorse_Neutral_AirStep,ACTION_SKILL_Unique_NightBlueHorse_Neutral_AirStep,Royal Step,Normal,800
+active,ACTION_SKILL_Unique_LegendDeer_WarpPillarBurst,ACTION_SKILL_Unique_LegendDeer_WarpPillarBurst,Sacred Rain,Normal,800
+active,ACTION_SKILL_Unique_LegendDeer_RadiantWingRush,ACTION_SKILL_Unique_LegendDeer_RadiantWingRush,Divine Wing,Normal,700
+active,ACTION_SKILL_Unique_WhiteDeer_HolyPillar,ACTION_SKILL_Unique_WhiteDeer_HolyPillar,Holy Nova,Normal,700
+active,ACTION_SKILL_Unique_CubeTurtle_Neutral_HolyPress,ACTION_SKILL_Unique_CubeTurtle_Neutral_HolyPress,Holy Press,Normal,700
+active,ACTION_SKILL_RadiantBarrage,ACTION_SKILL_RadiantBarrage,Radiant Barrage,Normal,700
+active,ACTION_SKILL_Unique_NightBlueHorse_Neutral_Tossin,ACTION_SKILL_Unique_NightBlueHorse_Neutral_Tossin,Silver Steed,Normal,700
+active,ACTION_SKILL_Unique_MoonQueen_MoonBeam,ACTION_SKILL_Unique_MoonQueen_MoonBeam,Moonlight Beam,Normal,600
+active,ACTION_SKILL_Unique_SifuDog_Counter,ACTION_SKILL_Unique_SifuDog_Counter,Wholehearted Stance,Normal,450
+active,ACTION_SKILL_StarMine,ACTION_SKILL_StarMine,Star Mine,Normal,400
+active,ACTION_SKILL_Unique_MoonQueen_MoonBlade,ACTION_SKILL_Unique_MoonQueen_MoonBlade,Seigetsu Blade,Normal,350
+active,ACTION_SKILL_Unique_LegendDeer_RadiantPurge_Otomo,ACTION_SKILL_Unique_LegendDeer_RadiantPurge_Otomo,Purifying Light,Normal,250
+active,96,ACTION_SKILL_Unique_SaintCentaur_OneSpearRushes,Spear Thrust,Normal,120
+active,89,ACTION_SKILL_Unique_KingAlpaca_BodyPress,Kingly Slam,Normal,100
+active,63,ACTION_SKILL_Unique_FengyunDeeper_CloudTempest,Cloud Tempest,Normal,90
+active,55,ACTION_SKILL_Unique_SakuraSaurus_SideTackle,Muscle Slam,Normal,80
+active,65,ACTION_SKILL_Unique_HawkBird_Storm,Tornado Attack,Normal,65
+active,41,ACTION_SKILL_Unique_NaughtyCat_CatPress,Cat Press,Normal,60
+active,32,ACTION_SKILL_Unique_Eagle_GlidingNail,Gale Claw,Normal,60
+active,28,ACTION_SKILL_Unique_Boar_Tackle,Reckless Charge,Normal,55
+active,35,ACTION_SKILL_Unique_Deer_PushupHorn,Antler Uppercut,Normal,50
+active,30,ACTION_SKILL_Unique_Garm_Bite,Fierce Fang,Normal,45
+active,ACTION_SKILL_Unique_Garm_BiteV2,ACTION_SKILL_Unique_Garm_BiteV2,Double Fang,Normal,40
+active,26,ACTION_SKILL_Unique_Alpaca_Tackle,Fluffy Tackle,Normal,40
+active,23,ACTION_SKILL_Unique_PinkCat_CatPunch,Punch Flurry,Normal,40
+active,19,ACTION_SKILL_Unique_SheepBall_Roll,Roly Poly,Normal,35
+active,15,ACTION_SKILL_Unique_ChickenPal_ChickenPeck,Chicken Rush,Normal,30
+active,ACTION_SKILL_SeaGush,ACTION_SKILL_SeaGush,Geyser Gush,Water,600
+active,ACTION_SKILL_RipTide,ACTION_SKILL_RipTide,Aqua Surge,Water,500
+active,ACTION_SKILL_HydroSlicer,ACTION_SKILL_HydroSlicer,Hydro Slicer,Water,350
+active,ACTION_SKILL_WallSplash,ACTION_SKILL_WallSplash,Curtain Splash,Water,300
+active,ACTION_SKILL_DiversionLaser,ACTION_SKILL_DiversionLaser,Torrential Blast,Water,250
+active,ACTION_SKILL_LineGeyser,ACTION_SKILL_LineGeyser,Splash,Water,160
+active,105,ACTION_SKILL_HydroPump,Hydro Laser,Water,150
+active,85,ACTION_SKILL_WaterBall,Aqua Burst,Water,100
+active,76,ACTION_SKILL_AcidRain,Acid Rain,Water,80
+active,51,ACTION_SKILL_BubbleShot,Bubble Blast,Water,65
+active,21,ACTION_SKILL_WaterGun,Aqua Gun,Water,40
+active,6,ACTION_SKILL_AquaJet,Hydro Jet,Water,30
+active,ACTION_SKILL_Unique_KingWhale_AquaTornado,ACTION_SKILL_Unique_KingWhale_AquaTornado,Aqua Tornado,Water,800
+active,ACTION_SKILL_Unique_BlueSkyDragon_DrainStorm,ACTION_SKILL_Unique_BlueSkyDragon_DrainStorm,Celestial Vortex,Water,700
+active,ACTION_SKILL_Unique_KingWhale_Breaching,ACTION_SKILL_Unique_KingWhale_Breaching,Grand Breach,Water,700
+active,ACTION_SKILL_Unique_PoseidonOrca_TorrentLaser,ACTION_SKILL_Unique_PoseidonOrca_TorrentLaser,Thalassonic Laser,Water,700
+active,ACTION_SKILL_Unique_BlueSkyDragon_Tossin,ACTION_SKILL_Unique_BlueSkyDragon_Tossin,Hydra Charge,Water,500
+active,ACTION_SKILL_Unique_KingWhale_Maelstrom,ACTION_SKILL_Unique_KingWhale_Maelstrom,Maelstrom,Water,500
+active,ACTION_SKILL_Unique_GhostAnglerfish_SweepBait,ACTION_SKILL_Unique_GhostAnglerfish_SweepBait,Lantern Sweep,Water,450
+active,ACTION_SKILL_Unique_Umihebi_WindingTackle,ACTION_SKILL_Unique_Umihebi_WindingTackle,Slither Slam,Water,400
+active,ACTION_SKILL_Unique_KingWhale_WaveTackle,ACTION_SKILL_Unique_KingWhale_WaveTackle,Tidal Charge,Water,400
+active,ACTION_SKILL_Unique_Horus_Water_AquaStorm,ACTION_SKILL_Unique_Horus_Water_AquaStorm,Phoenix Tide,Water,320
+active,ACTION_SKILL_Unique_KingWhale_AquaBlade,ACTION_SKILL_Unique_KingWhale_AquaBlade,Aqua Blade,Water,300
+active,ACTION_SKILL_Unique_StuffedShark_HiddenWeapon,ACTION_SKILL_Unique_StuffedShark_HiddenWeapon,Trigger Happy,Water,300
+active,ACTION_SKILL_Unique_SakuraSaurus_Water_SplashTackle,ACTION_SKILL_Unique_SakuraSaurus_Water_SplashTackle,Splash Tackle,Water,250
+active,ACTION_SKILL_Unique_KingWhale_HomingBubble,ACTION_SKILL_Unique_KingWhale_HomingBubble,Bubble Rain,Water,200
+active,ACTION_SKILL_CreepingBubble,ACTION_SKILL_CreepingBubble,Creeping Bubbles,Water,200
+active,ACTION_SKILL_Unique_TentacleTurtle_HydroSpin,ACTION_SKILL_Unique_TentacleTurtle_HydroSpin,Hydro Spin,Water,160
+active,ACTION_SKILL_Unique_OctopursGirl_Inkjet,ACTION_SKILL_Unique_OctopursGirl_Inkjet,Smoke Jet,Water,120
+partner,GhostAnglerfish_Fire,GhostAnglerfish_Fire,,,
+partner,WhiteShieldDragon,WhiteShieldDragon,,,
+partner,BirdDragon,BirdDragon,,,
+partner,BirdDragon_Ice,BirdDragon_Ice,,,
+partner,JetDragon,JetDragon,,,
+partner,FairyDragon,FairyDragon,,,
+partner,FairyDragon_Water,FairyDragon_Water,,,
+partner,SharkKid,SharkKid,,,
+partner,SharkKid_Fire,SharkKid_Fire,,,
+partner,Mutant,Mutant,,,
+partner,Kelpie,Kelpie,,,
+partner,IceFox,IceFox,,,
+partner,BlueSkyDragon,BlueSkyDragon,,,
+partner,Plesiosaur,Plesiosaur,,,
+partner,BerryGoat,BerryGoat,,,
+partner,SamuraiDog,SamuraiDog,,,
+partner,LongCat,LongCat,,,
+partner,GuardianDog,GuardianDog,,,
+partner,SweetsSheep_Ground,SweetsSheep_Ground,,,
+partner,BlackMetalDragon,BlackMetalDragon,,,
+partner,FoxMage_Dark,FoxMage_Dark,,,
+partner,FireKirin_Dark,FireKirin_Dark,,,
+partner,IceHorse_Dark,IceHorse_Dark,,,
+partner,GrimGirl,GrimGirl,,,
+partner,CatMage_Fire,CatMage_Fire,,,
+partner,WhiteDeer_Dark,WhiteDeer_Dark,,,
+partner,WhiteDeer,WhiteDeer,,,
+partner,FlowerDoll,FlowerDoll,,,
+partner,SnowTigerBeastman,SnowTigerBeastman,,,
+partner,Ronin,Ronin,,,
+partner,CaptainPenguin,CaptainPenguin,,,
+partner,FoxExorcist,FoxExorcist,,,
+partner,NegativeKoala,NegativeKoala,,,
+partner,SweetsSheep,SweetsSheep,,,
+partner,HerculesBeetle,HerculesBeetle,,,
+partner,PinkCat,PinkCat,,,
+partner,MoonQueen,MoonQueen,,,
+partner,OctopusGirl_Neutral,OctopusGirl_Neutral,,,
+partner,ElecSnail,ElecSnail,,,
+partner,KingSunfish,KingSunfish,,,
+partner,MushroomLady,MushroomLady,,,
+partner,Monkey,Monkey,,,
+partner,IceNarwhal,IceNarwhal,,,
+partner,ElecLizard,ElecLizard,,,
+partner,Monkey_Fire,Monkey_Fire,,,
+partner,Hedgehog_Ice,Hedgehog_Ice,,,
+partner,KingAlpaca_Ice,KingAlpaca_Ice,,,
+partner,ThunderBird_Ice,ThunderBird_Ice,,,
+partner,IceDeer,IceDeer,,,
+partner,GrassGolem_Dark,GrassGolem_Dark,,,
+partner,IceNarwhal_Fire,IceNarwhal_Fire,,,
+partner,ElecPomeranian,ElecPomeranian,,,
+partner,BlackPuppy_Ice,BlackPuppy_Ice,,,
+partner,Werewolf,Werewolf,,,
+partner,BlackCentaur,BlackCentaur,,,
+partner,WizardOwl,WizardOwl,,,
+partner,ThiefBird,ThiefBird,,,
+partner,Baphomet_Dark,Baphomet_Dark,,,
+partner,Manticore_Dark,Manticore_Dark,,,
+partner,GhostBlackCat,GhostBlackCat,,,
+partner,Sekhmet,Sekhmet,,,
+partner,CuteFox,CuteFox,,,
+partner,BlackPuppy,BlackPuppy,,,
+partner,Garm,Garm,,,
+partner,WhiteTiger,WhiteTiger,,,
+partner,KingBahamut_Dragon,KingBahamut_Dragon,,,
+partner,DreamDemon,DreamDemon,,,
+partner,DrillGame,DrillGame,,,
+partner,DarkCrow,DarkCrow,,,
+partner,ChickenPal,ChickenPal,,,
+partner,ColorfulBird,ColorfulBird,,,
+partner,ThunderFluffyBird,ThunderFluffyBird,,,
+partner,StuffedShark_Fire,StuffedShark_Fire,,,
+partner,VenusFlytrap,VenusFlytrap,,,
+partner,WhiteTiger_Ground,WhiteTiger_Ground,,,
+partner,GrassMinotaur_Ice,GrassMinotaur_Ice,,,
+partner,ThunderDragonMan,ThunderDragonMan,,,
+partner,BluePlatypus_Fire,BluePlatypus_Fire,,,
+partner,SwordCutlassfish,SwordCutlassfish,,,
+partner,RedArmorBird,RedArmorBird,,,
+partner,Baphomet,Baphomet,,,
+partner,LeafPrincess,LeafPrincess,,,
+partner,RedFlowerBird,RedFlowerBird,,,
+partner,MopBaby,MopBaby,,,
+partner,FluffyBird,FluffyBird,,,
+partner,SheepBall,SheepBall,,,
+partner,WoolFox,WoolFox,,,
+partner,WindChimes,WindChimes,,,
+partner,GrassGolem,GrassGolem,,,
+partner,FlowerDinosaur,FlowerDinosaur,,,
+partner,NegativeOctopus_Neutral,NegativeOctopus_Neutral,,,
+partner,NegativeOctopus,NegativeOctopus,,,
+partner,BrownRabbit,BrownRabbit,,,
+partner,Kirin_Ice,Kirin_Ice,,,
+partner,Werewolf_Ice,Werewolf_Ice,,,
+partner,Gorilla,Gorilla,,,
+partner,Gorilla_Ground,Gorilla_Ground,,,
+partner,HerculesBeetle_Ground,HerculesBeetle_Ground,,,
+partner,DandelionGirl,DandelionGirl,,,
+partner,GrassMammoth,GrassMammoth,,,
+partner,Eagle,Eagle,,,
+partner,WhiteMoth_Neutral,WhiteMoth_Neutral,,,
+partner,NaughtyCat,NaughtyCat,,,
+partner,AmaterasuWolf_Dark,AmaterasuWolf_Dark,,,
+partner,LotusDragon,LotusDragon,,,
+partner,LilyQueen_Dark,LilyQueen_Dark,,,
+partner,Bastet,Bastet,,,
+partner,LazyCatfish_Gold,LazyCatfish_Gold,,,
+partner,DarkScorpion_Ground,DarkScorpion_Ground,,,
+partner,SkyDragon_Grass,SkyDragon_Grass,,,
+partner,GrassRabbitMan,GrassRabbitMan,,,
+partner,CandleGhost,CandleGhost,,,
+partner,GrassPanda,GrassPanda,,,
+partner,GrassPanda_Electric,GrassPanda_Electric,,,
+partner,OniGhostGirl,OniGhostGirl,,,
+partner,PinkRabbit_Grass,PinkRabbit_Grass,,,
+partner,RobinHood,RobinHood,,,
+partner,ElecSnail_Ground,ElecSnail_Ground,,,
+partner,Anubis,Anubis,,,
+partner,Deer,Deer,,,
+partner,Deer_Ground,Deer_Ground,,,
+partner,Yeti,Yeti,,,
+partner,Yeti_Grass,Yeti_Grass,,,
+partner,CloverFairy,CloverFairy,,,
+partner,PinkRabbit,PinkRabbit,,,
+partner,Boar,Boar,,,
+partner,LilyQueen,LilyQueen,,,
+partner,PinkLizard,PinkLizard,,,
+partner,Manticore,Manticore,,,
+partner,FlowerRabbit,FlowerRabbit,,,
+partner,LeafMomonga,LeafMomonga,,,
+partner,MoonChild,MoonChild,,,
+partner,SaintCentaur,SaintCentaur,,,
+partner,SifuDog,SifuDog,,,
+partner,CactusDoll,CactusDoll,,,
+partner,CactusDoll_Dark,CactusDoll_Dark,,,
+partner,Kitsunebi,Kitsunebi,,,
+partner,Kitsunebi_Ice,Kitsunebi_Ice,,,
+partner,LazyDragon,LazyDragon,,,
+partner,GrassMammoth_Ice,GrassMammoth_Ice,,,
+partner,VolcanoDragon_Ice,VolcanoDragon_Ice,,,
+partner,VolcanicMonster_Ice,VolcanicMonster_Ice,,,
+partner,BlueDragon_Ice,BlueDragon_Ice,,,
+partner,IceCrocodile,IceCrocodile,,,
+partner,IceHorse,IceHorse,,,
+partner,Bastet_Ice,Bastet_Ice,,,
+partner,DomeArmorDragon,DomeArmorDragon,,,
+partner,SmallYeti,SmallYeti,,,
+partner,WingGolem_Fire,WingGolem_Fire,,,
+partner,JellyfishFairy,JellyfishFairy,,,
+partner,JellyfishGhost,JellyfishGhost,,,
+partner,Hedgehog,Hedgehog,,,
+partner,FlyingManta_Thunder,FlyingManta_Thunder,,,
+partner,MopKing,MopKing,,,
+partner,KingAlpaca,KingAlpaca,,,
+partner,NightFox,NightFox,,,
+partner,RaijinDaughter_Water,RaijinDaughter_Water,,,
+partner,RaijinDaughter,RaijinDaughter,,,
+partner,LanternButler,LanternButler,,,
+partner,Kelpie_Fire,Kelpie_Fire,,,
+partner,KendoFrog,KendoFrog,,,
+partner,GhostDragon,GhostDragon,,,
+partner,CatVampire,CatVampire,,,
+partner,Carbunclo,Carbunclo,,,
+partner,NightBlueHorse_Neutral,NightBlueHorse_Neutral,,,
+partner,ThunderDog,ThunderDog,,,
+partner,PlantSlime,PlantSlime,,,
+partner,SleeveRabbit,SleeveRabbit,,,
+partner,FoxMage,FoxMage,,,
+partner,SakuraSaurus,SakuraSaurus,,,
+partner,ClioneTwins,ClioneTwins,,,
+partner,KingBahamut,KingBahamut,,,
+partner,VolcanoDragon,VolcanoDragon,,,
+partner,LavaGirl,LavaGirl,,,
+partner,CubeTurtle,CubeTurtle,,,
+partner,MysteryMask,MysteryMask,,,
+partner,RobinHood_Ground,RobinHood_Ground,,,
+partner,GhostAnglerfish,GhostAnglerfish,,,
+partner,MimicDog,MimicDog,,,
+partner,GhostBeast,GhostBeast,,,
+partner,DarkMechaDragon,DarkMechaDragon,,,
+partner,CowPal,CowPal,,,
+partner,CuteMole,CuteMole,,,
+partner,LazyDragon_Electric,LazyDragon_Electric,,,
+partner,FlowerPrince,FlowerPrince,,,
+partner,BlackGriffon,BlackGriffon,,,
+partner,GrassMinotaur,GrassMinotaur,,,
+partner,CuteButterfly,CuteButterfly,,,
+partner,CatMage,CatMage,,,
+partner,NightBlueHorse,NightBlueHorse,,,
+partner,NightLady,NightLady,,,
+partner,NightLady_Dark,NightLady_Dark,,,
+partner,VolcanicMonster,VolcanicMonster,,,
+partner,Alpaca,Alpaca,,,
+partner,FlowerDoll_Fire,FlowerDoll_Fire,,,
+partner,SnowPeafowl,SnowPeafowl,,,
+partner,Penguin,Penguin,,,
+partner,Penguin_Electric,Penguin_Electric,,,
+partner,DarkFlameFox,DarkFlameFox,,,
+partner,ScorpionMan,ScorpionMan,,,
+partner,BlueThunderHorse,BlueThunderHorse,,,
+partner,RockBeast_Ice,RockBeast_Ice,,,
+partner,RockBeast,RockBeast,,,
+partner,BlueberryFairy,BlueberryFairy,,,
+partner,LittleBriarRose,LittleBriarRose,,,
+partner,VioletFairy,VioletFairy,,,
+partner,SakuraSaurus_Water,SakuraSaurus_Water,,,
+partner,QueenBee,QueenBee,,,
+partner,MushroomDragon,MushroomDragon,,,
+partner,FireKirin,FireKirin,,,
+partner,GhostDragon_Fire,GhostDragon_Fire,,,
+partner,KingWhale,KingWhale,,,
+partner,MummyPal,MummyPal,,,
+partner,ElecLion,ElecLion,,,
+partner,IceSeal,IceSeal,,,
+partner,MushroomDragon_Dark,MushroomDragon_Dark,,,
+partner,LegendDeer,LegendDeer,,,
+partner,TropicalOstrich,TropicalOstrich,,,
+partner,FeatherOstrich,FeatherOstrich,,,
+partner,Serpent_Ground,Serpent_Ground,,,
+partner,SmallArmadillo,SmallArmadillo,,,
+partner,GoldenHorse,GoldenHorse,,,
+partner,Horus,Horus,,,
+partner,ScorpionMan_Electric,ScorpionMan_Electric,,,
+partner,SwordCutlassfish_Fire,SwordCutlassfish_Fire,,,
+partner,PandaGirl,PandaGirl,,,
+partner,PoseidonOrca,PoseidonOrca,,,
+partner,KendoFrog_Dark,KendoFrog_Dark,,,
+partner,TentacleTurtle_Ground,TentacleTurtle_Ground,,,
+partner,KingSunfish_Thunder,KingSunfish_Thunder,,,
+partner,BadCatgirl,BadCatgirl,,,
+partner,WhiteMoth,WhiteMoth,,,
+partner,SkyDragon,SkyDragon,,,
+partner,SnakeGirl,SnakeGirl,,,
+partner,ThunderDog_Ice,ThunderDog_Ice,,,
+partner,IceSeal_Ground,IceSeal_Ground,,,
+partner,LazyCatfish,LazyCatfish,,,
+partner,Ganesha,Ganesha,,,
+partner,GhostRabbit_Grass,GhostRabbit_Grass,,,
+partner,GhostRabbit,GhostRabbit,,,
+partner,WeaselDragon_Fire,WeaselDragon_Fire,,,
+partner,TentacleTurtle,TentacleTurtle,,,
+partner,Mothman,Mothman,,,
+partner,KabukiMan,KabukiMan,,,
+partner,ElecCat,ElecCat,,,
+partner,WingGolem,WingGolem,,,
+partner,DarkScorpion,DarkScorpion,,,
+partner,OctopusGirl,OctopusGirl,,,
+partner,CubeTurtle_Neutral,CubeTurtle_Neutral,,,
+partner,Umihebi_Fire,Umihebi_Fire,,,
+partner,Umihebi,Umihebi,,,
+partner,FengyunDeeper_Electric,FengyunDeeper_Electric,,,
+partner,BluePlatypus,BluePlatypus,,,
+partner,Kirin,Kirin,,,
+partner,Serpent,Serpent,,,
+partner,PurpleSpider,PurpleSpider,,,
+partner,DarkMutant,DarkMutant,,,
+partner,PinkKangaroo,PinkKangaroo,,,
+partner,BeardedDragon,BeardedDragon,,,
+partner,WaterLizard,WaterLizard,,,
+partner,GrassDragon,GrassDragon,,,
+partner,FlowerDinosaur_Electric,FlowerDinosaur_Electric,,,
+partner,ThunderBird,ThunderBird,,,
+partner,Horus_Water,Horus_Water,,,
+partner,FlameBambi,FlameBambi,,,
+partner,LizardMan,LizardMan,,,
+partner,LizardMan_Fire,LizardMan_Fire,,,
+partner,HawkBird,HawkBird,,,
+partner,ClownRabbit,ClownRabbit,,,
+partner,CatBat,CatBat,,,
+partner,WhiteAlienDragon,WhiteAlienDragon,,,
+partner,DarkAlien,DarkAlien,,,
+partner,MonochromeQueen,MonochromeQueen,,,
+partner,CaptainPenguin_Black,CaptainPenguin_Black,,,
+partner,BerryGoat_Dark,BerryGoat_Dark,,,
+partner,Ronin_Dark,Ronin_Dark,,,
+partner,HoodGhost,HoodGhost,,,
+partner,FlameBuffalo,FlameBuffalo,,,
+partner,StuffedShark,StuffedShark,,,
+partner,BlueDragon,BlueDragon,,,
+partner,FengyunDeeper,FengyunDeeper,,,
+partner,HadesBird,HadesBird,,,
+partner,Suzaku,Suzaku,,,
+partner,HadesBird_Electric,HadesBird_Electric,,,
+partner,Suzaku_Water,Suzaku_Water,,,
+partner,WindChimes_Ice,WindChimes_Ice,,,
+partner,IceWitch,IceWitch,,,
+partner,AmaterasuWolf,AmaterasuWolf,,,
+partner,SoldierBee,SoldierBee,,,
+partner,WeaselDragon,WeaselDragon,,,
+partner,ElecPanda,ElecPanda,,,
+partner,SumoDog,SumoDog,,,
+partner,FlyingManta,FlyingManta,,,
+passive,Deffence_down2,Deffence_down2,Brittle,,
+passive,PAL_ALLAttack_down2,PAL_ALLAttack_down2,Pacifist,,
+passive,CraftSpeed_down2,CraftSpeed_down2,Slacker,,
+passive,PAL_FullStomach_Up_2,PAL_FullStomach_Up_2,Bottomless Stomach,,
+passive,PAL_Sanity_Up_2,PAL_Sanity_Up_2,Destructive,,
+passive,CraftSpeed_down1,CraftSpeed_down1,Clumsy,,
+passive,PAL_ALLAttack_down1,PAL_ALLAttack_down1,Coward,,
+passive,Deffence_down1,Deffence_down1,Downtrodden,,
+passive,PAL_FullStomach_Up_1,PAL_FullStomach_Up_1,Glutton,,
+passive,PAL_SpiritualInst,PAL_SpiritualInst,Mentally unstable,,
+passive,PAL_Sanity_Up_1,PAL_Sanity_Up_1,Unstable,,
+passive,PAL_oraora,PAL_oraora,Aggressive,,
+passive,CollectItem_Berries,CollectItem_Berries,Berry Picker,,
+passive,ElementBoost_Dragon_1_PAL,ElementBoost_Dragon_1_PAL,Blood of the Dragon,,
+passive,PAL_ALLAttack_up1,PAL_ALLAttack_up1,Brave,,
+passive,ElementBoost_Thunder_1_PAL,ElementBoost_Thunder_1_PAL,Capacitor,,
+passive,ElementBoost_Ice_1_PAL,ElementBoost_Ice_1_PAL,Coldblooded,,
+passive,PAL_conceited,PAL_conceited,Conceited,,
+passive,CollectItem_Sweets,CollectItem_Sweets,Confectioner,,
+passive,PAL_FullStomach_Down_1,PAL_FullStomach_Down_1,Dainty Eater,,
+passive,CoolTimeReduction_Down_1,CoolTimeReduction_Down_1,Easygoing,,
+passive,CollectItem_Egg,CollectItem_Egg,Egg Layer,,
+passive,EternalFlame,EternalFlame,Eternal Flame,,
+passive,ElementBoost_Leaf_1_PAL,ElementBoost_Leaf_1_PAL,Fragrant Foliage,,
+passive,CollectItem_Money,CollectItem_Money,Gold Digger,,
+passive,Deffence_up1,Deffence_up1,Hard Skin,,
+passive,PAL_rude,PAL_rude,Hooligan,,
+passive,ElementBoost_Aqua_1_PAL,ElementBoost_Aqua_1_PAL,Hydromaniac,,
+passive,Stamina_Up_1,Stamina_Up_1,Infinite Stamina,,
+passive,Nocturnal,Nocturnal,Insomnia,,
+passive,PAL_masochist,PAL_masochist,Masochist,,
+passive,NonKilling,NonKilling,Mercy Hit,,
+passive,CollectItem_Milk,CollectItem_Milk,Milk Maker,,
+passive,NightOwl,NightOwl,Night Owl,,
+passive,MoveSpeed_up_1,MoveSpeed_up_1,Nimble,,
+passive,SalePrice_Up_1,SalePrice_Up_1,Noble,,
+passive,Alien,Alien,Otherworldly Cells,,
+passive,Test_PalEgg_HatchingSpeed_Up,Test_PalEgg_HatchingSpeed_Up,Philanthropist,,
+passive,PAL_Sanity_Down_1,PAL_Sanity_Down_1,Positive Thinker,,
+passive,ElementBoost_Earth_1_PAL,ElementBoost_Earth_1_PAL,Power of Gaia,,
+passive,ElementBoost_Fire_1_PAL,ElementBoost_Fire_1_PAL,Pyromaniac,,
+passive,PAL_sadist,PAL_sadist,Sadist,,
+passive,CoolTimeReduction_Up_1,CoolTimeReduction_Up_1,Serenity,,
+passive,SalePrice_Down_1,SalePrice_Down_1,Shabby,,
+passive,SelfDeathAddItemDrop_up_1,SelfDeathAddItemDrop_up_1,Sharing is Caring,,
+passive,Stamina_Down_1,Stamina_Down_1,Sickly,,
+passive,CollectItem_Wool_WhiteMoth,CollectItem_Wool_WhiteMoth,Silk Spinner,,
+passive,SwimSpeed_up_1,SwimSpeed_up_1,Sleek Stroke,,
+passive,ElementBoost_Dark_1_PAL,ElementBoost_Dark_1_PAL,Veil of Darkness,,
+passive,CollectItem_Wool_Alpaca,CollectItem_Wool_Alpaca,Wool Maker,,
+passive,PAL_CorporateSlave,PAL_CorporateSlave,Work Slave,,
+passive,ElementBoost_Normal_1_PAL,ElementBoost_Normal_1_PAL,Zen Mind,,
+passive,SwimSpeed_up_2,SwimSpeed_up_2,Ace Swimmer,,
+passive,SalePrice_Up_2,SalePrice_Up_2,Fine Furs,,
+passive,Stamina_Up_2,Stamina_Up_2,Fit as a Fiddle,,
+passive,Deffence_up2_2,Deffence_up2_2,Heavyweight,,
+passive,CoolTimeReduction_Up_2,CoolTimeReduction_Up_2,Impatient,,
+passive,Noukin,Noukin,Musclehead,,
+passive,MoveSpeed_up_2,MoveSpeed_up_2,Runner,,
+passive,CraftSpeed_up1,CraftSpeed_up1,Serious,,
+passive,SelfDeathAddItemDrop_up_2,SelfDeathAddItemDrop_up_2,Service-Minded,,
+passive,CraftSpeed_up2,CraftSpeed_up2,Artisan,,
+passive,Deffence_up2,Deffence_up2,Burly Body,,
+passive,ElementBoost_Normal_2_PAL,ElementBoost_Normal_2_PAL,Celestial Emperor,,
+passive,PAL_ALLAttack_up3,PAL_ALLAttack_up3,Demon God,,
+passive,PAL_FullStomach_Down_2,PAL_FullStomach_Down_2,Diet Lover,,
+passive,ElementBoost_Dragon_2_PAL,ElementBoost_Dragon_2_PAL,Divine Dragon,,
+passive,ElementBoost_Earth_2_PAL,ElementBoost_Earth_2_PAL,Earth Emperor,,
+passive,Stamina_Up_3,Stamina_Up_3,Eternal Engine,,
+passive,PAL_ALLAttack_up2,PAL_ALLAttack_up2,Ferocious,,
+passive,ElementBoost_Fire_2_PAL,ElementBoost_Fire_2_PAL,Flame Emperor,,
+passive,ElementBoost_Ice_2_PAL,ElementBoost_Ice_2_PAL,Ice Emperor,,
+passive,SwimSpeed_up_3,SwimSpeed_up_3,King of the Waves,,
+passive,SelfDeathAddItemDrop_up_3,SelfDeathAddItemDrop_up_3,Lavish Hospitality,,
+passive,TrainerLogging_up1,TrainerLogging_up1,Logging Foreman,,
+passive,ElementBoost_Thunder_2_PAL,ElementBoost_Thunder_2_PAL,Lord of Lightning,,
+passive,ElementBoost_Aqua_2_PAL,ElementBoost_Aqua_2_PAL,Lord of the Sea,,
+passive,ElementBoost_Dark_2_PAL,ElementBoost_Dark_2_PAL,Lord of the Underworld,,
+passive,TrainerMining_up1,TrainerMining_up1,Mine Foreman,,
+passive,TrainerWorkSpeed_UP_1,TrainerWorkSpeed_UP_1,Motivational Leader,,
+passive,ElementBoost_Leaf_2_PAL,ElementBoost_Leaf_2_PAL,Spirit Emperor,,
+passive,TrainerDEF_UP_1,TrainerDEF_UP_1,Stronghold Strategist,,
+passive,MoveSpeed_up_3,MoveSpeed_up_3,Swift,,
+passive,CoolTimeReduction_Up_3,CoolTimeReduction_Up_3,Tempest Fury,,
+passive,TrainerATK_UP_1,TrainerATK_UP_1,Vanguard,,
+passive,PAL_Sanity_Down_2,PAL_Sanity_Down_2,Workaholic,,
+passive,MutationPal_Babysitter,MutationPal_Babysitter,Babysitter,,
+passive,OctaviaArmorVampire,OctaviaArmorVampire,Blood Is Fuel,,
+passive,Deffence_up3,Deffence_up3,Diamond Body,,
+passive,PAL_Sanity_Down_3,PAL_Sanity_Down_3,Heart of the Immovable King,,
+passive,MutationPal_ExplosionResist,MutationPal_ExplosionResist,Heavily Armored,,
+passive,MutationPal_Mutant,MutationPal_Mutant,Idiosyncratic,,
+passive,MutationPal_Immortal,MutationPal_Immortal,Immortality,,
+passive,Invader,Invader,Invader,,
+passive,Legend,Legend,Legend,,
+passive,Rare,Rare,Lucky,,
+passive,Nushi,Nushi,Lunker,,
+passive,PAL_FullStomach_Down_3,PAL_FullStomach_Down_3,Mastery of Fasting,,
+passive,CraftSpeed_up3,CraftSpeed_up3,Remarkable Craftsmanship,,
+passive,Salvation,Salvation,Savior,,
+passive,Witch,Witch,Siren of the Void,,
+passive,Vampire,Vampire,Vampiric,,
+passive,MiniNushi,MiniNushi,Whopper,,
+passive,WorldTree_CraftSpeed,WorldTree_CraftSpeed,Demon’s Hand,,
+passive,WorldTree_MoveSpeed,WorldTree_MoveSpeed,Dimensional Leap,,
+passive,WorldTree_ATK_DEF,WorldTree_ATK_DEF,God of Destruction,,
+passive,WorldTree_Sanity,WorldTree_Sanity,Hermit Sage,,
+passive,WorldTree_DEF,WorldTree_DEF,Sanctified Meat Shield,,
+passive,WorldTree_ATK,WorldTree_ATK,Twin-Edged Holy Blade,,
+passive,WorldTree_FullStomach,WorldTree_FullStomach,World Tree's Bounty,,

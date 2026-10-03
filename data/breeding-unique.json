@@ -1,0 +1,2065 @@
+{
+  "contract": "sphere-data/v1",
+  "site": "palsphere",
+  "extractedAt": "2026-09-30T14:24:00.303Z",
+  "gameVersion": "1.0.3",
+  "count": 257,
+  "uniqueCombos": [
+    {
+      "child": "LazyDragon_Electric",
+      "parentA": "LazyDragon",
+      "parentB": "ElecCat",
+      "childName": "Relaxaurus Lux",
+      "parentAName": "Relaxaurus",
+      "parentBName": "Sparkit"
+    },
+    {
+      "child": "Baphomet_Dark",
+      "parentA": "Baphomet",
+      "parentB": "GhostBeast",
+      "childName": "Incineram Noct",
+      "parentAName": "Incineram",
+      "parentBName": "Maraith"
+    },
+    {
+      "child": "Bastet_Ice",
+      "parentA": "Bastet",
+      "parentB": "Penguin",
+      "childName": "Mau Cryst",
+      "parentAName": "Mau",
+      "parentBName": "Pengullet"
+    },
+    {
+      "child": "BirdDragon_Ice",
+      "parentA": "BirdDragon",
+      "parentB": "IceFox",
+      "childName": "Vanwyrm Cryst",
+      "parentAName": "Vanwyrm",
+      "parentBName": "Foxcicle"
+    },
+    {
+      "child": "Deer_Ground",
+      "parentA": "Deer",
+      "parentB": "WindChimes",
+      "childName": "Eikthyrdeer Terra",
+      "parentAName": "Eikthyrdeer",
+      "parentBName": "Hangyu"
+    },
+    {
+      "child": "FairyDragon_Water",
+      "parentA": "FairyDragon",
+      "parentB": "Serpent",
+      "childName": "Elphidran Aqua",
+      "parentAName": "Elphidran",
+      "parentBName": "Surfent"
+    },
+    {
+      "child": "FireKirin_Dark",
+      "parentA": "FireKirin",
+      "parentB": "CatMage",
+      "childName": "Pyrin Noct",
+      "parentAName": "Pyrin",
+      "parentBName": "Katress"
+    },
+    {
+      "child": "GrassMammoth_Ice",
+      "parentA": "GrassMammoth",
+      "parentB": "Yeti",
+      "childName": "Mammorest Cryst",
+      "parentAName": "Mammorest",
+      "parentBName": "Wumpo"
+    },
+    {
+      "child": "GrassPanda_Electric",
+      "parentA": "GrassPanda",
+      "parentB": "ElecPanda",
+      "childName": "Mossanda Lux",
+      "parentAName": "Mossanda",
+      "parentBName": "Grizzbolt"
+    },
+    {
+      "child": "FlowerDinosaur_Electric",
+      "parentA": "FlowerDinosaur",
+      "parentB": "ThunderDog",
+      "childName": "Dinossom Lux",
+      "parentAName": "Dinossom",
+      "parentBName": "Rayhound"
+    },
+    {
+      "child": "Hedgehog_Ice",
+      "parentA": "Hedgehog",
+      "parentB": "Penguin",
+      "childName": "Jolthog Cryst",
+      "parentAName": "Jolthog",
+      "parentBName": "Pengullet"
+    },
+    {
+      "child": "IceHorse_Dark",
+      "parentA": "IceHorse",
+      "parentB": "HadesBird",
+      "childName": "Frostallion Noct",
+      "parentAName": "Frostallion",
+      "parentBName": "Helzephyr"
+    },
+    {
+      "child": "KingAlpaca_Ice",
+      "parentA": "KingAlpaca",
+      "parentB": "IceDeer",
+      "childName": "Kingpaca Cryst",
+      "parentAName": "Kingpaca",
+      "parentBName": "Reindrix"
+    },
+    {
+      "child": "LilyQueen_Dark",
+      "parentA": "LilyQueen",
+      "parentB": "DarkScorpion",
+      "childName": "Lyleen Noct",
+      "parentAName": "Lyleen",
+      "parentBName": "Menasting"
+    },
+    {
+      "child": "LizardMan_Fire",
+      "parentA": "LizardMan",
+      "parentB": "LavaGirl",
+      "childName": "Leezpunk Ignis",
+      "parentAName": "Leezpunk",
+      "parentBName": "Flambelle"
+    },
+    {
+      "child": "Manticore_Dark",
+      "parentA": "Manticore",
+      "parentB": "CatVampire",
+      "childName": "Blazehowl Noct",
+      "parentAName": "Blazehowl",
+      "parentBName": "Felbat"
+    },
+    {
+      "child": "RobinHood_Ground",
+      "parentA": "RobinHood",
+      "parentB": "CuteMole",
+      "childName": "Robinquill Terra",
+      "parentAName": "Robinquill",
+      "parentBName": "Fuddler"
+    },
+    {
+      "child": "SakuraSaurus_Water",
+      "parentA": "SakuraSaurus",
+      "parentB": "BluePlatypus",
+      "childName": "Broncherry Aqua",
+      "parentAName": "Broncherry",
+      "parentBName": "Fuack"
+    },
+    {
+      "child": "Serpent_Ground",
+      "parentA": "Serpent",
+      "parentB": "LazyCatfish",
+      "childName": "Surfent Terra",
+      "parentAName": "Surfent",
+      "parentBName": "Dumud"
+    },
+    {
+      "child": "SharkKid_Fire",
+      "parentA": "SharkKid",
+      "parentB": "FlameBambi",
+      "childName": "Gobfin Ignis",
+      "parentAName": "Gobfin",
+      "parentBName": "Rooby"
+    },
+    {
+      "child": "Suzaku_Water",
+      "parentA": "Suzaku",
+      "parentB": "Umihebi",
+      "childName": "Suzaku Aqua",
+      "parentAName": "Suzaku",
+      "parentBName": "Jormuntide"
+    },
+    {
+      "child": "VolcanicMonster_Ice",
+      "parentA": "VolcanicMonster",
+      "parentB": "IceFox",
+      "childName": "Reptyro Cryst",
+      "parentAName": "Reptyro",
+      "parentBName": "Foxcicle"
+    },
+    {
+      "child": "WindChimes_Ice",
+      "parentA": "WindChimes",
+      "parentB": "MopBaby",
+      "childName": "Hangyu Cryst",
+      "parentAName": "Hangyu",
+      "parentBName": "Swee"
+    },
+    {
+      "child": "IceHorse",
+      "parentA": "IceHorse",
+      "parentB": "IceHorse",
+      "childName": "Frostallion",
+      "parentAName": "Frostallion",
+      "parentBName": "Frostallion"
+    },
+    {
+      "child": "JetDragon",
+      "parentA": "JetDragon",
+      "parentB": "JetDragon",
+      "childName": "Jetragon",
+      "parentAName": "Jetragon",
+      "parentBName": "Jetragon"
+    },
+    {
+      "child": "SaintCentaur",
+      "parentA": "SaintCentaur",
+      "parentB": "SaintCentaur",
+      "childName": "Paladius",
+      "parentAName": "Paladius",
+      "parentBName": "Paladius"
+    },
+    {
+      "child": "BlackCentaur",
+      "parentA": "BlackCentaur",
+      "parentB": "BlackCentaur",
+      "childName": "Necromus",
+      "parentAName": "Necromus",
+      "parentBName": "Necromus"
+    },
+    {
+      "child": "LilyQueen",
+      "parentA": "LilyQueen",
+      "parentB": "LilyQueen",
+      "childName": "Lyleen",
+      "parentAName": "Lyleen",
+      "parentBName": "Lyleen"
+    },
+    {
+      "child": "Horus",
+      "parentA": "Horus",
+      "parentB": "Horus",
+      "childName": "Faleris",
+      "parentAName": "Faleris",
+      "parentBName": "Faleris"
+    },
+    {
+      "child": "ElecPanda",
+      "parentA": "ElecPanda",
+      "parentB": "ElecPanda",
+      "childName": "Grizzbolt",
+      "parentAName": "Grizzbolt",
+      "parentBName": "Grizzbolt"
+    },
+    {
+      "child": "ThunderDragonMan",
+      "parentA": "ThunderDragonMan",
+      "parentB": "ThunderDragonMan",
+      "childName": "Orserk",
+      "parentAName": "Orserk",
+      "parentBName": "Orserk"
+    },
+    {
+      "child": "BlackGriffon",
+      "parentA": "BlackGriffon",
+      "parentB": "BlackGriffon",
+      "childName": "Shadowbeak",
+      "parentAName": "Shadowbeak",
+      "parentBName": "Shadowbeak"
+    },
+    {
+      "child": "Umihebi_Fire",
+      "parentA": "Umihebi_Fire",
+      "parentB": "Umihebi_Fire",
+      "childName": "Jormuntide Ignis",
+      "parentAName": "Jormuntide Ignis",
+      "parentBName": "Jormuntide Ignis"
+    },
+    {
+      "child": "LazyDragon_Electric",
+      "parentA": "LazyDragon_Electric",
+      "parentB": "LazyDragon_Electric",
+      "childName": "Relaxaurus Lux",
+      "parentAName": "Relaxaurus Lux",
+      "parentBName": "Relaxaurus Lux"
+    },
+    {
+      "child": "Baphomet_Dark",
+      "parentA": "Baphomet_Dark",
+      "parentB": "Baphomet_Dark",
+      "childName": "Incineram Noct",
+      "parentAName": "Incineram Noct",
+      "parentBName": "Incineram Noct"
+    },
+    {
+      "child": "Bastet_Ice",
+      "parentA": "Bastet_Ice",
+      "parentB": "Bastet_Ice",
+      "childName": "Mau Cryst",
+      "parentAName": "Mau Cryst",
+      "parentBName": "Mau Cryst"
+    },
+    {
+      "child": "BirdDragon_Ice",
+      "parentA": "BirdDragon_Ice",
+      "parentB": "BirdDragon_Ice",
+      "childName": "Vanwyrm Cryst",
+      "parentAName": "Vanwyrm Cryst",
+      "parentBName": "Vanwyrm Cryst"
+    },
+    {
+      "child": "Deer_Ground",
+      "parentA": "Deer_Ground",
+      "parentB": "Deer_Ground",
+      "childName": "Eikthyrdeer Terra",
+      "parentAName": "Eikthyrdeer Terra",
+      "parentBName": "Eikthyrdeer Terra"
+    },
+    {
+      "child": "FairyDragon_Water",
+      "parentA": "FairyDragon_Water",
+      "parentB": "FairyDragon_Water",
+      "childName": "Elphidran Aqua",
+      "parentAName": "Elphidran Aqua",
+      "parentBName": "Elphidran Aqua"
+    },
+    {
+      "child": "FireKirin_Dark",
+      "parentA": "FireKirin_Dark",
+      "parentB": "FireKirin_Dark",
+      "childName": "Pyrin Noct",
+      "parentAName": "Pyrin Noct",
+      "parentBName": "Pyrin Noct"
+    },
+    {
+      "child": "GrassMammoth_Ice",
+      "parentA": "GrassMammoth_Ice",
+      "parentB": "GrassMammoth_Ice",
+      "childName": "Mammorest Cryst",
+      "parentAName": "Mammorest Cryst",
+      "parentBName": "Mammorest Cryst"
+    },
+    {
+      "child": "GrassPanda_Electric",
+      "parentA": "GrassPanda_Electric",
+      "parentB": "GrassPanda_Electric",
+      "childName": "Mossanda Lux",
+      "parentAName": "Mossanda Lux",
+      "parentBName": "Mossanda Lux"
+    },
+    {
+      "child": "FlowerDinosaur_Electric",
+      "parentA": "FlowerDinosaur_Electric",
+      "parentB": "FlowerDinosaur_Electric",
+      "childName": "Dinossom Lux",
+      "parentAName": "Dinossom Lux",
+      "parentBName": "Dinossom Lux"
+    },
+    {
+      "child": "Hedgehog_Ice",
+      "parentA": "Hedgehog_Ice",
+      "parentB": "Hedgehog_Ice",
+      "childName": "Jolthog Cryst",
+      "parentAName": "Jolthog Cryst",
+      "parentBName": "Jolthog Cryst"
+    },
+    {
+      "child": "IceHorse_Dark",
+      "parentA": "IceHorse_Dark",
+      "parentB": "IceHorse_Dark",
+      "childName": "Frostallion Noct",
+      "parentAName": "Frostallion Noct",
+      "parentBName": "Frostallion Noct"
+    },
+    {
+      "child": "KingAlpaca_Ice",
+      "parentA": "KingAlpaca_Ice",
+      "parentB": "KingAlpaca_Ice",
+      "childName": "Kingpaca Cryst",
+      "parentAName": "Kingpaca Cryst",
+      "parentBName": "Kingpaca Cryst"
+    },
+    {
+      "child": "LilyQueen_Dark",
+      "parentA": "LilyQueen_Dark",
+      "parentB": "LilyQueen_Dark",
+      "childName": "Lyleen Noct",
+      "parentAName": "Lyleen Noct",
+      "parentBName": "Lyleen Noct"
+    },
+    {
+      "child": "LizardMan_Fire",
+      "parentA": "LizardMan_Fire",
+      "parentB": "LizardMan_Fire",
+      "childName": "Leezpunk Ignis",
+      "parentAName": "Leezpunk Ignis",
+      "parentBName": "Leezpunk Ignis"
+    },
+    {
+      "child": "Manticore_Dark",
+      "parentA": "Manticore_Dark",
+      "parentB": "Manticore_Dark",
+      "childName": "Blazehowl Noct",
+      "parentAName": "Blazehowl Noct",
+      "parentBName": "Blazehowl Noct"
+    },
+    {
+      "child": "RobinHood_Ground",
+      "parentA": "RobinHood_Ground",
+      "parentB": "RobinHood_Ground",
+      "childName": "Robinquill Terra",
+      "parentAName": "Robinquill Terra",
+      "parentBName": "Robinquill Terra"
+    },
+    {
+      "child": "SakuraSaurus_Water",
+      "parentA": "SakuraSaurus_Water",
+      "parentB": "SakuraSaurus_Water",
+      "childName": "Broncherry Aqua",
+      "parentAName": "Broncherry Aqua",
+      "parentBName": "Broncherry Aqua"
+    },
+    {
+      "child": "Serpent_Ground",
+      "parentA": "Serpent_Ground",
+      "parentB": "Serpent_Ground",
+      "childName": "Surfent Terra",
+      "parentAName": "Surfent Terra",
+      "parentBName": "Surfent Terra"
+    },
+    {
+      "child": "SharkKid_Fire",
+      "parentA": "SharkKid_Fire",
+      "parentB": "SharkKid_Fire",
+      "childName": "Gobfin Ignis",
+      "parentAName": "Gobfin Ignis",
+      "parentBName": "Gobfin Ignis"
+    },
+    {
+      "child": "Suzaku_Water",
+      "parentA": "Suzaku_Water",
+      "parentB": "Suzaku_Water",
+      "childName": "Suzaku Aqua",
+      "parentAName": "Suzaku Aqua",
+      "parentBName": "Suzaku Aqua"
+    },
+    {
+      "child": "VolcanicMonster_Ice",
+      "parentA": "VolcanicMonster_Ice",
+      "parentB": "VolcanicMonster_Ice",
+      "childName": "Reptyro Cryst",
+      "parentAName": "Reptyro Cryst",
+      "parentBName": "Reptyro Cryst"
+    },
+    {
+      "child": "WindChimes_Ice",
+      "parentA": "WindChimes_Ice",
+      "parentB": "WindChimes_Ice",
+      "childName": "Hangyu Cryst",
+      "parentAName": "Hangyu Cryst",
+      "parentBName": "Hangyu Cryst"
+    },
+    {
+      "child": "PinkKangaroo",
+      "parentA": "PinkKangaroo",
+      "parentB": "PinkKangaroo",
+      "childName": "PinkKangaroo",
+      "parentAName": "PinkKangaroo",
+      "parentBName": "PinkKangaroo"
+    },
+    {
+      "child": "BeardedDragon",
+      "parentA": "BeardedDragon",
+      "parentB": "BeardedDragon",
+      "childName": "BeardedDragon",
+      "parentAName": "BeardedDragon",
+      "parentBName": "BeardedDragon"
+    },
+    {
+      "child": "BlackFurDragon",
+      "parentA": "BlackFurDragon",
+      "parentB": "BlackFurDragon",
+      "childName": "Dragostrophe",
+      "parentAName": "Dragostrophe",
+      "parentBName": "Dragostrophe"
+    },
+    {
+      "child": "WaterLizard",
+      "parentA": "WaterLizard",
+      "parentB": "WaterLizard",
+      "childName": "WaterLizard",
+      "parentAName": "WaterLizard",
+      "parentBName": "WaterLizard"
+    },
+    {
+      "child": "ElecLion",
+      "parentA": "ElecLion",
+      "parentB": "ElecLion",
+      "childName": "Boltmane",
+      "parentAName": "Boltmane",
+      "parentBName": "Boltmane"
+    },
+    {
+      "child": "GrassDragon",
+      "parentA": "GrassDragon",
+      "parentB": "GrassDragon",
+      "childName": "GrassDragon",
+      "parentAName": "GrassDragon",
+      "parentBName": "GrassDragon"
+    },
+    {
+      "child": "DarkMutant",
+      "parentA": "DarkMutant",
+      "parentB": "DarkMutant",
+      "childName": "DarkMutant",
+      "parentAName": "DarkMutant",
+      "parentBName": "DarkMutant"
+    },
+    {
+      "child": "Umihebi_Fire",
+      "parentA": "Umihebi",
+      "parentB": "Manticore",
+      "childName": "Jormuntide Ignis",
+      "parentAName": "Jormuntide",
+      "parentBName": "Blazehowl"
+    },
+    {
+      "child": "NightLady",
+      "parentA": "NightLady",
+      "parentB": "NightLady",
+      "childName": "Bellanoir",
+      "parentAName": "Bellanoir",
+      "parentBName": "Bellanoir"
+    },
+    {
+      "child": "NightLady_Dark",
+      "parentA": "NightLady_Dark",
+      "parentB": "NightLady_Dark",
+      "childName": "Bellanoir Libero",
+      "parentAName": "Bellanoir Libero",
+      "parentBName": "Bellanoir Libero"
+    },
+    {
+      "child": "NightLady",
+      "parentA": "NightLady",
+      "parentB": "NightLady_Dark",
+      "childName": "Bellanoir",
+      "parentAName": "Bellanoir",
+      "parentBName": "Bellanoir Libero"
+    },
+    {
+      "child": "Gorilla_Ground",
+      "parentA": "Gorilla_Ground",
+      "parentB": "Gorilla_Ground",
+      "childName": "Gorirat Terra",
+      "parentAName": "Gorirat Terra",
+      "parentBName": "Gorirat Terra"
+    },
+    {
+      "child": "KingBahamut_Dragon",
+      "parentA": "KingBahamut_Dragon",
+      "parentB": "KingBahamut_Dragon",
+      "childName": "Blazamut Ryu",
+      "parentAName": "Blazamut Ryu",
+      "parentBName": "Blazamut Ryu"
+    },
+    {
+      "child": "FoxMage_Dark",
+      "parentA": "FoxMage_Dark",
+      "parentB": "FoxMage_Dark",
+      "childName": "Wixen Noct",
+      "parentAName": "Wixen Noct",
+      "parentBName": "Wixen Noct"
+    },
+    {
+      "child": "CatMage_Fire",
+      "parentA": "CatMage_Fire",
+      "parentB": "CatMage_Fire",
+      "childName": "Katress Ignis",
+      "parentAName": "Katress Ignis",
+      "parentBName": "Katress Ignis"
+    },
+    {
+      "child": "HerculesBeetle_Ground",
+      "parentA": "HerculesBeetle_Ground",
+      "parentB": "HerculesBeetle_Ground",
+      "childName": "Warsect Terra",
+      "parentAName": "Warsect Terra",
+      "parentBName": "Warsect Terra"
+    },
+    {
+      "child": "WeaselDragon_Fire",
+      "parentA": "WeaselDragon_Fire",
+      "parentB": "WeaselDragon_Fire",
+      "childName": "Chillet Ignis",
+      "parentAName": "Chillet Ignis",
+      "parentBName": "Chillet Ignis"
+    },
+    {
+      "child": "SkyDragon_Grass",
+      "parentA": "SkyDragon_Grass",
+      "parentB": "SkyDragon_Grass",
+      "childName": "Quivern Botan",
+      "parentAName": "Quivern Botan",
+      "parentBName": "Quivern Botan"
+    },
+    {
+      "child": "HadesBird_Electric",
+      "parentA": "HadesBird_Electric",
+      "parentB": "HadesBird_Electric",
+      "childName": "Helzephyr Lux",
+      "parentAName": "Helzephyr Lux",
+      "parentBName": "Helzephyr Lux"
+    },
+    {
+      "child": "Ronin_Dark",
+      "parentA": "Ronin_Dark",
+      "parentB": "Ronin_Dark",
+      "childName": "Bushi Noct",
+      "parentAName": "Bushi Noct",
+      "parentBName": "Bushi Noct"
+    },
+    {
+      "child": "DarkScorpion_Ground",
+      "parentA": "DarkScorpion_Ground",
+      "parentB": "DarkScorpion_Ground",
+      "childName": "Menasting Terra",
+      "parentAName": "Menasting Terra",
+      "parentBName": "Menasting Terra"
+    },
+    {
+      "child": "MimicDog",
+      "parentA": "MimicDog",
+      "parentB": "MimicDog",
+      "childName": "Mimog",
+      "parentAName": "Mimog",
+      "parentBName": "Mimog"
+    },
+    {
+      "child": "FoxMage_Dark",
+      "parentA": "CatMage",
+      "parentB": "FoxMage",
+      "childName": "Wixen Noct",
+      "parentAName": "Katress",
+      "parentBName": "Wixen"
+    },
+    {
+      "child": "CatMage_Fire",
+      "parentA": "CatMage",
+      "parentB": "FoxMage",
+      "childName": "Katress Ignis",
+      "parentAName": "Katress",
+      "parentBName": "Wixen"
+    },
+    {
+      "child": "Gorilla_Ground",
+      "parentA": "Gorilla",
+      "parentB": "SmallArmadillo",
+      "childName": "Gorirat Terra",
+      "parentAName": "Gorirat",
+      "parentBName": "Kikit"
+    },
+    {
+      "child": "WeaselDragon_Fire",
+      "parentA": "WeaselDragon",
+      "parentB": "FlameBuffalo",
+      "childName": "Chillet Ignis",
+      "parentAName": "Chillet",
+      "parentBName": "Arsox"
+    },
+    {
+      "child": "SkyDragon_Grass",
+      "parentA": "SkyDragon",
+      "parentB": "LeafPrincess",
+      "childName": "Quivern Botan",
+      "parentAName": "Quivern",
+      "parentBName": "Lullu"
+    },
+    {
+      "child": "HadesBird_Electric",
+      "parentA": "HadesBird",
+      "parentB": "ThunderBird",
+      "childName": "Helzephyr Lux",
+      "parentAName": "Helzephyr",
+      "parentBName": "Beakon"
+    },
+    {
+      "child": "Ronin_Dark",
+      "parentA": "Ronin",
+      "parentB": "CandleGhost",
+      "childName": "Bushi Noct",
+      "parentAName": "Bushi",
+      "parentBName": "Sootseer"
+    },
+    {
+      "child": "DarkScorpion_Ground",
+      "parentA": "DarkScorpion",
+      "parentB": "WingGolem",
+      "childName": "Menasting Terra",
+      "parentAName": "Menasting",
+      "parentBName": "Knocklem"
+    },
+    {
+      "child": "MoonQueen",
+      "parentA": "MoonQueen",
+      "parentB": "MoonQueen",
+      "childName": "Selyne",
+      "parentAName": "Selyne",
+      "parentBName": "Selyne"
+    },
+    {
+      "child": "DarkAlien",
+      "parentA": "DarkAlien",
+      "parentB": "DarkAlien",
+      "childName": "Xenovader",
+      "parentAName": "Xenovader",
+      "parentBName": "Xenovader"
+    },
+    {
+      "child": "WhiteAlienDragon",
+      "parentA": "WhiteAlienDragon",
+      "parentB": "WhiteAlienDragon",
+      "childName": "Xenogard",
+      "parentAName": "Xenogard",
+      "parentBName": "Xenogard"
+    },
+    {
+      "child": "DarkMechaDragon",
+      "parentA": "DarkMechaDragon",
+      "parentB": "DarkMechaDragon",
+      "childName": "Xenolord",
+      "parentAName": "Xenolord",
+      "parentBName": "Xenolord"
+    },
+    {
+      "child": "SnowTigerBeastman",
+      "parentA": "SnowTigerBeastman",
+      "parentB": "SnowTigerBeastman",
+      "childName": "Bastigor",
+      "parentAName": "Bastigor",
+      "parentBName": "Bastigor"
+    },
+    {
+      "child": "Kitsunebi_Ice",
+      "parentA": "Kitsunebi",
+      "parentB": "IceFox",
+      "childName": "Foxparks Cryst",
+      "parentAName": "Foxparks",
+      "parentBName": "Foxcicle"
+    },
+    {
+      "child": "RaijinDaughter_Water",
+      "parentA": "RaijinDaughter",
+      "parentB": "MysteryMask",
+      "childName": "Dazzi Noct",
+      "parentAName": "Dazzi",
+      "parentBName": "Omascul"
+    },
+    {
+      "child": "WhiteTiger_Ground",
+      "parentA": "WhiteTiger",
+      "parentB": "FeatherOstrich",
+      "childName": "Cryolinx Terra",
+      "parentAName": "Cryolinx",
+      "parentBName": "Dazemu"
+    },
+    {
+      "child": "FengyunDeeper_Electric",
+      "parentA": "FengyunDeeper",
+      "parentB": "BlueThunderHorse",
+      "childName": "Fenglope Lux",
+      "parentAName": "Fenglope",
+      "parentBName": "Azurmane"
+    },
+    {
+      "child": "BerryGoat_Dark",
+      "parentA": "BerryGoat",
+      "parentB": "PurpleSpider",
+      "childName": "Caprity Noct",
+      "parentAName": "Caprity",
+      "parentBName": "Tarantriss"
+    },
+    {
+      "child": "Werewolf_Ice",
+      "parentA": "Werewolf",
+      "parentB": "MopKing",
+      "childName": "Loupmoon Cryst",
+      "parentAName": "Loupmoon",
+      "parentBName": "Sweepa"
+    },
+    {
+      "child": "Horus_Water",
+      "parentA": "Horus",
+      "parentB": "Umihebi",
+      "childName": "Faleris Aqua",
+      "parentAName": "Faleris",
+      "parentBName": "Jormuntide"
+    },
+    {
+      "child": "PinkRabbit_Grass",
+      "parentA": "PinkRabbit",
+      "parentB": "LittleBriarRose",
+      "childName": "Ribbuny Botan",
+      "parentAName": "Ribbuny",
+      "parentBName": "Bristla"
+    },
+    {
+      "child": "HerculesBeetle_Ground",
+      "parentA": "HerculesBeetle",
+      "parentB": "DrillGame",
+      "childName": "Warsect Terra",
+      "parentAName": "Warsect",
+      "parentBName": "Digtoise"
+    },
+    {
+      "child": "AmaterasuWolf_Dark",
+      "parentA": "AmaterasuWolf",
+      "parentB": "BadCatgirl",
+      "childName": "Kitsun Noct",
+      "parentAName": "Kitsun",
+      "parentBName": "Nyafia"
+    },
+    {
+      "child": "Kitsunebi_Ice",
+      "parentA": "Kitsunebi_Ice",
+      "parentB": "Kitsunebi_Ice",
+      "childName": "Foxparks Cryst",
+      "parentAName": "Foxparks Cryst",
+      "parentBName": "Foxparks Cryst"
+    },
+    {
+      "child": "RaijinDaughter_Water",
+      "parentA": "RaijinDaughter_Water",
+      "parentB": "RaijinDaughter_Water",
+      "childName": "Dazzi Noct",
+      "parentAName": "Dazzi Noct",
+      "parentBName": "Dazzi Noct"
+    },
+    {
+      "child": "WhiteTiger_Ground",
+      "parentA": "WhiteTiger_Ground",
+      "parentB": "WhiteTiger_Ground",
+      "childName": "Cryolinx Terra",
+      "parentAName": "Cryolinx Terra",
+      "parentBName": "Cryolinx Terra"
+    },
+    {
+      "child": "FengyunDeeper_Electric",
+      "parentA": "FengyunDeeper_Electric",
+      "parentB": "FengyunDeeper_Electric",
+      "childName": "Fenglope Lux",
+      "parentAName": "Fenglope Lux",
+      "parentBName": "Fenglope Lux"
+    },
+    {
+      "child": "BerryGoat_Dark",
+      "parentA": "BerryGoat_Dark",
+      "parentB": "BerryGoat_Dark",
+      "childName": "Caprity Noct",
+      "parentAName": "Caprity Noct",
+      "parentBName": "Caprity Noct"
+    },
+    {
+      "child": "Werewolf_Ice",
+      "parentA": "Werewolf_Ice",
+      "parentB": "Werewolf_Ice",
+      "childName": "Loupmoon Cryst",
+      "parentAName": "Loupmoon Cryst",
+      "parentBName": "Loupmoon Cryst"
+    },
+    {
+      "child": "Horus_Water",
+      "parentA": "Horus_Water",
+      "parentB": "Horus_Water",
+      "childName": "Faleris Aqua",
+      "parentAName": "Faleris Aqua",
+      "parentBName": "Faleris Aqua"
+    },
+    {
+      "child": "PinkRabbit_Grass",
+      "parentA": "PinkRabbit_Grass",
+      "parentB": "PinkRabbit_Grass",
+      "childName": "Ribbuny Botan",
+      "parentAName": "Ribbuny Botan",
+      "parentBName": "Ribbuny Botan"
+    },
+    {
+      "child": "HerculesBeetle_Ground",
+      "parentA": "HerculesBeetle_Ground",
+      "parentB": "HerculesBeetle_Ground",
+      "childName": "Warsect Terra",
+      "parentAName": "Warsect Terra",
+      "parentBName": "Warsect Terra"
+    },
+    {
+      "child": "AmaterasuWolf_Dark",
+      "parentA": "AmaterasuWolf_Dark",
+      "parentB": "AmaterasuWolf_Dark",
+      "childName": "Kitsun Noct",
+      "parentAName": "Kitsun Noct",
+      "parentBName": "Kitsun Noct"
+    },
+    {
+      "child": "WhiteDeer",
+      "parentA": "GoldenHorse",
+      "parentB": "Deer_Ground",
+      "childName": "Celesdir",
+      "parentAName": "Gildane",
+      "parentBName": "Eikthyrdeer Terra"
+    },
+    {
+      "child": "WhiteDeer",
+      "parentA": "WhiteDeer",
+      "parentB": "WhiteDeer",
+      "childName": "Celesdir",
+      "parentAName": "Celesdir",
+      "parentBName": "Celesdir"
+    },
+    {
+      "child": "YakushimaMonster001",
+      "parentA": "YakushimaMonster001",
+      "parentB": "YakushimaMonster001",
+      "childName": "Green Slime",
+      "parentAName": "Green Slime",
+      "parentBName": "Green Slime"
+    },
+    {
+      "child": "YakushimaMonster001_Blue",
+      "parentA": "YakushimaMonster001",
+      "parentB": "YakushimaMonster001_Blue",
+      "childName": "Blue Slime",
+      "parentAName": "Green Slime",
+      "parentBName": "Blue Slime"
+    },
+    {
+      "child": "YakushimaMonster001_Red",
+      "parentA": "YakushimaMonster001",
+      "parentB": "YakushimaMonster001_Red",
+      "childName": "Red Slime",
+      "parentAName": "Green Slime",
+      "parentBName": "Red Slime"
+    },
+    {
+      "child": "YakushimaMonster001_Purple",
+      "parentA": "YakushimaMonster001",
+      "parentB": "YakushimaMonster001_Purple",
+      "childName": "Purple Slime",
+      "parentAName": "Green Slime",
+      "parentBName": "Purple Slime"
+    },
+    {
+      "child": "YakushimaMonster001_Pink",
+      "parentA": "YakushimaMonster001",
+      "parentB": "YakushimaMonster001_Pink",
+      "childName": "Illuminant Slime",
+      "parentAName": "Green Slime",
+      "parentBName": "Illuminant Slime"
+    },
+    {
+      "child": "YakushimaMonster001_Rainbow",
+      "parentA": "YakushimaMonster001",
+      "parentB": "YakushimaMonster001_Rainbow",
+      "childName": "Rainbow Slime",
+      "parentAName": "Green Slime",
+      "parentBName": "Rainbow Slime"
+    },
+    {
+      "child": "YakushimaMonster002",
+      "parentA": "YakushimaMonster001",
+      "parentB": "YakushimaMonster002",
+      "childName": "Enchanted Sword",
+      "parentAName": "Green Slime",
+      "parentBName": "Enchanted Sword"
+    },
+    {
+      "child": "YakushimaMonster001_Rainbow",
+      "parentA": "YakushimaMonster001",
+      "parentB": "YakushimaMonster003",
+      "childName": "Rainbow Slime",
+      "parentAName": "Green Slime",
+      "parentBName": "Cave Bat"
+    },
+    {
+      "child": "YakushimaMonster001_Rainbow",
+      "parentA": "YakushimaMonster001",
+      "parentB": "YakushimaMonster003_Purple",
+      "childName": "Rainbow Slime",
+      "parentAName": "Green Slime",
+      "parentBName": "Illuminant Bat"
+    },
+    {
+      "child": "YakushimaBoss001",
+      "parentA": "YakushimaMonster001",
+      "parentB": "YakushimaBoss001",
+      "childName": "Eye of Cthulhu",
+      "parentAName": "Green Slime",
+      "parentBName": "Eye of Cthulhu"
+    },
+    {
+      "child": "YakushimaBoss001_Small",
+      "parentA": "YakushimaMonster001",
+      "parentB": "YakushimaBoss001_Small",
+      "childName": "Demon Eye",
+      "parentAName": "Green Slime",
+      "parentBName": "Demon Eye"
+    },
+    {
+      "child": "YakushimaMonster001_Blue",
+      "parentA": "YakushimaMonster001_Blue",
+      "parentB": "YakushimaMonster001_Blue",
+      "childName": "Blue Slime",
+      "parentAName": "Blue Slime",
+      "parentBName": "Blue Slime"
+    },
+    {
+      "child": "YakushimaMonster001_Purple",
+      "parentA": "YakushimaMonster001_Blue",
+      "parentB": "YakushimaMonster001_Red",
+      "childName": "Purple Slime",
+      "parentAName": "Blue Slime",
+      "parentBName": "Red Slime"
+    },
+    {
+      "child": "YakushimaMonster001_Purple",
+      "parentA": "YakushimaMonster001_Blue",
+      "parentB": "YakushimaMonster001_Purple",
+      "childName": "Purple Slime",
+      "parentAName": "Blue Slime",
+      "parentBName": "Purple Slime"
+    },
+    {
+      "child": "YakushimaMonster001_Pink",
+      "parentA": "YakushimaMonster001_Blue",
+      "parentB": "YakushimaMonster001_Pink",
+      "childName": "Illuminant Slime",
+      "parentAName": "Blue Slime",
+      "parentBName": "Illuminant Slime"
+    },
+    {
+      "child": "YakushimaMonster001_Rainbow",
+      "parentA": "YakushimaMonster001_Blue",
+      "parentB": "YakushimaMonster001_Rainbow",
+      "childName": "Rainbow Slime",
+      "parentAName": "Blue Slime",
+      "parentBName": "Rainbow Slime"
+    },
+    {
+      "child": "YakushimaMonster002",
+      "parentA": "YakushimaMonster001_Blue",
+      "parentB": "YakushimaMonster002",
+      "childName": "Enchanted Sword",
+      "parentAName": "Blue Slime",
+      "parentBName": "Enchanted Sword"
+    },
+    {
+      "child": "YakushimaMonster001_Rainbow",
+      "parentA": "YakushimaMonster001_Blue",
+      "parentB": "YakushimaMonster003",
+      "childName": "Rainbow Slime",
+      "parentAName": "Blue Slime",
+      "parentBName": "Cave Bat"
+    },
+    {
+      "child": "YakushimaMonster001_Rainbow",
+      "parentA": "YakushimaMonster001_Blue",
+      "parentB": "YakushimaMonster003_Purple",
+      "childName": "Rainbow Slime",
+      "parentAName": "Blue Slime",
+      "parentBName": "Illuminant Bat"
+    },
+    {
+      "child": "YakushimaBoss001",
+      "parentA": "YakushimaMonster001_Blue",
+      "parentB": "YakushimaBoss001",
+      "childName": "Eye of Cthulhu",
+      "parentAName": "Blue Slime",
+      "parentBName": "Eye of Cthulhu"
+    },
+    {
+      "child": "YakushimaBoss001_Small",
+      "parentA": "YakushimaMonster001_Blue",
+      "parentB": "YakushimaBoss001_Small",
+      "childName": "Demon Eye",
+      "parentAName": "Blue Slime",
+      "parentBName": "Demon Eye"
+    },
+    {
+      "child": "YakushimaMonster001_Red",
+      "parentA": "YakushimaMonster001_Red",
+      "parentB": "YakushimaMonster001_Red",
+      "childName": "Red Slime",
+      "parentAName": "Red Slime",
+      "parentBName": "Red Slime"
+    },
+    {
+      "child": "YakushimaMonster001_Purple",
+      "parentA": "YakushimaMonster001_Red",
+      "parentB": "YakushimaMonster001_Purple",
+      "childName": "Purple Slime",
+      "parentAName": "Red Slime",
+      "parentBName": "Purple Slime"
+    },
+    {
+      "child": "YakushimaMonster001_Pink",
+      "parentA": "YakushimaMonster001_Red",
+      "parentB": "YakushimaMonster001_Pink",
+      "childName": "Illuminant Slime",
+      "parentAName": "Red Slime",
+      "parentBName": "Illuminant Slime"
+    },
+    {
+      "child": "YakushimaMonster001_Rainbow",
+      "parentA": "YakushimaMonster001_Red",
+      "parentB": "YakushimaMonster001_Rainbow",
+      "childName": "Rainbow Slime",
+      "parentAName": "Red Slime",
+      "parentBName": "Rainbow Slime"
+    },
+    {
+      "child": "YakushimaMonster002",
+      "parentA": "YakushimaMonster001_Red",
+      "parentB": "YakushimaMonster002",
+      "childName": "Enchanted Sword",
+      "parentAName": "Red Slime",
+      "parentBName": "Enchanted Sword"
+    },
+    {
+      "child": "YakushimaMonster001_Rainbow",
+      "parentA": "YakushimaMonster001_Red",
+      "parentB": "YakushimaMonster003",
+      "childName": "Rainbow Slime",
+      "parentAName": "Red Slime",
+      "parentBName": "Cave Bat"
+    },
+    {
+      "child": "YakushimaMonster001_Rainbow",
+      "parentA": "YakushimaMonster001_Red",
+      "parentB": "YakushimaMonster003_Purple",
+      "childName": "Rainbow Slime",
+      "parentAName": "Red Slime",
+      "parentBName": "Illuminant Bat"
+    },
+    {
+      "child": "YakushimaBoss001",
+      "parentA": "YakushimaMonster001_Red",
+      "parentB": "YakushimaBoss001",
+      "childName": "Eye of Cthulhu",
+      "parentAName": "Red Slime",
+      "parentBName": "Eye of Cthulhu"
+    },
+    {
+      "child": "YakushimaBoss001_Small",
+      "parentA": "YakushimaMonster001_Red",
+      "parentB": "YakushimaBoss001_Small",
+      "childName": "Demon Eye",
+      "parentAName": "Red Slime",
+      "parentBName": "Demon Eye"
+    },
+    {
+      "child": "YakushimaMonster001_Purple",
+      "parentA": "YakushimaMonster001_Purple",
+      "parentB": "YakushimaMonster001_Purple",
+      "childName": "Purple Slime",
+      "parentAName": "Purple Slime",
+      "parentBName": "Purple Slime"
+    },
+    {
+      "child": "YakushimaMonster001_Pink",
+      "parentA": "YakushimaMonster001_Purple",
+      "parentB": "YakushimaMonster001_Pink",
+      "childName": "Illuminant Slime",
+      "parentAName": "Purple Slime",
+      "parentBName": "Illuminant Slime"
+    },
+    {
+      "child": "YakushimaMonster001_Rainbow",
+      "parentA": "YakushimaMonster001_Purple",
+      "parentB": "YakushimaMonster001_Rainbow",
+      "childName": "Rainbow Slime",
+      "parentAName": "Purple Slime",
+      "parentBName": "Rainbow Slime"
+    },
+    {
+      "child": "YakushimaMonster002",
+      "parentA": "YakushimaMonster001_Purple",
+      "parentB": "YakushimaMonster002",
+      "childName": "Enchanted Sword",
+      "parentAName": "Purple Slime",
+      "parentBName": "Enchanted Sword"
+    },
+    {
+      "child": "YakushimaMonster003_Purple",
+      "parentA": "YakushimaMonster001_Purple",
+      "parentB": "YakushimaMonster003",
+      "childName": "Illuminant Bat",
+      "parentAName": "Purple Slime",
+      "parentBName": "Cave Bat"
+    },
+    {
+      "child": "YakushimaMonster003_Purple",
+      "parentA": "YakushimaMonster001_Purple",
+      "parentB": "YakushimaMonster003_Purple",
+      "childName": "Illuminant Bat",
+      "parentAName": "Purple Slime",
+      "parentBName": "Illuminant Bat"
+    },
+    {
+      "child": "YakushimaBoss001",
+      "parentA": "YakushimaMonster001_Purple",
+      "parentB": "YakushimaBoss001",
+      "childName": "Eye of Cthulhu",
+      "parentAName": "Purple Slime",
+      "parentBName": "Eye of Cthulhu"
+    },
+    {
+      "child": "YakushimaBoss001_Small",
+      "parentA": "YakushimaMonster001_Purple",
+      "parentB": "YakushimaBoss001_Small",
+      "childName": "Demon Eye",
+      "parentAName": "Purple Slime",
+      "parentBName": "Demon Eye"
+    },
+    {
+      "child": "YakushimaMonster001_Pink",
+      "parentA": "YakushimaMonster001_Pink",
+      "parentB": "YakushimaMonster001_Pink",
+      "childName": "Illuminant Slime",
+      "parentAName": "Illuminant Slime",
+      "parentBName": "Illuminant Slime"
+    },
+    {
+      "child": "YakushimaMonster001_Rainbow",
+      "parentA": "YakushimaMonster001_Pink",
+      "parentB": "YakushimaMonster001_Rainbow",
+      "childName": "Rainbow Slime",
+      "parentAName": "Illuminant Slime",
+      "parentBName": "Rainbow Slime"
+    },
+    {
+      "child": "YakushimaMonster002",
+      "parentA": "YakushimaMonster001_Pink",
+      "parentB": "YakushimaMonster002",
+      "childName": "Enchanted Sword",
+      "parentAName": "Illuminant Slime",
+      "parentBName": "Enchanted Sword"
+    },
+    {
+      "child": "YakushimaMonster001_Rainbow",
+      "parentA": "YakushimaMonster001_Pink",
+      "parentB": "YakushimaMonster003",
+      "childName": "Rainbow Slime",
+      "parentAName": "Illuminant Slime",
+      "parentBName": "Cave Bat"
+    },
+    {
+      "child": "YakushimaMonster001_Rainbow",
+      "parentA": "YakushimaMonster001_Pink",
+      "parentB": "YakushimaMonster003_Purple",
+      "childName": "Rainbow Slime",
+      "parentAName": "Illuminant Slime",
+      "parentBName": "Illuminant Bat"
+    },
+    {
+      "child": "YakushimaBoss001",
+      "parentA": "YakushimaMonster001_Pink",
+      "parentB": "YakushimaBoss001",
+      "childName": "Eye of Cthulhu",
+      "parentAName": "Illuminant Slime",
+      "parentBName": "Eye of Cthulhu"
+    },
+    {
+      "child": "YakushimaBoss001_Small",
+      "parentA": "YakushimaMonster001_Pink",
+      "parentB": "YakushimaBoss001_Small",
+      "childName": "Demon Eye",
+      "parentAName": "Illuminant Slime",
+      "parentBName": "Demon Eye"
+    },
+    {
+      "child": "YakushimaMonster001_Rainbow",
+      "parentA": "YakushimaMonster001_Rainbow",
+      "parentB": "YakushimaMonster001_Rainbow",
+      "childName": "Rainbow Slime",
+      "parentAName": "Rainbow Slime",
+      "parentBName": "Rainbow Slime"
+    },
+    {
+      "child": "YakushimaMonster001_Rainbow",
+      "parentA": "YakushimaMonster001_Rainbow",
+      "parentB": "YakushimaMonster002",
+      "childName": "Rainbow Slime",
+      "parentAName": "Rainbow Slime",
+      "parentBName": "Enchanted Sword"
+    },
+    {
+      "child": "YakushimaMonster001_Rainbow",
+      "parentA": "YakushimaMonster001_Rainbow",
+      "parentB": "YakushimaMonster003",
+      "childName": "Rainbow Slime",
+      "parentAName": "Rainbow Slime",
+      "parentBName": "Cave Bat"
+    },
+    {
+      "child": "YakushimaMonster001_Rainbow",
+      "parentA": "YakushimaMonster001_Rainbow",
+      "parentB": "YakushimaMonster003_Purple",
+      "childName": "Rainbow Slime",
+      "parentAName": "Rainbow Slime",
+      "parentBName": "Illuminant Bat"
+    },
+    {
+      "child": "YakushimaBoss001",
+      "parentA": "YakushimaMonster001_Rainbow",
+      "parentB": "YakushimaBoss001",
+      "childName": "Eye of Cthulhu",
+      "parentAName": "Rainbow Slime",
+      "parentBName": "Eye of Cthulhu"
+    },
+    {
+      "child": "YakushimaBoss001_Small",
+      "parentA": "YakushimaMonster001_Rainbow",
+      "parentB": "YakushimaBoss001_Small",
+      "childName": "Demon Eye",
+      "parentAName": "Rainbow Slime",
+      "parentBName": "Demon Eye"
+    },
+    {
+      "child": "YakushimaMonster002",
+      "parentA": "YakushimaMonster002",
+      "parentB": "YakushimaMonster002",
+      "childName": "Enchanted Sword",
+      "parentAName": "Enchanted Sword",
+      "parentBName": "Enchanted Sword"
+    },
+    {
+      "child": "YakushimaMonster002",
+      "parentA": "YakushimaMonster002",
+      "parentB": "YakushimaMonster003",
+      "childName": "Enchanted Sword",
+      "parentAName": "Enchanted Sword",
+      "parentBName": "Cave Bat"
+    },
+    {
+      "child": "YakushimaMonster002",
+      "parentA": "YakushimaMonster002",
+      "parentB": "YakushimaMonster003_Purple",
+      "childName": "Enchanted Sword",
+      "parentAName": "Enchanted Sword",
+      "parentBName": "Illuminant Bat"
+    },
+    {
+      "child": "YakushimaBoss001",
+      "parentA": "YakushimaMonster002",
+      "parentB": "YakushimaBoss001",
+      "childName": "Eye of Cthulhu",
+      "parentAName": "Enchanted Sword",
+      "parentBName": "Eye of Cthulhu"
+    },
+    {
+      "child": "YakushimaBoss001_Small",
+      "parentA": "YakushimaMonster002",
+      "parentB": "YakushimaBoss001_Small",
+      "childName": "Demon Eye",
+      "parentAName": "Enchanted Sword",
+      "parentBName": "Demon Eye"
+    },
+    {
+      "child": "YakushimaMonster003",
+      "parentA": "YakushimaMonster003",
+      "parentB": "YakushimaMonster003",
+      "childName": "Cave Bat",
+      "parentAName": "Cave Bat",
+      "parentBName": "Cave Bat"
+    },
+    {
+      "child": "YakushimaMonster003_Purple",
+      "parentA": "YakushimaMonster003",
+      "parentB": "YakushimaMonster003_Purple",
+      "childName": "Illuminant Bat",
+      "parentAName": "Cave Bat",
+      "parentBName": "Illuminant Bat"
+    },
+    {
+      "child": "YakushimaBoss001",
+      "parentA": "YakushimaMonster003",
+      "parentB": "YakushimaBoss001",
+      "childName": "Eye of Cthulhu",
+      "parentAName": "Cave Bat",
+      "parentBName": "Eye of Cthulhu"
+    },
+    {
+      "child": "YakushimaBoss001_Small",
+      "parentA": "YakushimaMonster003",
+      "parentB": "YakushimaBoss001_Small",
+      "childName": "Demon Eye",
+      "parentAName": "Cave Bat",
+      "parentBName": "Demon Eye"
+    },
+    {
+      "child": "YakushimaMonster003_Purple",
+      "parentA": "YakushimaMonster003_Purple",
+      "parentB": "YakushimaMonster003_Purple",
+      "childName": "Illuminant Bat",
+      "parentAName": "Illuminant Bat",
+      "parentBName": "Illuminant Bat"
+    },
+    {
+      "child": "YakushimaBoss001",
+      "parentA": "YakushimaMonster003_Purple",
+      "parentB": "YakushimaBoss001",
+      "childName": "Eye of Cthulhu",
+      "parentAName": "Illuminant Bat",
+      "parentBName": "Eye of Cthulhu"
+    },
+    {
+      "child": "YakushimaBoss001_Small",
+      "parentA": "YakushimaMonster003_Purple",
+      "parentB": "YakushimaBoss001_Small",
+      "childName": "Demon Eye",
+      "parentAName": "Illuminant Bat",
+      "parentBName": "Demon Eye"
+    },
+    {
+      "child": "YakushimaBoss001",
+      "parentA": "YakushimaBoss001",
+      "parentB": "YakushimaBoss001",
+      "childName": "Eye of Cthulhu",
+      "parentAName": "Eye of Cthulhu",
+      "parentBName": "Eye of Cthulhu"
+    },
+    {
+      "child": "YakushimaBoss001",
+      "parentA": "YakushimaBoss001",
+      "parentB": "YakushimaBoss001_Small",
+      "childName": "Eye of Cthulhu",
+      "parentAName": "Eye of Cthulhu",
+      "parentBName": "Demon Eye"
+    },
+    {
+      "child": "YakushimaBoss001_Small",
+      "parentA": "YakushimaBoss001_Small",
+      "parentB": "YakushimaBoss001_Small",
+      "childName": "Demon Eye",
+      "parentAName": "Demon Eye",
+      "parentBName": "Demon Eye"
+    },
+    {
+      "child": "NegativeOctopus_Neutral",
+      "parentA": "NegativeOctopus_Neutral",
+      "parentB": "NegativeOctopus_Neutral",
+      "childName": "Killamari Primo",
+      "parentAName": "Killamari Primo",
+      "parentBName": "Killamari Primo"
+    },
+    {
+      "child": "Penguin_Electric",
+      "parentA": "Penguin_Electric",
+      "parentB": "Penguin_Electric",
+      "childName": "Pengullet Lux",
+      "parentAName": "Pengullet Lux",
+      "parentBName": "Pengullet Lux"
+    },
+    {
+      "child": "CaptainPenguin_Black",
+      "parentA": "CaptainPenguin_Black",
+      "parentB": "CaptainPenguin_Black",
+      "childName": "Penking Lux",
+      "parentAName": "Penking Lux",
+      "parentBName": "Penking Lux"
+    },
+    {
+      "child": "FlyingManta_Thunder",
+      "parentA": "FlyingManta_Thunder",
+      "parentB": "FlyingManta_Thunder",
+      "childName": "Celaray Lux",
+      "parentAName": "Celaray Lux",
+      "parentBName": "Celaray Lux"
+    },
+    {
+      "child": "BluePlatypus_Fire",
+      "parentA": "BluePlatypus_Fire",
+      "parentB": "BluePlatypus_Fire",
+      "childName": "Fuack Ignis",
+      "parentAName": "Fuack Ignis",
+      "parentBName": "Fuack Ignis"
+    },
+    {
+      "child": "LazyCatfish_Gold",
+      "parentA": "LazyCatfish_Gold",
+      "parentB": "LazyCatfish_Gold",
+      "childName": "Dumud Gild",
+      "parentAName": "Dumud Gild",
+      "parentBName": "Dumud Gild"
+    },
+    {
+      "child": "TentacleTurtle_Ground",
+      "parentA": "TentacleTurtle_Ground",
+      "parentB": "TentacleTurtle_Ground",
+      "childName": "Turtacle Terra",
+      "parentAName": "Turtacle Terra",
+      "parentBName": "Turtacle Terra"
+    },
+    {
+      "child": "KendoFrog_Dark",
+      "parentA": "KendoFrog_Dark",
+      "parentB": "KendoFrog_Dark",
+      "childName": "Croajiro Noct",
+      "parentAName": "Croajiro Noct",
+      "parentBName": "Croajiro Noct"
+    },
+    {
+      "child": "BlueDragon_Ice",
+      "parentA": "BlueDragon_Ice",
+      "parentB": "BlueDragon_Ice",
+      "childName": "Azurobe Cryst",
+      "parentAName": "Azurobe Cryst",
+      "parentBName": "Azurobe Cryst"
+    },
+    {
+      "child": "IceNarwhal_Fire",
+      "parentA": "IceNarwhal_Fire",
+      "parentB": "IceNarwhal_Fire",
+      "childName": "Whalaska Ignis",
+      "parentAName": "Whalaska Ignis",
+      "parentBName": "Whalaska Ignis"
+    },
+    {
+      "child": "GhostAnglerfish_Fire",
+      "parentA": "GhostAnglerfish_Fire",
+      "parentB": "GhostAnglerfish_Fire",
+      "childName": "Ghangler Ignis",
+      "parentAName": "Ghangler Ignis",
+      "parentBName": "Ghangler Ignis"
+    },
+    {
+      "child": "StuffedShark_Fire",
+      "parentA": "StuffedShark_Fire",
+      "parentB": "StuffedShark_Fire",
+      "childName": "Finsider Ignis",
+      "parentAName": "Finsider Ignis",
+      "parentBName": "Finsider Ignis"
+    },
+    {
+      "child": "PoseidonOrca",
+      "parentA": "PoseidonOrca",
+      "parentB": "PoseidonOrca",
+      "childName": "Neptilius",
+      "parentAName": "Neptilius",
+      "parentBName": "Neptilius"
+    },
+    {
+      "child": "NegativeOctopus_Neutral",
+      "parentA": "NegativeOctopus",
+      "parentB": "PinkRabbit",
+      "childName": "Killamari Primo",
+      "parentAName": "Killamari",
+      "parentBName": "Ribbuny"
+    },
+    {
+      "child": "Penguin_Electric",
+      "parentA": "Penguin",
+      "parentB": "ElecCat",
+      "childName": "Pengullet Lux",
+      "parentAName": "Pengullet",
+      "parentBName": "Sparkit"
+    },
+    {
+      "child": "CaptainPenguin_Black",
+      "parentA": "CaptainPenguin",
+      "parentB": "ThunderDog",
+      "childName": "Penking Lux",
+      "parentAName": "Penking",
+      "parentBName": "Rayhound"
+    },
+    {
+      "child": "FlyingManta_Thunder",
+      "parentA": "FlyingManta",
+      "parentB": "Kirin",
+      "childName": "Celaray Lux",
+      "parentAName": "Celaray",
+      "parentBName": "Univolt"
+    },
+    {
+      "child": "BluePlatypus_Fire",
+      "parentA": "BluePlatypus",
+      "parentB": "LavaGirl",
+      "childName": "Fuack Ignis",
+      "parentAName": "Fuack",
+      "parentBName": "Flambelle"
+    },
+    {
+      "child": "LazyCatfish_Gold",
+      "parentA": "LazyCatfish",
+      "parentB": "Deer_Ground",
+      "childName": "Dumud Gild",
+      "parentAName": "Dumud",
+      "parentBName": "Eikthyrdeer Terra"
+    },
+    {
+      "child": "TentacleTurtle_Ground",
+      "parentA": "TentacleTurtle",
+      "parentB": "DrillGame",
+      "childName": "Turtacle Terra",
+      "parentAName": "Turtacle",
+      "parentBName": "Digtoise"
+    },
+    {
+      "child": "KendoFrog_Dark",
+      "parentA": "KendoFrog",
+      "parentB": "Ronin_Dark",
+      "childName": "Croajiro Noct",
+      "parentAName": "Croajiro",
+      "parentBName": "Bushi Noct"
+    },
+    {
+      "child": "BlueDragon_Ice",
+      "parentA": "BlueDragon",
+      "parentB": "SnowPeafowl",
+      "childName": "Azurobe Cryst",
+      "parentAName": "Azurobe",
+      "parentBName": "Frostplume"
+    },
+    {
+      "child": "IceNarwhal_Fire",
+      "parentA": "IceNarwhal",
+      "parentB": "WeaselDragon_Fire",
+      "childName": "Whalaska Ignis",
+      "parentAName": "Whalaska",
+      "parentBName": "Chillet Ignis"
+    },
+    {
+      "child": "GhostAnglerfish_Fire",
+      "parentA": "GhostAnglerfish",
+      "parentB": "CandleGhost",
+      "childName": "Ghangler Ignis",
+      "parentAName": "Ghangler",
+      "parentBName": "Sootseer"
+    },
+    {
+      "child": "StuffedShark_Fire",
+      "parentA": "StuffedShark",
+      "parentB": "SharkKid_Fire",
+      "childName": "Finsider Ignis",
+      "parentAName": "Finsider",
+      "parentBName": "Gobfin Ignis"
+    },
+    {
+      "child": "LegendDeer",
+      "parentA": "LegendDeer",
+      "parentB": "LegendDeer",
+      "childName": "Hartalis",
+      "parentAName": "Hartalis",
+      "parentBName": "Hartalis"
+    },
+    {
+      "child": "Monkey_Fire",
+      "parentA": "Monkey_Fire",
+      "parentB": "Monkey_Fire",
+      "childName": "Tanzee Ignis",
+      "parentAName": "Tanzee Ignis",
+      "parentBName": "Tanzee Ignis"
+    },
+    {
+      "child": "Kirin_Ice",
+      "parentA": "Kirin_Ice",
+      "parentB": "Kirin_Ice",
+      "childName": "Univolt Cryst",
+      "parentAName": "Univolt Cryst",
+      "parentBName": "Univolt Cryst"
+    },
+    {
+      "child": "ThunderDog_Ice",
+      "parentA": "ThunderDog_Ice",
+      "parentB": "ThunderDog_Ice",
+      "childName": "Rayhound Cryst",
+      "parentAName": "Rayhound Cryst",
+      "parentBName": "Rayhound Cryst"
+    },
+    {
+      "child": "ThunderBird_Ice",
+      "parentA": "ThunderBird_Ice",
+      "parentB": "ThunderBird_Ice",
+      "childName": "Beakon Cryst",
+      "parentAName": "Beakon Cryst",
+      "parentBName": "Beakon Cryst"
+    },
+    {
+      "child": "SweetsSheep_Ground",
+      "parentA": "SweetsSheep_Ground",
+      "parentB": "SweetsSheep_Ground",
+      "childName": "Woolipop Terra",
+      "parentAName": "Woolipop Terra",
+      "parentBName": "Woolipop Terra"
+    },
+    {
+      "child": "ScorpionMan_Electric",
+      "parentA": "ScorpionMan_Electric",
+      "parentB": "ScorpionMan_Electric",
+      "childName": "Prixter Lux",
+      "parentAName": "Prixter Lux",
+      "parentBName": "Prixter Lux"
+    },
+    {
+      "child": "BlackPuppy_Ice",
+      "parentA": "BlackPuppy_Ice",
+      "parentB": "BlackPuppy_Ice",
+      "childName": "Smokie Cryst",
+      "parentAName": "Smokie Cryst",
+      "parentBName": "Smokie Cryst"
+    },
+    {
+      "child": "GhostRabbit_Grass",
+      "parentA": "GhostRabbit_Grass",
+      "parentB": "GhostRabbit_Grass",
+      "childName": "Nitemary Botan",
+      "parentAName": "Nitemary Botan",
+      "parentBName": "Nitemary Botan"
+    },
+    {
+      "child": "NightBlueHorse_Neutral",
+      "parentA": "NightBlueHorse_Neutral",
+      "parentB": "NightBlueHorse_Neutral",
+      "childName": "Starryon Primo",
+      "parentAName": "Starryon Primo",
+      "parentBName": "Starryon Primo"
+    },
+    {
+      "child": "OctopusGirl_Neutral",
+      "parentA": "OctopusGirl_Neutral",
+      "parentB": "OctopusGirl_Neutral",
+      "childName": "Gloopie Primo",
+      "parentAName": "Gloopie Primo",
+      "parentBName": "Gloopie Primo"
+    },
+    {
+      "child": "WhiteMoth_Neutral",
+      "parentA": "WhiteMoth_Neutral",
+      "parentB": "WhiteMoth_Neutral",
+      "childName": "Sibelyx Primo",
+      "parentAName": "Sibelyx Primo",
+      "parentBName": "Sibelyx Primo"
+    },
+    {
+      "child": "WingGolem_Fire",
+      "parentA": "WingGolem_Fire",
+      "parentB": "WingGolem_Fire",
+      "childName": "Knocklem Ignis",
+      "parentAName": "Knocklem Ignis",
+      "parentBName": "Knocklem Ignis"
+    },
+    {
+      "child": "FlowerDoll_Fire",
+      "parentA": "FlowerDoll_Fire",
+      "parentB": "FlowerDoll_Fire",
+      "childName": "Petallia Ignis",
+      "parentAName": "Petallia Ignis",
+      "parentBName": "Petallia Ignis"
+    },
+    {
+      "child": "WhiteDeer_Dark",
+      "parentA": "WhiteDeer_Dark",
+      "parentB": "WhiteDeer_Dark",
+      "childName": "Celesdir Noct",
+      "parentAName": "Celesdir Noct",
+      "parentBName": "Celesdir Noct"
+    },
+    {
+      "child": "IceSeal_Ground",
+      "parentA": "IceSeal_Ground",
+      "parentB": "IceSeal_Ground",
+      "childName": "Polapup Terra",
+      "parentAName": "Polapup Terra",
+      "parentBName": "Polapup Terra"
+    },
+    {
+      "child": "KingSunfish_Thunder",
+      "parentA": "KingSunfish_Thunder",
+      "parentB": "KingSunfish_Thunder",
+      "childName": "Solmora Lux",
+      "parentAName": "Solmora Lux",
+      "parentBName": "Solmora Lux"
+    },
+    {
+      "child": "GrassGolem_Dark",
+      "parentA": "GrassGolem_Dark",
+      "parentB": "GrassGolem_Dark",
+      "childName": "Dualith Noct",
+      "parentAName": "Dualith Noct",
+      "parentBName": "Dualith Noct"
+    },
+    {
+      "child": "CubeTurtle_Neutral",
+      "parentA": "CubeTurtle_Neutral",
+      "parentB": "CubeTurtle_Neutral",
+      "childName": "Tetroise Primo",
+      "parentAName": "Tetroise Primo",
+      "parentBName": "Tetroise Primo"
+    },
+    {
+      "child": "GhostDragon_Fire",
+      "parentA": "GhostDragon_Fire",
+      "parentB": "GhostDragon_Fire",
+      "childName": "Eidrolon Ignis",
+      "parentAName": "Eidrolon Ignis",
+      "parentBName": "Eidrolon Ignis"
+    },
+    {
+      "child": "VolcanoDragon_Ice",
+      "parentA": "VolcanoDragon_Ice",
+      "parentB": "VolcanoDragon_Ice",
+      "childName": "Moldron Cryst",
+      "parentAName": "Moldron Cryst",
+      "parentBName": "Moldron Cryst"
+    },
+    {
+      "child": "RockBeast_Ice",
+      "parentA": "RockBeast_Ice",
+      "parentB": "RockBeast_Ice",
+      "childName": "Pierdon Cryst",
+      "parentAName": "Pierdon Cryst",
+      "parentBName": "Pierdon Cryst"
+    },
+    {
+      "child": "SwordCutlassfish_Fire",
+      "parentA": "SwordCutlassfish_Fire",
+      "parentB": "SwordCutlassfish_Fire",
+      "childName": "Skutlass Ignis",
+      "parentAName": "Skutlass Ignis",
+      "parentBName": "Skutlass Ignis"
+    },
+    {
+      "child": "ElecSnail_Ground",
+      "parentA": "ElecSnail_Ground",
+      "parentB": "ElecSnail_Ground",
+      "childName": "Snock Terra",
+      "parentAName": "Snock Terra",
+      "parentBName": "Snock Terra"
+    },
+    {
+      "child": "CactusDoll_Dark",
+      "parentA": "CactusDoll_Dark",
+      "parentB": "CactusDoll_Dark",
+      "childName": "Needoll Noct",
+      "parentAName": "Needoll Noct",
+      "parentBName": "Needoll Noct"
+    },
+    {
+      "child": "GrassMinotaur_Ice",
+      "parentA": "GrassMinotaur_Ice",
+      "parentB": "GrassMinotaur_Ice",
+      "childName": "Elgrove Cryst",
+      "parentAName": "Elgrove Cryst",
+      "parentBName": "Elgrove Cryst"
+    },
+    {
+      "child": "Monkey_Fire",
+      "parentA": "Monkey",
+      "parentB": "LavaGirl",
+      "childName": "Tanzee Ignis",
+      "parentAName": "Tanzee",
+      "parentBName": "Flambelle"
+    },
+    {
+      "child": "Kirin_Ice",
+      "parentA": "Kirin",
+      "parentB": "SnowPeafowl",
+      "childName": "Univolt Cryst",
+      "parentAName": "Univolt",
+      "parentBName": "Frostplume"
+    },
+    {
+      "child": "ThunderDog_Ice",
+      "parentA": "ThunderDog",
+      "parentB": "IceFox",
+      "childName": "Rayhound Cryst",
+      "parentAName": "Rayhound",
+      "parentBName": "Foxcicle"
+    },
+    {
+      "child": "ThunderBird_Ice",
+      "parentA": "ThunderBird",
+      "parentB": "SnowPeafowl",
+      "childName": "Beakon Cryst",
+      "parentAName": "Beakon",
+      "parentBName": "Frostplume"
+    },
+    {
+      "child": "SweetsSheep_Ground",
+      "parentA": "SweetsSheep",
+      "parentB": "SmallArmadillo",
+      "childName": "Woolipop Terra",
+      "parentAName": "Woolipop",
+      "parentBName": "Kikit"
+    },
+    {
+      "child": "ScorpionMan_Electric",
+      "parentA": "ScorpionMan",
+      "parentB": "HadesBird_Electric",
+      "childName": "Prixter Lux",
+      "parentAName": "Prixter",
+      "parentBName": "Helzephyr Lux"
+    },
+    {
+      "child": "BlackPuppy_Ice",
+      "parentA": "BlackPuppy",
+      "parentB": "IceCrocodile",
+      "childName": "Smokie Cryst",
+      "parentAName": "Smokie",
+      "parentBName": "Munchill"
+    },
+    {
+      "child": "GhostRabbit_Grass",
+      "parentA": "GhostRabbit",
+      "parentB": "FlowerDoll",
+      "childName": "Nitemary Botan",
+      "parentAName": "Nitemary",
+      "parentBName": "Petallia"
+    },
+    {
+      "child": "NightBlueHorse_Neutral",
+      "parentA": "NightBlueHorse",
+      "parentB": "WhiteDeer",
+      "childName": "Starryon Primo",
+      "parentAName": "Starryon",
+      "parentBName": "Celesdir"
+    },
+    {
+      "child": "OctopusGirl_Neutral",
+      "parentA": "OctopusGirl",
+      "parentB": "LongCat",
+      "childName": "Gloopie Primo",
+      "parentAName": "Gloopie",
+      "parentBName": "Valentail"
+    },
+    {
+      "child": "WhiteMoth_Neutral",
+      "parentA": "WhiteMoth",
+      "parentB": "SleeveRabbit",
+      "childName": "Sibelyx Primo",
+      "parentAName": "Sibelyx",
+      "parentBName": "Lapure"
+    },
+    {
+      "child": "WingGolem_Fire",
+      "parentA": "WingGolem",
+      "parentB": "RedArmorBird",
+      "childName": "Knocklem Ignis",
+      "parentAName": "Knocklem",
+      "parentBName": "Ragnahawk"
+    },
+    {
+      "child": "FlowerDoll_Fire",
+      "parentA": "FlowerDoll",
+      "parentB": "Ronin",
+      "childName": "Petallia Ignis",
+      "parentAName": "Petallia",
+      "parentBName": "Bushi"
+    },
+    {
+      "child": "WhiteDeer_Dark",
+      "parentA": "WhiteDeer",
+      "parentB": "AmaterasuWolf_Dark",
+      "childName": "Celesdir Noct",
+      "parentAName": "Celesdir",
+      "parentBName": "Kitsun Noct"
+    },
+    {
+      "child": "IceSeal_Ground",
+      "parentA": "IceSeal",
+      "parentB": "Serpent_Ground",
+      "childName": "Polapup Terra",
+      "parentAName": "Polapup",
+      "parentBName": "Surfent Terra"
+    },
+    {
+      "child": "KingSunfish_Thunder",
+      "parentA": "KingSunfish",
+      "parentB": "ElecLizard",
+      "childName": "Solmora Lux",
+      "parentAName": "Solmora",
+      "parentBName": "Slowatt"
+    },
+    {
+      "child": "GrassGolem_Dark",
+      "parentA": "GrassGolem",
+      "parentB": "CandleGhost",
+      "childName": "Dualith Noct",
+      "parentAName": "Dualith",
+      "parentBName": "Sootseer"
+    },
+    {
+      "child": "GhostDragon_Fire",
+      "parentA": "GhostDragon",
+      "parentB": "Suzaku",
+      "childName": "Eidrolon Ignis",
+      "parentAName": "Eidrolon",
+      "parentBName": "Suzaku"
+    },
+    {
+      "child": "VolcanoDragon_Ice",
+      "parentA": "VolcanoDragon",
+      "parentB": "VolcanicMonster_Ice",
+      "childName": "Moldron Cryst",
+      "parentAName": "Moldron",
+      "parentBName": "Reptyro Cryst"
+    },
+    {
+      "child": "RockBeast_Ice",
+      "parentA": "RockBeast",
+      "parentB": "Yeti",
+      "childName": "Pierdon Cryst",
+      "parentAName": "Pierdon",
+      "parentBName": "Wumpo"
+    },
+    {
+      "child": "SwordCutlassfish_Fire",
+      "parentA": "SwordCutlassfish",
+      "parentB": "SharkKid_Fire",
+      "childName": "Skutlass Ignis",
+      "parentAName": "Skutlass",
+      "parentBName": "Gobfin Ignis"
+    },
+    {
+      "child": "ElecSnail_Ground",
+      "parentA": "ElecSnail",
+      "parentB": "TentacleTurtle_Ground",
+      "childName": "Snock Terra",
+      "parentAName": "Snock",
+      "parentBName": "Turtacle Terra"
+    },
+    {
+      "child": "CactusDoll_Dark",
+      "parentA": "CactusDoll",
+      "parentB": "BlueberryFairy",
+      "childName": "Needoll Noct",
+      "parentAName": "Needoll",
+      "parentBName": "Prunelia"
+    },
+    {
+      "child": "GrassMinotaur_Ice",
+      "parentA": "GrassMinotaur",
+      "parentB": "RockBeast_Ice",
+      "childName": "Elgrove Cryst",
+      "parentAName": "Elgrove",
+      "parentBName": "Pierdon Cryst"
+    },
+    {
+      "child": "BlueSkyDragon",
+      "parentA": "BlueSkyDragon",
+      "parentB": "BlueSkyDragon",
+      "childName": "Shaolong",
+      "parentAName": "Shaolong",
+      "parentBName": "Shaolong"
+    },
+    {
+      "child": "FlowerPrince",
+      "parentA": "FlowerPrince",
+      "parentB": "FlowerPrince",
+      "childName": "Dandilord",
+      "parentAName": "Dandilord",
+      "parentBName": "Dandilord"
+    },
+    {
+      "child": "Mothman",
+      "parentA": "Mothman",
+      "parentB": "Mothman",
+      "childName": "Silvance",
+      "parentAName": "Silvance",
+      "parentBName": "Silvance"
+    }
+  ]
+}
