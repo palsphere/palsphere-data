@@ -4,7 +4,7 @@ Structured Palworld game data in JSON and CSV: every Pal species, item, crafting
 
 This dataset powers [PalSphere](https://palsphere.app), a free Palworld database with a [breeding calculator](https://palsphere.app/breeding), [PalDex](https://palsphere.app/dex), [interactive map](https://palsphere.app/map), and [item encyclopedia](https://palsphere.app/items).
 
-- **Game version:** Palworld 1.0.3
+- **Game version:** Palworld 1.0.5
 - **Contract:** `sphere-data/v1` (stable IDs and field names within v1)
 - **Updates:** synced weekly from [palsphere.app/data](https://palsphere.app/data) after each game patch
 - **Methodology:** [how the data is extracted and checked](https://palsphere.app/methodology)

@@ -2,11 +2,11 @@
   "contract": "sphere-data/v1",
   "site": "palsphere",
   "siteUrl": "https://palsphere.app",
-  "revision": "2026-09-30T14:24:00.303Z",
-  "extractedAt": "2026-09-30T14:24:00.303Z",
+  "revision": "2026-10-03T17:19:16.557Z",
+  "extractedAt": "2026-10-03T17:19:16.557Z",
   "game": {
     "name": "Palworld",
-    "version": "1.0.3"
+    "version": "1.0.5"
   },
   "sourceLabel": "Palworld client data tables",
   "license": {

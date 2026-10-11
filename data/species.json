@@ -1,8 +1,8 @@
 {
   "contract": "sphere-data/v1",
   "site": "palsphere",
-  "extractedAt": "2026-09-30T14:24:00.303Z",
-  "gameVersion": "1.0.3",
+  "extractedAt": "2026-10-03T17:19:16.557Z",
+  "gameVersion": "1.0.5",
   "count": 333,
   "species": [
     {
@@ -18332,9 +18332,9 @@
       ],
       "partnerSkill": {
         "title": "Warm Body",
-        "description": "Can be ridden. While in party, the player gains\nCold Resistance +2. (Does not stack)",
+        "description": "Can be ridden. While in party,the player gains\nCold Resistance +2. (Does not stack)",
         "descriptionSections": [
-          "Can be ridden. While in party, the player gains Cold Resistance +2. (Does not stack)"
+          "Can be ridden. While in party,the player gains Cold Resistance +2. (Does not stack)"
         ],
         "appendEffects": [
           {
@@ -39503,7 +39503,7 @@
       "genderRatio": 50,
       "rarity": 5,
       "size": "S",
-      "maxFullStomach": 450,
+      "maxFullStomach": 140,
       "stats": {
         "hp": 85,
         "meleeAttack": 100,
@@ -46731,10 +46731,10 @@
         "defense": 100,
         "support": 100,
         "stamina": 100,
-        "walkSpeed": -1,
-        "runSpeed": -1,
-        "rideSprintSpeed": -1,
-        "transportSpeed": -1
+        "walkSpeed": 200,
+        "runSpeed": 350,
+        "rideSprintSpeed": 500,
+        "transportSpeed": 280
       },
       "workSuitability": [
         {
@@ -47316,10 +47316,10 @@
         "defense": 100,
         "support": 100,
         "stamina": 100,
-        "walkSpeed": -1,
-        "runSpeed": -1,
-        "rideSprintSpeed": -1,
-        "transportSpeed": -1
+        "walkSpeed": 100,
+        "runSpeed": 450,
+        "rideSprintSpeed": 600,
+        "transportSpeed": 250
       },
       "workSuitability": [
         {
@@ -47377,8 +47377,8 @@
         "defense": 100,
         "support": 100,
         "stamina": 100,
-        "walkSpeed": -1,
-        "runSpeed": -1,
+        "walkSpeed": 110,
+        "runSpeed": 260,
         "rideSprintSpeed": -1,
         "transportSpeed": -1
       },
