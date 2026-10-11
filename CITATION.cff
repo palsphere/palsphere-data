@@ -6,6 +6,7 @@ authors:
   - name: "PalSphere"
     website: "https://palsphere.app"
 url: "https://palsphere.app/data"
+repository-code: "https://github.com/palsphere/palsphere-data"
 abstract: "Structured Palworld game data (species, items, recipes, skills, unique breeding combinations) extracted from the Palworld client data tables, in JSON and CSV."
 keywords:
   - palworld

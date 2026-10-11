@@ -32,7 +32,7 @@ Python:
 ```python
 import pandas as pd
 
-species = pd.read_csv("https://raw.githubusercontent.com/<owner>/palsphere-data/main/data/species.csv")
+species = pd.read_csv("https://raw.githubusercontent.com/palsphere/palsphere-data/main/data/species.csv")
 print(species[species["elements"].str.contains("Dark")].head())
 ```
 
